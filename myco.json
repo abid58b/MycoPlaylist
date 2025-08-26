@@ -1,6 +1,6 @@
 {
   "Author": "Abid",
-  "last_update": "26-08-2025 : 10:19:06",
+  "last_update": "26-08-2025 : 21:15:43",
   "total_links": 27,
   "category_counts": {
     "Live_Event": 7,
@@ -170,7 +170,7 @@
         "url": "https://myco.io/videohome/682b148af45ebaf27e090808",
         "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-12jpg-1751381381157.webp&w=3840&q=30",
         "name": "h now tv",
-        "m3u8_url": "https://ml-pull-hwc.myco.io/h-now/hls/index.m3u8"
+        "m3u8_url": "https://ml-pull-hwc.myco.io/h-now/hls/index.m3u8\\"
       }
     ]
   }
