@@ -1,6 +1,6 @@
 {
   "Author": "Abid",
-  "last_update": "27-08-2025 : 17:03:09",
+  "last_update": "27-08-2025 : 23:03:38",
   "total_links": 24,
   "category_counts": {
     "Live_Event": 5,
@@ -21,12 +21,6 @@
         "m3u8_url": "https://ml-pull-rtmp-pk1.myco.io/EPLPK8/hls/index.m3u8"
       },
       {
-        "url": "https://myco.io/videohome/68ab459cdd46d59f0b06d3f9",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250824%2Fmycolive-LIVE_THUMBpng-1756054939333.webp&w=3840&q=30",
-        "name": "Brighton vs Man City | Matchday-3 of English Premier League 2025-26 | only on myco",
-        "m3u8_url": "https://ml-pull-rtmp-pk1.myco.io/EPLPK7/hls/index.m3u8"
-      },
-      {
         "url": "https://myco.io/videohome/68ab05837d36020fea12f01d",
         "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250824%2Fmycolive-LIVE_THUMBpng-1756038530197.webp&w=3840&q=30",
         "name": "Leeds United vs Newcastle | Matchday-3 of  English Premier League 2025-26 | only on myco",
@@ -39,22 +33,10 @@
         "m3u8_url": "https://ml-pull-rtmp-pk1.myco.io/EPLPK5/hls/index.m3u8"
       },
       {
-        "url": "https://myco.io/videohome/68ab00f5dd46d59f0b0666c2",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250824%2Fmycolive-LIVE_THUMBpng-1756037364147.webp&w=3840&q=30",
-        "name": "Tottenham  vs  Bournemouth | Matchday-3 of  English Premier League 2025-26 | only on myco",
-        "m3u8_url": "https://ml-pull-rtmp-pk1.myco.io/EPLPK4/hls/index.m3u8"
-      },
-      {
         "url": "https://myco.io/videohome/68aafe432eabd9a205aecf51",
         "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250824%2Fmycolive-LIVE_THUMBpng-1756036674145.webp&w=3840&q=30",
         "name": "Sunderland vs Brentford | Matchday-3 of  English Premier League 2025-26 | only on myco",
         "m3u8_url": "https://ml-pull-rtmp-pk1.myco.io/EPLPK3/hls/index.m3u8"
-      },
-      {
-        "url": "https://myco.io/videohome/68aafcc6aec3c1342b644c6b",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250824%2Fmycolive-LIVE_THUMBpng-1756036293096.webp&w=3840&q=30",
-        "name": "Man United vs Burnley | Matchday-3 of  English Premier League 2025-26 | only on myco",
-        "m3u8_url": "https://ml-pull-rtmp-pk1.myco.io/EPLPK2/hls/index.m3u8"
       }
     ],
     "Channels": [
@@ -171,12 +153,6 @@
         "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-4jpg-1751381286619.webp&w=3840&q=30",
         "name": "Aaj News",
         "m3u8_url": "https://myco.telflex.net:8088/AAJNEWS_FHD/video.m3u8?token=KsR3k27_sH3n-2"
-      },
-      {
-        "url": "https://myco.io/videohome/682b148af45ebaf27e090808",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-12jpg-1751381381157.webp&w=3840&q=30",
-        "name": "h now tv",
-        "m3u8_url": "https://ml-pull-hwc.myco.io/h-now/hls/index.m3u8"
       }
     ]
   }
