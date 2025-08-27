@@ -1,13 +1,19 @@
 {
   "Author": "Abid",
-  "last_update": "27-08-2025 : 13:20:39",
-  "total_links": 27,
+  "last_update": "27-08-2025 : 17:03:09",
+  "total_links": 24,
   "category_counts": {
-    "Live_Event": 7,
-    "Channels": 20
+    "Live_Event": 5,
+    "Channels": 19
   },
   "categories": {
     "Live_Event": [
+      {
+        "url": "https://myco.io/videohome/68aee32d749cd03236939d0a",
+        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250827%2Fmycolive-LIVE_THUMBpng-1756291885198.webp&w=3840&q=30",
+        "name": "Aston Villa vs Crystal Palace | Matchday-3 of English Premier League 2025-26 | only on myco",
+        "m3u8_url": "https://ml-pull-rtmp-pk1.myco.io/EPLPK10/hls/index.m3u8"
+      },
       {
         "url": "https://myco.io/videohome/68ab470a749cd0323691c891",
         "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250824%2Fmycolive-LIVE_THUMBpng-1756055305124.webp&w=3840&q=30",
@@ -170,7 +176,7 @@
         "url": "https://myco.io/videohome/682b148af45ebaf27e090808",
         "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-12jpg-1751381381157.webp&w=3840&q=30",
         "name": "h now tv",
-        "m3u8_url": "https://ml-pull-hwc.myco.io/h-now/hls/index.m3u8\\"
+        "m3u8_url": "https://ml-pull-hwc.myco.io/h-now/hls/index.m3u8"
       }
     ]
   }
