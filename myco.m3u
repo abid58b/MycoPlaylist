@@ -1,16 +1,16 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250827%2Fmycolive-LIVE_THUMBpng-1756291885198.webp&w=3840&q=30" group-title="Live_Event",Aston Villa vs Crystal Palace | Matchday-3 of English Premier League 2025-26 | only on myco
-https://ml-pull-rtmp-pk1.myco.io/EPLPK10/hls/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250824%2Fmycolive-LIVE_THUMBpng-1756055305124.webp&w=3840&q=30" group-title="Live_Event",Nottm Forest vs West Ham  | Matchday-3 of English Premier League 2025-26 | only on myco
-https://ml-pull-rtmp-pk1.myco.io/EPLPK8/hls/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250824%2Fmycolive-LIVE_THUMBpng-1756038530197.webp&w=3840&q=30" group-title="Live_Event",Leeds United vs Newcastle | Matchday-3 of  English Premier League 2025-26 | only on myco
-https://ml-pull-rtmp-pk1.myco.io/EPLPK6/hls/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250824%2Fmycolive-LIVE_THUMBpng-1756037640252.webp&w=3840&q=30" group-title="Live_Event",Wolves vs Everton | Matchday-3 of  English Premier League 2025-26 | only on myco
-https://ml-pull-rtmp-pk1.myco.io/EPLPK5/hls/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250824%2Fmycolive-LIVE_THUMBpng-1756036674145.webp&w=3840&q=30" group-title="Live_Event",Sunderland vs Brentford | Matchday-3 of  English Premier League 2025-26 | only on myco
-https://ml-pull-rtmp-pk1.myco.io/EPLPK3/hls/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250828%2Fmycolive-ThumbLivepng-1756392576162.webp&w=3840&q=30" group-title="Channels",Zimbabwe vs Sri Lanka | 1st Match of ODI  | Live from Zimbabwe | on myco
+#EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250828%2Fmycolive-ThumbLivepng-1756392576162.webp&w=3840&q=30" group-title="Live_Event",Zimbabwe vs Sri Lanka | 1st Match of ODI  | Live from Zimbabwe | on myco
 https://ml-pull-rtmp-pk1.myco.io/ZimvIre/hls/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250829%2Fmycolive-10png-1756461246584.webp&w=3840&q=30" group-title="Live_Event",Aston Villa vs Crystal Palace | Matchday-3 of English Premier League 2025-26 | only on myco
+https://ml-pull-rtmp-pk1.myco.io/EPLPK10/hls/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250829%2Fmycolive-8png-1756461333294.webp&w=3840&q=30" group-title="Live_Event",Nottm Forest vs West Ham  | Matchday-3 of English Premier League 2025-26 | only on myco
+https://ml-pull-rtmp-pk1.myco.io/EPLPK8/hls/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250829%2Fmycolive-6png-1756461401975.webp&w=3840&q=30" group-title="Live_Event",Leeds United vs Newcastle | Matchday-3 of  English Premier League 2025-26 | only on myco
+https://ml-pull-rtmp-pk1.myco.io/EPLPK6/hls/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250829%2Fmycolive-2png-1756461426797.webp&w=3840&q=30" group-title="Live_Event",Wolves vs Everton | Matchday-3 of  English Premier League 2025-26 | only on myco
+https://ml-pull-rtmp-pk1.myco.io/EPLPK5/hls/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250829%2Fmycolive-5png-1756461493008.webp&w=3840&q=30" group-title="Live_Event",Sunderland vs Brentford | Matchday-3 of  English Premier League 2025-26 | only on myco
+https://ml-pull-rtmp-pk1.myco.io/EPLPK3/hls/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250814%2Fmycolive-4jpg-1755192345133.webp&w=3840&q=30" group-title="Channels",Discover Pakistan
 https://myco.telflex.net:8088/DISCOVERPAKISTAN_FHD/video.m3u8?token=KsR3k27_sH3n-2
 #EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250814%2Fmycolive-11jpg-1755175677114.webp&w=3840&q=30" group-title="Channels",BBC Lifestyle
@@ -47,5 +47,3 @@ https://myco.telflex.net:8088/TIMENEWS_FHD/video.m3u8?token=KsR3k27_sH3n-2
 https://myco.telflex.net:8088/MUNTV_FHD/video.m3u8?token=KsR3k27_sH3n-2
 #EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-3jpg-1751381255548.webp&w=3840&q=30" group-title="Channels",Aaj Entertainment
 https://myco.telflex.net:8088/AAJENT_FHD/video.m3u8?token=KsR3k27_sH3n-2
-#EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-4jpg-1751381286619.webp&w=3840&q=30" group-title="Channels",Aaj News
-https://myco.telflex.net:8088/AAJNEWS_FHD/video.m3u8?token=KsR3k27_sH3n-2

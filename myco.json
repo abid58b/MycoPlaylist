@@ -1,51 +1,51 @@
 {
   "Author": "Abid",
-  "last_update": "29-08-2025 : 12:54:45",
+  "last_update": "29-08-2025 : 15:12:35",
   "total_links": 24,
   "category_counts": {
-    "Live_Event": 5,
-    "Channels": 19
+    "Live_Event": 6,
+    "Channels": 18
   },
   "categories": {
     "Live_Event": [
-      {
-        "url": "https://myco.io/videohome/68aee32d749cd03236939d0a",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250827%2Fmycolive-LIVE_THUMBpng-1756291885198.webp&w=3840&q=30",
-        "name": "Aston Villa vs Crystal Palace | Matchday-3 of English Premier League 2025-26 | only on myco",
-        "m3u8_url": "https://ml-pull-rtmp-pk1.myco.io/EPLPK10/hls/index.m3u8"
-      },
-      {
-        "url": "https://myco.io/videohome/68ab470a749cd0323691c891",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250824%2Fmycolive-LIVE_THUMBpng-1756055305124.webp&w=3840&q=30",
-        "name": "Nottm Forest vs West Ham  | Matchday-3 of English Premier League 2025-26 | only on myco",
-        "m3u8_url": "https://ml-pull-rtmp-pk1.myco.io/EPLPK8/hls/index.m3u8"
-      },
-      {
-        "url": "https://myco.io/videohome/68ab05837d36020fea12f01d",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250824%2Fmycolive-LIVE_THUMBpng-1756038530197.webp&w=3840&q=30",
-        "name": "Leeds United vs Newcastle | Matchday-3 of  English Premier League 2025-26 | only on myco",
-        "m3u8_url": "https://ml-pull-rtmp-pk1.myco.io/EPLPK6/hls/index.m3u8"
-      },
-      {
-        "url": "https://myco.io/videohome/68ab0209749cd03236915979",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250824%2Fmycolive-LIVE_THUMBpng-1756037640252.webp&w=3840&q=30",
-        "name": "Wolves vs Everton | Matchday-3 of  English Premier League 2025-26 | only on myco",
-        "m3u8_url": "https://ml-pull-rtmp-pk1.myco.io/EPLPK5/hls/index.m3u8"
-      },
-      {
-        "url": "https://myco.io/videohome/68aafe432eabd9a205aecf51",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250824%2Fmycolive-LIVE_THUMBpng-1756036674145.webp&w=3840&q=30",
-        "name": "Sunderland vs Brentford | Matchday-3 of  English Premier League 2025-26 | only on myco",
-        "m3u8_url": "https://ml-pull-rtmp-pk1.myco.io/EPLPK3/hls/index.m3u8"
-      }
-    ],
-    "Channels": [
       {
         "url": "https://myco.io/videohome/68b035f77d36020fea1609db",
         "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250828%2Fmycolive-ThumbLivepng-1756392576162.webp&w=3840&q=30",
         "name": "Zimbabwe vs Sri Lanka | 1st Match of ODI  | Live from Zimbabwe | on myco",
         "m3u8_url": "https://ml-pull-rtmp-pk1.myco.io/ZimvIre/hls/index.m3u8"
       },
+      {
+        "url": "https://myco.io/videohome/68aee32d749cd03236939d0a",
+        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250829%2Fmycolive-10png-1756461246584.webp&w=3840&q=30",
+        "name": "Aston Villa vs Crystal Palace | Matchday-3 of English Premier League 2025-26 | only on myco",
+        "m3u8_url": "https://ml-pull-rtmp-pk1.myco.io/EPLPK10/hls/index.m3u8"
+      },
+      {
+        "url": "https://myco.io/videohome/68ab470a749cd0323691c891",
+        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250829%2Fmycolive-8png-1756461333294.webp&w=3840&q=30",
+        "name": "Nottm Forest vs West Ham  | Matchday-3 of English Premier League 2025-26 | only on myco",
+        "m3u8_url": "https://ml-pull-rtmp-pk1.myco.io/EPLPK8/hls/index.m3u8"
+      },
+      {
+        "url": "https://myco.io/videohome/68ab05837d36020fea12f01d",
+        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250829%2Fmycolive-6png-1756461401975.webp&w=3840&q=30",
+        "name": "Leeds United vs Newcastle | Matchday-3 of  English Premier League 2025-26 | only on myco",
+        "m3u8_url": "https://ml-pull-rtmp-pk1.myco.io/EPLPK6/hls/index.m3u8"
+      },
+      {
+        "url": "https://myco.io/videohome/68ab0209749cd03236915979",
+        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250829%2Fmycolive-2png-1756461426797.webp&w=3840&q=30",
+        "name": "Wolves vs Everton | Matchday-3 of  English Premier League 2025-26 | only on myco",
+        "m3u8_url": "https://ml-pull-rtmp-pk1.myco.io/EPLPK5/hls/index.m3u8"
+      },
+      {
+        "url": "https://myco.io/videohome/68aafe432eabd9a205aecf51",
+        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250829%2Fmycolive-5png-1756461493008.webp&w=3840&q=30",
+        "name": "Sunderland vs Brentford | Matchday-3 of  English Premier League 2025-26 | only on myco",
+        "m3u8_url": "https://ml-pull-rtmp-pk1.myco.io/EPLPK3/hls/index.m3u8"
+      }
+    ],
+    "Channels": [
       {
         "url": "https://myco.io/videohome/689e1c195135d41bf965b7cb",
         "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250814%2Fmycolive-4jpg-1755192345133.webp&w=3840&q=30",
@@ -153,12 +153,6 @@
         "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-3jpg-1751381255548.webp&w=3840&q=30",
         "name": "Aaj Entertainment",
         "m3u8_url": "https://myco.telflex.net:8088/AAJENT_FHD/video.m3u8?token=KsR3k27_sH3n-2"
-      },
-      {
-        "url": "https://myco.io/videohome/682f1c9595dce935340d76d1",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-4jpg-1751381286619.webp&w=3840&q=30",
-        "name": "Aaj News",
-        "m3u8_url": "https://myco.telflex.net:8088/AAJNEWS_FHD/video.m3u8?token=KsR3k27_sH3n-2"
       }
     ]
   }
