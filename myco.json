@@ -1,6 +1,6 @@
 {
   "Author": "Abid",
-  "last_update": "28-08-2025 : 22:27:33",
+  "last_update": "29-08-2025 : 12:54:45",
   "total_links": 24,
   "category_counts": {
     "Live_Event": 5,
@@ -40,6 +40,12 @@
       }
     ],
     "Channels": [
+      {
+        "url": "https://myco.io/videohome/68b035f77d36020fea1609db",
+        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250828%2Fmycolive-ThumbLivepng-1756392576162.webp&w=3840&q=30",
+        "name": "Zimbabwe vs Sri Lanka | 1st Match of ODI  | Live from Zimbabwe | on myco",
+        "m3u8_url": "https://ml-pull-rtmp-pk1.myco.io/ZimvIre/hls/index.m3u8"
+      },
       {
         "url": "https://myco.io/videohome/689e1c195135d41bf965b7cb",
         "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250814%2Fmycolive-4jpg-1755192345133.webp&w=3840&q=30",

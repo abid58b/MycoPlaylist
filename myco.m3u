@@ -9,6 +9,8 @@ https://ml-pull-rtmp-pk1.myco.io/EPLPK6/hls/index.m3u8
 https://ml-pull-rtmp-pk1.myco.io/EPLPK5/hls/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250824%2Fmycolive-LIVE_THUMBpng-1756036674145.webp&w=3840&q=30" group-title="Live_Event",Sunderland vs Brentford | Matchday-3 of  English Premier League 2025-26 | only on myco
 https://ml-pull-rtmp-pk1.myco.io/EPLPK3/hls/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250828%2Fmycolive-ThumbLivepng-1756392576162.webp&w=3840&q=30" group-title="Channels",Zimbabwe vs Sri Lanka | 1st Match of ODI  | Live from Zimbabwe | on myco
+https://ml-pull-rtmp-pk1.myco.io/ZimvIre/hls/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250814%2Fmycolive-4jpg-1755192345133.webp&w=3840&q=30" group-title="Channels",Discover Pakistan
 https://myco.telflex.net:8088/DISCOVERPAKISTAN_FHD/video.m3u8?token=KsR3k27_sH3n-2
 #EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250814%2Fmycolive-11jpg-1755175677114.webp&w=3840&q=30" group-title="Channels",BBC Lifestyle
