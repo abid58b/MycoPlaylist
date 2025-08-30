@@ -1,12 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250828%2Fmycolive-ThumbLivepng-1756381899455.webp&w=3840&q=30" group-title="Live_Event",Afghanistan vs Pakistan | 1st Match of  Tri Nation | Sharjah Cricket Stadium | on myco
-https://ml-pull-rtmp-pk1.myco.io/Nation/hls/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250829%2Fmycolive-Silver_Day1png-1756489821059.webp&w=3840&q=30" group-title="Channels",Test 29-Aug-2025
-https://ml-pull-hwc.myco.io/EPLBONGO10/hls/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250830%2Fmycolive-thpng-1756546628438.webp&w=3840&q=30" group-title="Channels",Buypass TV
+https://ml-pull-hwc.myco.io/TV/hls/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250829%2Fmycolive-10png-1756461246584.webp&w=3840&q=30" group-title="Channels",Aston Villa vs Crystal Palace | Matchday-3 of English Premier League 2025-26
 https://ml-pull-rtmp-pk1.myco.io/EPLPK10/hls/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250829%2Fmycolive-8png-1756461333294.webp&w=3840&q=30" group-title="Channels",Nottm Forest vs West Ham  | Matchday-3 of English Premier League 2025-26
-https://ml-pull-rtmp-pk1.myco.io/EPLPK8/hls/index.m3u8
+https://ml-pull-rtmp-pk1.myco.io/EPLPK8/hls/index.m3u8\
 #EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250829%2Fmycolive-6png-1756461401975.webp&w=3840&q=30" group-title="Channels",Leeds United vs Newcastle | Matchday-3 of  English Premier League 2025-26
 https://ml-pull-rtmp-pk1.myco.io/EPLPK6/hls/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250829%2Fmycolive-2png-1756461426797.webp&w=3840&q=30" group-title="Channels",Wolves vs Everton | Matchday-3 of  English Premier League 2025-26
@@ -45,3 +43,7 @@ https://ml-pull-hwc.myco.io/stream1/hls/stream1.m3u8
 https://myco.telflex.net:8088/CHANNEL5NEWS_FHD/video.m3u8?token=KsR3k27_sH3n-2
 #EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-18jpg-1751381198697.webp&w=3840&q=30" group-title="Channels",Time News HD
 https://myco.telflex.net:8088/TIMENEWS_FHD/video.m3u8?token=KsR3k27_sH3n-2
+#EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-13jpg-1751381222642.webp&w=3840&q=30" group-title="Channels",MUN TV
+https://myco.telflex.net:8088/MUNTV_FHD/video.m3u8?token=KsR3k27_sH3n-2
+#EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-3jpg-1751381255548.webp&w=3840&q=30" group-title="Channels",Aaj Entertainment
+https://myco.telflex.net:8088/AAJENT_FHD/video.m3u8?token=KsR3k27_sH3n-2
