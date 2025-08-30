@@ -1,10 +1,12 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250830%2Fmycolive-thpng-1756546628438.webp&w=3840&q=30" group-title="Channels",Buypass TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250830%2Fmycolive-ThumbLivepng-1756559778044.webp&w=3840&q=30" group-title="Live_Event",Pakistan vs UAE | 2nd Match of  Tri Nation | Sharjah Cricket Stadium | on myco
+https://ml-pull-rtmp-pk1.myco.io/Nation/hls/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250830%2Fmycolive-mpng-1756564193323.webp&w=3840&q=30" group-title="Channels",Buypass TV
 https://ml-pull-hwc.myco.io/TV/hls/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250829%2Fmycolive-10png-1756461246584.webp&w=3840&q=30" group-title="Channels",Aston Villa vs Crystal Palace | Matchday-3 of English Premier League 2025-26
 https://ml-pull-rtmp-pk1.myco.io/EPLPK10/hls/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250829%2Fmycolive-8png-1756461333294.webp&w=3840&q=30" group-title="Channels",Nottm Forest vs West Ham  | Matchday-3 of English Premier League 2025-26
-https://ml-pull-rtmp-pk1.myco.io/EPLPK8/hls/index.m3u8\
+https://ml-pull-rtmp-pk1.myco.io/EPLPK8/hls/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250829%2Fmycolive-6png-1756461401975.webp&w=3840&q=30" group-title="Channels",Leeds United vs Newcastle | Matchday-3 of  English Premier League 2025-26
 https://ml-pull-rtmp-pk1.myco.io/EPLPK6/hls/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250829%2Fmycolive-2png-1756461426797.webp&w=3840&q=30" group-title="Channels",Wolves vs Everton | Matchday-3 of  English Premier League 2025-26

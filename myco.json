@@ -1,17 +1,24 @@
 {
   "Author": "Abid",
-  "last_update": "30-08-2025 : 17:31:17",
-  "total_links": 24,
+  "last_update": "30-08-2025 : 19:51:41",
+  "total_links": 25,
   "category_counts": {
-    "Live_Event": 0,
+    "Live_Event": 1,
     "Channels": 24
   },
   "categories": {
-    "Live_Event": [],
+    "Live_Event": [
+      {
+        "url": "https://myco.io/videohome/68b2d2168f69a5cc4149451f",
+        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250830%2Fmycolive-ThumbLivepng-1756559778044.webp&w=3840&q=30",
+        "name": "Pakistan vs UAE | 2nd Match of  Tri Nation | Sharjah Cricket Stadium | on myco",
+        "m3u8_url": "https://ml-pull-rtmp-pk1.myco.io/Nation/hls/index.m3u8"
+      }
+    ],
     "Channels": [
       {
         "url": "https://myco.io/videohome/68b2c644be6483581643a61f",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250830%2Fmycolive-thpng-1756546628438.webp&w=3840&q=30",
+        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250830%2Fmycolive-mpng-1756564193323.webp&w=3840&q=30",
         "name": "Buypass TV",
         "m3u8_url": "https://ml-pull-hwc.myco.io/TV/hls/index.m3u8"
       },
@@ -25,7 +32,7 @@
         "url": "https://myco.io/videohome/68ab470a749cd0323691c891",
         "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250829%2Fmycolive-8png-1756461333294.webp&w=3840&q=30",
         "name": "Nottm Forest vs West Ham  | Matchday-3 of English Premier League 2025-26",
-        "m3u8_url": "https://ml-pull-rtmp-pk1.myco.io/EPLPK8/hls/index.m3u8\\"
+        "m3u8_url": "https://ml-pull-rtmp-pk1.myco.io/EPLPK8/hls/index.m3u8"
       },
       {
         "url": "https://myco.io/videohome/68ab05837d36020fea12f01d",
