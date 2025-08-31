@@ -1,56 +1,32 @@
 {
   "Author": "Abid",
-  "last_update": "30-08-2025 : 19:51:41",
-  "total_links": 25,
+  "last_update": "31-08-2025 : 14:33:48",
+  "total_links": 23,
   "category_counts": {
     "Live_Event": 1,
-    "Channels": 24
+    "Channels": 22
   },
   "categories": {
     "Live_Event": [
       {
-        "url": "https://myco.io/videohome/68b2d2168f69a5cc4149451f",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250830%2Fmycolive-ThumbLivepng-1756559778044.webp&w=3840&q=30",
-        "name": "Pakistan vs UAE | 2nd Match of  Tri Nation | Sharjah Cricket Stadium | on myco",
-        "m3u8_url": "https://ml-pull-rtmp-pk1.myco.io/Nation/hls/index.m3u8"
+        "url": "https://myco.io/videohome/68b035f77d36020fea1609db",
+        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250831%2Fmycolive-ThumbLivepng-1756622942431.webp&w=3840&q=30",
+        "name": "Zimbabwe vs Sri Lanka | 1st Match of ODI  | Live from Zimbabwe | on myco",
+        "m3u8_url": "https://ml-pull-rtmp-pk1.myco.io/ZimvIre/hls/index.m3u8\\"
       }
     ],
     "Channels": [
       {
-        "url": "https://myco.io/videohome/68b2c644be6483581643a61f",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250830%2Fmycolive-mpng-1756564193323.webp&w=3840&q=30",
-        "name": "Buypass TV",
-        "m3u8_url": "https://ml-pull-hwc.myco.io/TV/hls/index.m3u8"
-      },
-      {
         "url": "https://myco.io/videohome/68aee32d749cd03236939d0a",
         "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250829%2Fmycolive-10png-1756461246584.webp&w=3840&q=30",
         "name": "Aston Villa vs Crystal Palace | Matchday-3 of English Premier League 2025-26",
-        "m3u8_url": "https://ml-pull-rtmp-pk1.myco.io/EPLPK10/hls/index.m3u8"
+        "m3u8_url": "https://ml-pull-rtmp-pk1.myco.io/EPLPK10/hls/index.m3u8\\"
       },
       {
         "url": "https://myco.io/videohome/68ab470a749cd0323691c891",
         "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250829%2Fmycolive-8png-1756461333294.webp&w=3840&q=30",
         "name": "Nottm Forest vs West Ham  | Matchday-3 of English Premier League 2025-26",
-        "m3u8_url": "https://ml-pull-rtmp-pk1.myco.io/EPLPK8/hls/index.m3u8"
-      },
-      {
-        "url": "https://myco.io/videohome/68ab05837d36020fea12f01d",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250829%2Fmycolive-6png-1756461401975.webp&w=3840&q=30",
-        "name": "Leeds United vs Newcastle | Matchday-3 of  English Premier League 2025-26",
-        "m3u8_url": "https://ml-pull-rtmp-pk1.myco.io/EPLPK6/hls/index.m3u8"
-      },
-      {
-        "url": "https://myco.io/videohome/68ab0209749cd03236915979",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250829%2Fmycolive-2png-1756461426797.webp&w=3840&q=30",
-        "name": "Wolves vs Everton | Matchday-3 of  English Premier League 2025-26",
-        "m3u8_url": "https://ml-pull-rtmp-pk1.myco.io/EPLPK5/hls/index.m3u8"
-      },
-      {
-        "url": "https://myco.io/videohome/68aafe432eabd9a205aecf51",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250829%2Fmycolive-5png-1756461493008.webp&w=3840&q=30",
-        "name": "Sunderland vs Brentford | Matchday-3 of  English Premier League 2025-26",
-        "m3u8_url": "https://ml-pull-rtmp-pk1.myco.io/EPLPK3/hls/index.m3u8"
+        "m3u8_url": "https://ml-pull-rtmp-pk1.myco.io/EPLPK8/hls/index.m3u8\\"
       },
       {
         "url": "https://myco.io/videohome/689e1c195135d41bf965b7cb",
@@ -63,12 +39,6 @@
         "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250814%2Fmycolive-11jpg-1755175677114.webp&w=3840&q=30",
         "name": "BBC Lifestyle",
         "m3u8_url": "https://myco.telflex.net:8088/BBCLIFESTYLE_FHD/index.m3u8"
-      },
-      {
-        "url": "https://myco.io/videohome/689dd7ba5135d41bf965932e",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250814%2Fmycolive-WhatsApp_Image_20250814_at_53344_PMjpeg-1755174841190.webp&w=3840&q=30",
-        "name": "EPL - PROMO",
-        "m3u8_url": "https://ml-pull-hwc.myco.io/PROMO/hls/index.m3u8"
       },
       {
         "url": "https://myco.io/videohome/689c544c5135d41bf96497c3",
@@ -134,7 +104,7 @@
         "url": "https://myco.io/videohome/683837d04af76c0b35ca39e9",
         "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250529%2Fmycolive-myco_Sports_247jpeg-1748514767310.webp&w=3840&q=30",
         "name": "myco sports 24/7",
-        "m3u8_url": "https://ml-pull-hwc.myco.io/stream1/hls/stream1.m3u8"
+        "m3u8_url": "https://ml-pull-hwc.myco.io/stream1/hls/stream1.m3u8\\"
       },
       {
         "url": "https://myco.io/videohome/68382ec7a8a42ec476af2959",
@@ -159,6 +129,24 @@
         "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-3jpg-1751381255548.webp&w=3840&q=30",
         "name": "Aaj Entertainment",
         "m3u8_url": "https://myco.telflex.net:8088/AAJENT_FHD/video.m3u8?token=KsR3k27_sH3n-2"
+      },
+      {
+        "url": "https://myco.io/videohome/682f1c9595dce935340d76d1",
+        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-4jpg-1751381286619.webp&w=3840&q=30",
+        "name": "Aaj News",
+        "m3u8_url": "https://myco.telflex.net:8088/AAJNEWS_FHD/video.m3u8?token=KsR3k27_sH3n-2"
+      },
+      {
+        "url": "https://myco.io/videohome/67764e92c13e0a3cd924cf54",
+        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-8jpg-1751381422278.webp&w=3840&q=30",
+        "name": "Mix Bel Araby",
+        "m3u8_url": "https://ml-pull-hwc.myco.io/MixBelAraby/hls/index.m3u8"
+      },
+      {
+        "url": "https://myco.io/videohome/67764d04d040a3a0e2597a40",
+        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-10jpg-1751381447882.webp&w=3840&q=30",
+        "name": "Mix ONE",
+        "m3u8_url": "https://ml-pull-hwc.myco.io/MixONE/hls/index.m3u8"
       }
     ]
   }
