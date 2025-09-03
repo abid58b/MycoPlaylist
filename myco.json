@@ -1,10 +1,10 @@
 {
   "Author": "Abid",
-  "last_update": "03-09-2025 : 18:08:59",
-  "total_links": 29,
+  "last_update": "03-09-2025 : 19:06:55",
+  "total_links": 30,
   "category_counts": {
     "Live": 11,
-    "Channels": 18
+    "Channels": 19
   },
   "categories": {
     "Live": [
@@ -83,6 +83,12 @@
         "m3u8_url": "https://ml-pull-hwc.myco.io/TV/hls/index.m3u8"
       },
       {
+        "url": "https://myco.io/videohome/689e1c195135d41bf965b7cb",
+        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250814%2Fmycolive-4jpg-1755192345133.webp&w=3840&q=30",
+        "name": "Discover Pakistan",
+        "m3u8_url": "https://myco.telflex.net:8088/DISCOVERPAKISTAN_FHD/video.m3u8?token=KsR3k27_sH3n-2"
+      },
+      {
         "url": "https://myco.io/videohome/689dda3f3f4c9b18f4a24a0e",
         "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250814%2Fmycolive-11jpg-1755175677114.webp&w=3840&q=30",
         "name": "BBC Lifestyle",
@@ -92,7 +98,7 @@
         "url": "https://myco.io/videohome/689dd7ba5135d41bf965932e",
         "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250814%2Fmycolive-WhatsApp_Image_20250814_at_53344_PMjpeg-1755174841190.webp&w=3840&q=30",
         "name": "EPL - PROMO",
-        "m3u8_url": "https://ml-pull-hwc.myco.io/PROMO/hls/index.m3u8\\"
+        "m3u8_url": "https://ml-pull-hwc.myco.io/PROMO/hls/index.m3u8"
       },
       {
         "url": "https://myco.io/videohome/689c544c5135d41bf96497c3",
