@@ -1,13 +1,19 @@
 {
   "Author": "Abid",
-  "last_update": "03-09-2025 : 14:23:16",
+  "last_update": "03-09-2025 : 18:08:59",
   "total_links": 29,
   "category_counts": {
-    "Live": 9,
-    "Channels": 20
+    "Live": 11,
+    "Channels": 18
   },
   "categories": {
     "Live": [
+      {
+        "url": "https://myco.io/videohome/68b81ac0a4684f9e3a78089a",
+        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250903%2Fmycolive-ThumbLivepng-1756895936361.webp&w=3840&q=30",
+        "name": "Zimbabwe vs Sri Lanka | 1st Match of  T20I | Live from Zimbabwe | on mycost",
+        "m3u8_url": "https://ml-pull-rtmp-pk1.myco.io/ZimvIre/hls/index.m3u8"
+      },
       {
         "url": "https://myco.io/videohome/68b4af5ebe6483581648db62",
         "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250831%2Fmycolive-NO_LIVE_THUMBpng-1756671837129.webp&w=3840&q=30",
@@ -45,6 +51,12 @@
         "m3u8_url": "https://ml-pull-hwc.myco.io/PROMO/hls/index.m3u8"
       },
       {
+        "url": "https://myco.io/videohome/68b4aa23283fbe1adddaf3a7",
+        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250831%2Fmycolive-NO_LIVE_THUMBpng-1756670498575.webp&w=3840&q=30",
+        "name": "Everton vs Aston villa | Matchday-4 of  English Premier League 2025-26",
+        "m3u8_url": "https://ml-pull-hwc.myco.io/PROMO/hls/index.m3u8"
+      },
+      {
         "url": "https://myco.io/videohome/68b4a8ffc0eb75a5788ac71c",
         "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250831%2Fmycolive-NO_LIVE_THUMBpng-1756670206084.webp&w=3840&q=30",
         "name": "Crystal Palace vs Sunderland | Matchday-4 of  English Premier League 2025-26",
@@ -71,12 +83,6 @@
         "m3u8_url": "https://ml-pull-hwc.myco.io/TV/hls/index.m3u8"
       },
       {
-        "url": "https://myco.io/videohome/689e1c195135d41bf965b7cb",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250814%2Fmycolive-4jpg-1755192345133.webp&w=3840&q=30",
-        "name": "Discover Pakistan",
-        "m3u8_url": "https://myco.telflex.net:8088/DISCOVERPAKISTAN_FHD/video.m3u8?token=KsR3k27_sH3n-2"
-      },
-      {
         "url": "https://myco.io/videohome/689dda3f3f4c9b18f4a24a0e",
         "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250814%2Fmycolive-11jpg-1755175677114.webp&w=3840&q=30",
         "name": "BBC Lifestyle",
@@ -86,7 +92,7 @@
         "url": "https://myco.io/videohome/689dd7ba5135d41bf965932e",
         "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250814%2Fmycolive-WhatsApp_Image_20250814_at_53344_PMjpeg-1755174841190.webp&w=3840&q=30",
         "name": "EPL - PROMO",
-        "m3u8_url": "https://ml-pull-hwc.myco.io/PROMO/hls/index.m3u8"
+        "m3u8_url": "https://ml-pull-hwc.myco.io/PROMO/hls/index.m3u8\\"
       },
       {
         "url": "https://myco.io/videohome/689c544c5135d41bf96497c3",
@@ -177,12 +183,6 @@
         "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-3jpg-1751381255548.webp&w=3840&q=30",
         "name": "Aaj Entertainment",
         "m3u8_url": "https://myco.telflex.net:8088/AAJENT_FHD/video.m3u8?token=KsR3k27_sH3n-2"
-      },
-      {
-        "url": "https://myco.io/videohome/682f1c9595dce935340d76d1",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-4jpg-1751381286619.webp&w=3840&q=30",
-        "name": "Aaj News",
-        "m3u8_url": "https://myco.telflex.net:8088/AAJNEWS_FHD/video.m3u8?token=KsR3k27_sH3n-2"
       }
     ]
   }
