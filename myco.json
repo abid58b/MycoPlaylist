@@ -1,19 +1,13 @@
 {
   "Author": "Abid",
-  "last_update": "02-09-2025 : 22:04:07",
+  "last_update": "03-09-2025 : 14:23:16",
   "total_links": 29,
   "category_counts": {
-    "Live": 11,
-    "Channels": 18
+    "Live": 9,
+    "Channels": 20
   },
   "categories": {
     "Live": [
-      {
-        "url": "https://myco.io/videohome/68b6e4e6283fbe1adddd8053",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250902%2Fmycolive-ThumbLivepng-1756816614948.webp&w=3840&q=30",
-        "name": "Pakistan vs Afghanistan | 4th Match of  Tri Nation | Sharjah Cricket Stadium | on myco",
-        "m3u8_url": "https://ml-pull-rtmp-pk1.myco.io/Nation/hls/index.m3u8"
-      },
       {
         "url": "https://myco.io/videohome/68b4af5ebe6483581648db62",
         "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250831%2Fmycolive-NO_LIVE_THUMBpng-1756671837129.webp&w=3840&q=30",
@@ -30,7 +24,7 @@
         "url": "https://myco.io/videohome/68b4adffc0eb75a5788acaa7",
         "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250831%2Fmycolive-NO_LIVE_THUMBpng-1756671486072.webp&w=3840&q=30",
         "name": "Brentford vs Chelsea | Matchday-4 of  English Premier League 2025-26",
-        "m3u8_url": "https://ml-pull-hwc.myco.io/PROMO/hls/index.m3u8\\"
+        "m3u8_url": "https://ml-pull-hwc.myco.io/PROMO/hls/index.m3u8"
       },
       {
         "url": "https://myco.io/videohome/68b4ad5cc0eb75a5788aca45",
@@ -48,12 +42,6 @@
         "url": "https://myco.io/videohome/68b4ab0a283fbe1adddaf425",
         "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250831%2Fmycolive-NO_LIVE_THUMBpng-1756670729752.webp&w=3840&q=30",
         "name": "Fulham vs Leeds United | Matchday-4 of  English Premier League 2025-26",
-        "m3u8_url": "https://ml-pull-hwc.myco.io/PROMO/hls/index.m3u8"
-      },
-      {
-        "url": "https://myco.io/videohome/68b4aa23283fbe1adddaf3a7",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250831%2Fmycolive-NO_LIVE_THUMBpng-1756670498575.webp&w=3840&q=30",
-        "name": "Everton vs Aston villa | Matchday-4 of  English Premier League 2025-26",
         "m3u8_url": "https://ml-pull-hwc.myco.io/PROMO/hls/index.m3u8"
       },
       {
@@ -80,7 +68,7 @@
         "url": "https://myco.io/videohome/68b2c644be6483581643a61f",
         "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250830%2Fmycolive-mpng-1756564193323.webp&w=3840&q=30",
         "name": "Buypass TV",
-        "m3u8_url": "https://ml-pull-hwc.myco.io/TV/hls/index.m3u8\\"
+        "m3u8_url": "https://ml-pull-hwc.myco.io/TV/hls/index.m3u8"
       },
       {
         "url": "https://myco.io/videohome/689e1c195135d41bf965b7cb",
@@ -125,6 +113,12 @@
         "m3u8_url": "https://myco.telflex.net:8088/8XM_FHD/video.m3u8?token=KsR3k27_sH3n-2"
       },
       {
+        "url": "https://myco.io/videohome/685babbf23efb8c4f551a9d9",
+        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-7jpg-1751381543101.webp&w=3840&q=30",
+        "name": "Abbtakk News",
+        "m3u8_url": "https://myco.telflex.net:8088/ABBTAKNEWS_FHD/video.m3u8?token=KsR3k27_sH3n-2"
+      },
+      {
         "url": "https://myco.io/videohome/685bab0f8593d91eb46a15be",
         "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250625%2Fmycolive-CaptialTvjpg-1750838029644.webp&w=3840&q=30",
         "name": "Capital TV",
@@ -152,7 +146,7 @@
         "url": "https://myco.io/videohome/6840238bc265d95410f14ea8",
         "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-15jpg-1751381144523.webp&w=3840&q=30",
         "name": "Hyder TV",
-        "m3u8_url": "https://ml-pull-hwc.myco.io/hydertvcanada/hls/index.m3u8\\"
+        "m3u8_url": "https://ml-pull-hwc.myco.io/hydertvcanada/hls/index.m3u8"
       },
       {
         "url": "https://myco.io/videohome/683837d04af76c0b35ca39e9",
@@ -183,6 +177,12 @@
         "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-3jpg-1751381255548.webp&w=3840&q=30",
         "name": "Aaj Entertainment",
         "m3u8_url": "https://myco.telflex.net:8088/AAJENT_FHD/video.m3u8?token=KsR3k27_sH3n-2"
+      },
+      {
+        "url": "https://myco.io/videohome/682f1c9595dce935340d76d1",
+        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-4jpg-1751381286619.webp&w=3840&q=30",
+        "name": "Aaj News",
+        "m3u8_url": "https://myco.telflex.net:8088/AAJNEWS_FHD/video.m3u8?token=KsR3k27_sH3n-2"
       }
     ]
   }
