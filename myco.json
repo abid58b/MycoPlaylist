@@ -1,19 +1,13 @@
 {
   "Author": "Abid",
-  "last_update": "03-09-2025 : 19:06:55",
+  "last_update": "04-09-2025 : 17:35:03",
   "total_links": 30,
   "category_counts": {
-    "Live": 11,
-    "Channels": 19
+    "Live": 10,
+    "Channels": 20
   },
   "categories": {
     "Live": [
-      {
-        "url": "https://myco.io/videohome/68b81ac0a4684f9e3a78089a",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250903%2Fmycolive-ThumbLivepng-1756895936361.webp&w=3840&q=30",
-        "name": "Zimbabwe vs Sri Lanka | 1st Match of  T20I | Live from Zimbabwe | on mycost",
-        "m3u8_url": "https://ml-pull-rtmp-pk1.myco.io/ZimvIre/hls/index.m3u8"
-      },
       {
         "url": "https://myco.io/videohome/68b4af5ebe6483581648db62",
         "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250831%2Fmycolive-NO_LIVE_THUMBpng-1756671837129.webp&w=3840&q=30",
@@ -189,6 +183,12 @@
         "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-3jpg-1751381255548.webp&w=3840&q=30",
         "name": "Aaj Entertainment",
         "m3u8_url": "https://myco.telflex.net:8088/AAJENT_FHD/video.m3u8?token=KsR3k27_sH3n-2"
+      },
+      {
+        "url": "https://myco.io/videohome/682f1c9595dce935340d76d1",
+        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-4jpg-1751381286619.webp&w=3840&q=30",
+        "name": "Aaj News",
+        "m3u8_url": "https://myco.telflex.net:8088/AAJNEWS_FHD/video.m3u8?token=KsR3k27_sH3n-2"
       }
     ]
   }
