@@ -1,13 +1,19 @@
 {
   "Author": "Abid",
-  "last_update": "04-09-2025 : 20:04:10",
-  "total_links": 28,
+  "last_update": "06-09-2025 : 16:20:12",
+  "total_links": 30,
   "category_counts": {
-    "Live": 10,
-    "Channels": 18
+    "Live": 11,
+    "Channels": 19
   },
   "categories": {
     "Live": [
+      {
+        "url": "https://myco.io/videohome/68bc03e6495826626e950c91",
+        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250906%2Fmycolive-ThumbLivepng-1757152268736.webp&w=3840&q=30",
+        "name": "Zimbabwe vs Sri Lanka | 2nd Match of  T20I | Live from Zimbabwe | on myco",
+        "m3u8_url": "https://ml-pull-rtmp-pk1.myco.io/ZimvIre/hls/index.m3u8"
+      },
       {
         "url": "https://myco.io/videohome/68b4af5ebe6483581648db62",
         "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250831%2Fmycolive-NO_LIVE_THUMBpng-1756671837129.webp&w=3840&q=30",
@@ -74,7 +80,7 @@
         "url": "https://myco.io/videohome/68b2c644be6483581643a61f",
         "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250830%2Fmycolive-mpng-1756564193323.webp&w=3840&q=30",
         "name": "Buypass TV",
-        "m3u8_url": "https://ml-pull-hwc.myco.io/TV/hls/index.m3u8"
+        "m3u8_url": "https://ml-pull-hwc.myco.io/TV/hls/index.m3u8\\"
       },
       {
         "url": "https://myco.io/videohome/689e1c195135d41bf965b7cb",
@@ -105,6 +111,12 @@
         "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250813%2Fmycolive-8jpg-1755075220532.webp&w=3840&q=30",
         "name": "Disnep Kids",
         "m3u8_url": "https://myco.telflex.net:8088/DISNEYCHANNEL_FHD/video.m3u8?token=KsR3k27_sH3n-2"
+      },
+      {
+        "url": "https://myco.io/videohome/6890babe3f4c9b18f49426d0",
+        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250804%2Fmycolive-3jpg-1754315453863.webp&w=3840&q=30",
+        "name": "Al Jazeera",
+        "m3u8_url": "https://myco.telflex.net:8088/ALJAZEERAENG_FHD/video.m3u8?token=KsR3k27_sH3n-2"
       },
       {
         "url": "https://myco.io/videohome/6890b9bd64c8e4f0ca407ea2",
