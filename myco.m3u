@@ -1,11 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250906%2Fmycolive-ThumbLivepng-1757152268736.webp&w=3840&q=30" group-title="Live",Zimbabwe vs Sri Lanka | 2nd Match of  T20I | Live from Zimbabwe | on myco
-https://ml-pull-rtmp-pk1.myco.io/ZimvIre/hls/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250831%2Fmycolive-NO_LIVE_THUMBpng-1756671837129.webp&w=3840&q=30" group-title="Live",Man City vs Man United | Matchday-4 of  English Premier League 2025-26
 https://ml-pull-hwc.myco.io/PROMO/hls/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250831%2Fmycolive-NO_LIVE_THUMBpng-1756671684509.webp&w=3840&q=30" group-title="Live",Burnley vs Liverpool | Matchday-4 of  English Premier League 2025-26
-https://ml-pull-hwc.myco.io/PROMO/hls/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250831%2Fmycolive-NO_LIVE_THUMBpng-1756671486072.webp&w=3840&q=30" group-title="Live",Brentford vs Chelsea | Matchday-4 of  English Premier League 2025-26
 https://ml-pull-hwc.myco.io/PROMO/hls/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250831%2Fmycolive-NO_LIVE_THUMBpng-1756671323513.webp&w=3840&q=30" group-title="Live",Westham United vs Tottenham | Matchday-4 of  English Premier League 2025-26
 https://ml-pull-hwc.myco.io/PROMO/hls/index.m3u8
@@ -22,21 +18,9 @@ https://ml-pull-hwc.myco.io/PROMO/hls/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250831%2Fmycolive-NO_LIVE_THUMBpng-1756668236704.webp&w=3840&q=30" group-title="Live",Arsenal vs Nottm forest | Matchday-4 of  English Premier League 2025-26
 https://ml-pull-hwc.myco.io/PROMO/hls/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250830%2Fmycolive-mpng-1756564193323.webp&w=3840&q=30" group-title="Channels",Buypass TV
-https://ml-pull-hwc.myco.io/TV/hls/index.m3u8\
-#EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250814%2Fmycolive-4jpg-1755192345133.webp&w=3840&q=30" group-title="Channels",Discover Pakistan
-https://myco.telflex.net:8088/DISCOVERPAKISTAN_FHD/video.m3u8?token=KsR3k27_sH3n-2
+https://ml-pull-hwc.myco.io/TV/hls/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250814%2Fmycolive-11jpg-1755175677114.webp&w=3840&q=30" group-title="Channels",BBC Lifestyle
 https://myco.telflex.net:8088/BBCLIFESTYLE_FHD/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250814%2Fmycolive-WhatsApp_Image_20250814_at_53344_PMjpeg-1755174841190.webp&w=3840&q=30" group-title="Channels",EPL - PROMO
-https://ml-pull-hwc.myco.io/PROMO/hls/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250813%2Fmycolive-9jpg-1755075660153.webp&w=3840&q=30" group-title="Channels",PBS Kids
-https://myco.telflex.net:8088/PBSKIDS_FHD/video.m3u8?token=KsR3k27_sH3n-2
-#EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250813%2Fmycolive-8jpg-1755075220532.webp&w=3840&q=30" group-title="Channels",Disnep Kids
-https://myco.telflex.net:8088/DISNEYCHANNEL_FHD/video.m3u8?token=KsR3k27_sH3n-2
-#EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250804%2Fmycolive-3jpg-1754315453863.webp&w=3840&q=30" group-title="Channels",Al Jazeera
-https://myco.telflex.net:8088/ALJAZEERAENG_FHD/video.m3u8?token=KsR3k27_sH3n-2
-#EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250804%2Fmycolive-5jpg-1754315196301.webp&w=3840&q=30" group-title="Channels",8XM HD
-https://myco.telflex.net:8088/8XM_FHD/video.m3u8?token=KsR3k27_sH3n-2
 #EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-7jpg-1751381543101.webp&w=3840&q=30" group-title="Channels",Abbtakk News
 https://myco.telflex.net:8088/ABBTAKNEWS_FHD/video.m3u8?token=KsR3k27_sH3n-2
 #EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250625%2Fmycolive-CaptialTvjpg-1750838029644.webp&w=3840&q=30" group-title="Channels",Capital TV
@@ -45,17 +29,9 @@ https://myco.telflex.net:8088/CAPITALNEWS_FHD/video.m3u8?token=KsR3k27_sH3n-2
 https://myco.telflex.net:8088/GREENENT_FHD/video.m3u8?token=KsR3k27_sH3n-2
 #EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-1jpg-1751381074821.webp&w=3840&q=30" group-title="Channels",Saudi Quran TV
 https://myco.telflex.net:8088/SAUDIQURAN-FHD/video.m3u8?token=KsR3k27_sH3n-2
-#EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-14jpg-1751381099951.webp&w=3840&q=30" group-title="Channels",Madani Channel
-https://myco.telflex.net:8088/MADNICHANNEL-FHD/video.m3u8?token=KsR3k27_sH3n-2
-#EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-15jpg-1751381144523.webp&w=3840&q=30" group-title="Channels",Hyder TV
-https://ml-pull-hwc.myco.io/hydertvcanada/hls/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250529%2Fmycolive-myco_Sports_247jpeg-1748514767310.webp&w=3840&q=30" group-title="Channels",myco sports 24/7
 https://ml-pull-hwc.myco.io/stream1/hls/stream1.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-6jpg-1751381173414.webp&w=3840&q=30" group-title="Channels",Channel 5 News HD
-https://myco.telflex.net:8088/CHANNEL5NEWS_FHD/video.m3u8?token=KsR3k27_sH3n-2
 #EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-18jpg-1751381198697.webp&w=3840&q=30" group-title="Channels",Time News HD
 https://myco.telflex.net:8088/TIMENEWS_FHD/video.m3u8?token=KsR3k27_sH3n-2
-#EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-13jpg-1751381222642.webp&w=3840&q=30" group-title="Channels",MUN TV
-https://myco.telflex.net:8088/MUNTV_FHD/video.m3u8?token=KsR3k27_sH3n-2
-#EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-3jpg-1751381255548.webp&w=3840&q=30" group-title="Channels",Aaj Entertainment
-https://myco.telflex.net:8088/AAJENT_FHD/video.m3u8?token=KsR3k27_sH3n-2
+#EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-4jpg-1751381286619.webp&w=3840&q=30" group-title="Channels",Aaj News
+https://myco.telflex.net:8088/AAJNEWS_FHD/video.m3u8?token=KsR3k27_sH3n-2

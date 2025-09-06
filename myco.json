@@ -1,19 +1,13 @@
 {
   "Author": "Abid",
-  "last_update": "06-09-2025 : 16:20:12",
-  "total_links": 30,
+  "last_update": "06-09-2025 : 21:10:03",
+  "total_links": 18,
   "category_counts": {
-    "Live": 11,
-    "Channels": 19
+    "Live": 9,
+    "Channels": 9
   },
   "categories": {
     "Live": [
-      {
-        "url": "https://myco.io/videohome/68bc03e6495826626e950c91",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250906%2Fmycolive-ThumbLivepng-1757152268736.webp&w=3840&q=30",
-        "name": "Zimbabwe vs Sri Lanka | 2nd Match of  T20I | Live from Zimbabwe | on myco",
-        "m3u8_url": "https://ml-pull-rtmp-pk1.myco.io/ZimvIre/hls/index.m3u8"
-      },
       {
         "url": "https://myco.io/videohome/68b4af5ebe6483581648db62",
         "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250831%2Fmycolive-NO_LIVE_THUMBpng-1756671837129.webp&w=3840&q=30",
@@ -24,12 +18,6 @@
         "url": "https://myco.io/videohome/68b4aec594167e5d937f32a8",
         "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250831%2Fmycolive-NO_LIVE_THUMBpng-1756671684509.webp&w=3840&q=30",
         "name": "Burnley vs Liverpool | Matchday-4 of  English Premier League 2025-26",
-        "m3u8_url": "https://ml-pull-hwc.myco.io/PROMO/hls/index.m3u8"
-      },
-      {
-        "url": "https://myco.io/videohome/68b4adffc0eb75a5788acaa7",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250831%2Fmycolive-NO_LIVE_THUMBpng-1756671486072.webp&w=3840&q=30",
-        "name": "Brentford vs Chelsea | Matchday-4 of  English Premier League 2025-26",
         "m3u8_url": "https://ml-pull-hwc.myco.io/PROMO/hls/index.m3u8"
       },
       {
@@ -80,49 +68,13 @@
         "url": "https://myco.io/videohome/68b2c644be6483581643a61f",
         "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250830%2Fmycolive-mpng-1756564193323.webp&w=3840&q=30",
         "name": "Buypass TV",
-        "m3u8_url": "https://ml-pull-hwc.myco.io/TV/hls/index.m3u8\\"
-      },
-      {
-        "url": "https://myco.io/videohome/689e1c195135d41bf965b7cb",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250814%2Fmycolive-4jpg-1755192345133.webp&w=3840&q=30",
-        "name": "Discover Pakistan",
-        "m3u8_url": "https://myco.telflex.net:8088/DISCOVERPAKISTAN_FHD/video.m3u8?token=KsR3k27_sH3n-2"
+        "m3u8_url": "https://ml-pull-hwc.myco.io/TV/hls/index.m3u8"
       },
       {
         "url": "https://myco.io/videohome/689dda3f3f4c9b18f4a24a0e",
         "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250814%2Fmycolive-11jpg-1755175677114.webp&w=3840&q=30",
         "name": "BBC Lifestyle",
         "m3u8_url": "https://myco.telflex.net:8088/BBCLIFESTYLE_FHD/index.m3u8"
-      },
-      {
-        "url": "https://myco.io/videohome/689dd7ba5135d41bf965932e",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250814%2Fmycolive-WhatsApp_Image_20250814_at_53344_PMjpeg-1755174841190.webp&w=3840&q=30",
-        "name": "EPL - PROMO",
-        "m3u8_url": "https://ml-pull-hwc.myco.io/PROMO/hls/index.m3u8"
-      },
-      {
-        "url": "https://myco.io/videohome/689c544c5135d41bf96497c3",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250813%2Fmycolive-9jpg-1755075660153.webp&w=3840&q=30",
-        "name": "PBS Kids",
-        "m3u8_url": "https://myco.telflex.net:8088/PBSKIDS_FHD/video.m3u8?token=KsR3k27_sH3n-2"
-      },
-      {
-        "url": "https://myco.io/videohome/689c529413d8d1168ffa302f",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250813%2Fmycolive-8jpg-1755075220532.webp&w=3840&q=30",
-        "name": "Disnep Kids",
-        "m3u8_url": "https://myco.telflex.net:8088/DISNEYCHANNEL_FHD/video.m3u8?token=KsR3k27_sH3n-2"
-      },
-      {
-        "url": "https://myco.io/videohome/6890babe3f4c9b18f49426d0",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250804%2Fmycolive-3jpg-1754315453863.webp&w=3840&q=30",
-        "name": "Al Jazeera",
-        "m3u8_url": "https://myco.telflex.net:8088/ALJAZEERAENG_FHD/video.m3u8?token=KsR3k27_sH3n-2"
-      },
-      {
-        "url": "https://myco.io/videohome/6890b9bd64c8e4f0ca407ea2",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250804%2Fmycolive-5jpg-1754315196301.webp&w=3840&q=30",
-        "name": "8XM HD",
-        "m3u8_url": "https://myco.telflex.net:8088/8XM_FHD/video.m3u8?token=KsR3k27_sH3n-2"
       },
       {
         "url": "https://myco.io/videohome/685babbf23efb8c4f551a9d9",
@@ -149,28 +101,10 @@
         "m3u8_url": "https://myco.telflex.net:8088/SAUDIQURAN-FHD/video.m3u8?token=KsR3k27_sH3n-2"
       },
       {
-        "url": "https://myco.io/videohome/68402415d2d30d092c1cc5d4",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-14jpg-1751381099951.webp&w=3840&q=30",
-        "name": "Madani Channel",
-        "m3u8_url": "https://myco.telflex.net:8088/MADNICHANNEL-FHD/video.m3u8?token=KsR3k27_sH3n-2"
-      },
-      {
-        "url": "https://myco.io/videohome/6840238bc265d95410f14ea8",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-15jpg-1751381144523.webp&w=3840&q=30",
-        "name": "Hyder TV",
-        "m3u8_url": "https://ml-pull-hwc.myco.io/hydertvcanada/hls/index.m3u8"
-      },
-      {
         "url": "https://myco.io/videohome/683837d04af76c0b35ca39e9",
         "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250529%2Fmycolive-myco_Sports_247jpeg-1748514767310.webp&w=3840&q=30",
         "name": "myco sports 24/7",
         "m3u8_url": "https://ml-pull-hwc.myco.io/stream1/hls/stream1.m3u8"
-      },
-      {
-        "url": "https://myco.io/videohome/68382ec7a8a42ec476af2959",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-6jpg-1751381173414.webp&w=3840&q=30",
-        "name": "Channel 5 News HD",
-        "m3u8_url": "https://myco.telflex.net:8088/CHANNEL5NEWS_FHD/video.m3u8?token=KsR3k27_sH3n-2"
       },
       {
         "url": "https://myco.io/videohome/68309e5379580b256d1b1b82",
@@ -179,16 +113,10 @@
         "m3u8_url": "https://myco.telflex.net:8088/TIMENEWS_FHD/video.m3u8?token=KsR3k27_sH3n-2"
       },
       {
-        "url": "https://myco.io/videohome/683074438dfcfbbcde5c20d6",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-13jpg-1751381222642.webp&w=3840&q=30",
-        "name": "MUN TV",
-        "m3u8_url": "https://myco.telflex.net:8088/MUNTV_FHD/video.m3u8?token=KsR3k27_sH3n-2"
-      },
-      {
-        "url": "https://myco.io/videohome/682f1e66d132b2399b27ab00",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-3jpg-1751381255548.webp&w=3840&q=30",
-        "name": "Aaj Entertainment",
-        "m3u8_url": "https://myco.telflex.net:8088/AAJENT_FHD/video.m3u8?token=KsR3k27_sH3n-2"
+        "url": "https://myco.io/videohome/682f1c9595dce935340d76d1",
+        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-4jpg-1751381286619.webp&w=3840&q=30",
+        "name": "Aaj News",
+        "m3u8_url": "https://myco.telflex.net:8088/AAJNEWS_FHD/video.m3u8?token=KsR3k27_sH3n-2"
       }
     ]
   }
