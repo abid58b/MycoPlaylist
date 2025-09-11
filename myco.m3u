@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250909%2Fmycolive-WhatsApp_Image_20250909_at_115619_PMjpeg-1757444349729.webp&w=3840&q=30" group-title="Live_Event",India vs UAE | 2nd Match | Asia Cup 2025 | on myco
+#EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250910%2Fmycolive-ThumbLivejpg-1757498561257.webp&w=3840&q=30" group-title="Live_Event",Bangladesh vs Hong Kong | 3rd Match | Asia Cup 2025 | on myco
 https://ml-pull-rtmp-pk1.myco.io/AsiaCupMain/hls/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250831%2Fmycolive-NO_LIVE_THUMBpng-1756671837129.webp&w=3840&q=30" group-title="Live_Event",Man City vs Man United | Matchday-4 of  English Premier League 2025-26
 https://ml-pull-hwc.myco.io/PROMO/hls/index.m3u8
