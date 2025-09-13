@@ -1,6 +1,6 @@
 {
   "Author": "Abid",
-  "last_update": "13-09-2025 : 17:40:37",
+  "last_update": "13-09-2025 : 18:59:52",
   "total_links": 20,
   "category_counts": {
     "Live_Event": 12,
@@ -18,7 +18,7 @@
         "url": "https://myco.io/videohome/68c14eefd66620bc0a4bd7f5",
         "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250910%2Fmycolive-ThumbLivejpg-1757499118207.webp&w=3840&q=30",
         "name": "Bangladesh vs Sri Lanka | 5th Match | Asia Cup 2025 | on myco",
-        "m3u8_url": "https://ml-pull-hwc.myco.io/stream2/hls/stream2.m3u8"
+        "m3u8_url": "https://ml-pull-rtmp-pk1.myco.io/AsiaCupMain/hls/index.m3u8"
       },
       {
         "url": "https://myco.io/videohome/68b5c6d3c0eb75a5788c04c7",
@@ -83,12 +83,6 @@
     ],
     "Channels": [
       {
-        "url": "https://myco.io/videohome/68c5536773426b874f678fd1",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250913%2Fmycolive-thumb_28jpg-1757762407807.webp&w=3840&q=30",
-        "name": "The Dug Out - Asia Cup 2025",
-        "m3u8_url": "https://ml-pull-rtmp-pk1.myco.io/AsiaCup2/hls/index.m3u8"
-      },
-      {
         "url": "https://myco.io/videohome/68b2c644be6483581643a61f",
         "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250830%2Fmycolive-mpng-1756564193323.webp&w=3840&q=30",
         "name": "Buypass TV",
@@ -129,6 +123,12 @@
         "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250804%2Fmycolive-3jpg-1754315453863.webp&w=3840&q=30",
         "name": "Al Jazeera",
         "m3u8_url": "https://myco.telflex.net:8088/ALJAZEERAENG_FHD/video.m3u8?token=KsR3k27_sH3n-2"
+      },
+      {
+        "url": "https://myco.io/videohome/6890b9bd64c8e4f0ca407ea2",
+        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250804%2Fmycolive-5jpg-1754315196301.webp&w=3840&q=30",
+        "name": "8XM HD",
+        "m3u8_url": "https://myco.telflex.net:8088/8XM_FHD/video.m3u8?token=KsR3k27_sH3n-2"
       }
     ]
   }
