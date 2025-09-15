@@ -1,30 +1,90 @@
 {
   "Author": "Abid",
   "For Update": "DM me on Telegram @MAbidOfficial",
-  "last_update": "14-09-2025 : 18:16:21",
-  "total_links": 17,
+  "last_update": "15-09-2025 : 16:40:06",
+  "total_links": 29,
   "category_counts": {
-    "Live_Event": 3,
-    "Channels": 14
+    "Live_Event": 13,
+    "Channels": 16
   },
   "categories": {
     "Live_Event": [
       {
-        "url": "https://myco.io/videohome/68c46678aae991c0c363b86e",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250912%2Fmycolive-WhatsApp_Image_20250912_at_112751_PM_1jpeg-1757701746822.webp&w=3840&q=30",
-        "name": "Pakistan vs India | 6th Match | Asia Cup 2025 | on myco",
+        "url": "https://myco.io/videohome/68c7048be9f7a25569911bd3",
+        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250914%2Fmycolive-ThumbLivejpg-1757873290072.webp&w=3840&q=30",
+        "name": "Sri Lanka vs Hong Kong | 8th Match | Asia Cup 2025 | on myco",
         "m3u8_url": "https://ml-pull-hwc.myco.io/stream2/hls/stream2.m3u8"
+      },
+      {
+        "url": "https://myco.io/videohome/68c703fbb1928ffc9ced459f",
+        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250914%2Fmycolive-ThumbLivejpg-1757873146402.webp&w=3840&q=30",
+        "name": "UAE vs Oman | 7th Match | Asia Cup 2025 | on myco",
+        "m3u8_url": "https://ml-pull-rtmp-pk1.myco.io/AsiaCupMain/hls/index.m3u8"
+      },
+      {
+        "url": "https://myco.io/videohome/68c6ad69e71ec84e003ed4a0",
+        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250914%2Fmycolive-LIVE_THUMBpng-1757851254074.webp&w=3840&q=30",
+        "name": "Arsenal vs Man City | Matchday - 5 of  English Premier League 2025-26",
+        "m3u8_url": "https://ml-pull-hwc.myco.io/PROMO/hls/index.m3u8"
+      },
+      {
+        "url": "https://myco.io/videohome/68c6acf34426c09c6519c3b7",
+        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250914%2Fmycolive-NO_LIVE_THUMBpng-1757850866876.webp&w=3840&q=30",
+        "name": "Sunderland vs Aston Villa | Matchday - 5 of  English Premier League 2025-26",
+        "m3u8_url": "https://ml-pull-hwc.myco.io/PROMO/hls/index.m3u8"
+      },
+      {
+        "url": "https://myco.io/videohome/68c6ac243642a8deaedc21b1",
+        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250914%2Fmycolive-NO_LIVE_THUMBpng-1757850659445.webp&w=3840&q=30",
+        "name": "Bournemouth vs Newcastle | Matchday - 5 of  English Premier League 2025-26",
+        "m3u8_url": "https://ml-pull-hwc.myco.io/PROMO/hls/index.m3u8"
+      },
+      {
+        "url": "https://myco.io/videohome/68c6aa6daae991c0c36a8b0d",
+        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250914%2Fmycolive-NO_LIVE_THUMBpng-1757850220895.webp&w=3840&q=30",
+        "name": "Fulham vs Brentford | Matchday - 5 of  English Premier League 2025-26",
+        "m3u8_url": "https://ml-pull-hwc.myco.io/PROMO/hls/index.m3u8"
+      },
+      {
+        "url": "https://myco.io/videohome/68c6a978aa42f021f5367865",
+        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250914%2Fmycolive-NO_LIVE_THUMBpng-1757849975991.webp&w=3840&q=30",
+        "name": "Man Utd vs Chelsea | Matchday - 5 of  English Premier League 2025-26",
+        "m3u8_url": "https://ml-pull-hwc.myco.io/PROMO/hls/index.m3u8"
+      },
+      {
+        "url": "https://myco.io/videohome/68c6a66128b9431411f606b6",
+        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250914%2Fmycolive-NO_LIVE_THUMBpng-1757849187062.webp&w=3840&q=30",
+        "name": "Wolves vs Leeds United | Matchday - 5 of  English Premier League 2025-26",
+        "m3u8_url": "https://ml-pull-hwc.myco.io/PROMO/hls/index.m3u8"
+      },
+      {
+        "url": "https://myco.io/videohome/68c6a558e71ec84e003ecdd6",
+        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250914%2Fmycolive-NO_LIVE_THUMBpng-1757848921203.webp&w=3840&q=30",
+        "name": "West Ham vs Crystal Palace | Matchday - 5 of  English Premier League 2025-26",
+        "m3u8_url": "https://ml-pull-hwc.myco.io/PROMO/hls/index.m3u8"
+      },
+      {
+        "url": "https://myco.io/videohome/68c6a48241f1a5b912c72794",
+        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250914%2Fmycolive-NO_LIVE_THUMBpng-1757848707858.webp&w=3840&q=30",
+        "name": "Burnley vs Nott'm Forest | Matchday - 5 of  English Premier League 2025-26",
+        "m3u8_url": "https://ml-pull-hwc.myco.io/PROMO/hls/index.m3u8"
+      },
+      {
+        "url": "https://myco.io/videohome/68c6a31386cf6acec063cf5c",
+        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250914%2Fmycolive-NO_LIVE_THUMBpng-1757848510586.webp&w=3840&q=30",
+        "name": "Brighton vs Spurs | Matchday - 5 of  English Premier League 2025-26",
+        "m3u8_url": "https://ml-pull-hwc.myco.io/PROMO/hls/index.m3u8"
+      },
+      {
+        "url": "https://myco.io/videohome/68c6a1935c5560e77c5fc4b3",
+        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250914%2Fmycolive-NO_LIVE_THUMBpng-1757847956787.webp&w=3840&q=30",
+        "name": "Liverpool v Everton | Matchday - 5 of  English Premier League 2025-26",
+        "m3u8_url": "https://ml-pull-hwc.myco.io/PROMO/hls/index.m3u8"
       },
       {
         "url": "https://myco.io/videohome/68b5c6d3c0eb75a5788c04c7",
         "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250901%2Fmycolive-NO_LIVE_THUMBpng-1756743379812.webp&w=3840&q=30",
         "name": "Man City vs Man United | Matchweek-4 of  English Premier League 2025-26",
-        "m3u8_url": "https://ml-pull-hwc.myco.io/EPLBONGO10/hls/index.m3u8"
-      },
-      {
-        "url": "https://myco.io/videohome/68b5c5ed81ddc6b33756f5db",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250901%2Fmycolive-NO_LIVE_THUMBpng-1756743149582.webp&w=3840&q=30",
-        "name": "Burnley vs Liverpool | Matchweek-4 of  English Premier League 2025-26",
         "m3u8_url": "https://ml-pull-hwc.myco.io/EPLBONGO1/hls/index.m3u8"
       }
     ],
@@ -33,7 +93,7 @@
         "url": "https://myco.io/videohome/68c5536773426b874f678fd1",
         "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250913%2Fmycolive-thumb_28jpg-1757762407807.webp&w=3840&q=30",
         "name": "The Dug Out - Asia Cup 2025",
-        "m3u8_url": "https://ml-pull-rtmp-pk1.myco.io/AsiaCup2/hls/index.m3u8"
+        "m3u8_url": "https://ml-pull-rtmp-pk1.myco.io/AsiaCupMain/hls/index.m3u8"
       },
       {
         "url": "https://myco.io/videohome/689e1c195135d41bf965b7cb",
@@ -112,6 +172,18 @@
         "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-15jpg-1751381144523.webp&w=3840&q=30",
         "name": "Hyder TV",
         "m3u8_url": "https://ml-pull-hwc.myco.io/hydertvcanada/hls/index.m3u8"
+      },
+      {
+        "url": "https://myco.io/videohome/683837d04af76c0b35ca39e9",
+        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250529%2Fmycolive-myco_Sports_247jpeg-1748514767310.webp&w=3840&q=30",
+        "name": "myco sports 24/7",
+        "m3u8_url": "https://ml-pull-hwc.myco.io/stream1/hls/stream1.m3u8"
+      },
+      {
+        "url": "https://myco.io/videohome/68382ec7a8a42ec476af2959",
+        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-6jpg-1751381173414.webp&w=3840&q=30",
+        "name": "Channel 5 News HD",
+        "m3u8_url": "https://myco.telflex.net:8088/CHANNEL5NEWS_FHD/video.m3u8?token=KsR3k27_sH3n-2"
       }
     ]
   }
