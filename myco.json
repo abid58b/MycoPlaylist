@@ -1,25 +1,19 @@
 {
   "Author": "Abid",
   "For Update": "DM me on Telegram @MAbidOfficial",
-  "last_update": "15-09-2025 : 16:40:06",
+  "last_update": "16-09-2025 : 15:17:14",
   "total_links": 29,
   "category_counts": {
-    "Live_Event": 13,
-    "Channels": 16
+    "Live_Event": 12,
+    "Channels": 17
   },
   "categories": {
     "Live_Event": [
       {
-        "url": "https://myco.io/videohome/68c7048be9f7a25569911bd3",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250914%2Fmycolive-ThumbLivejpg-1757873290072.webp&w=3840&q=30",
-        "name": "Sri Lanka vs Hong Kong | 8th Match | Asia Cup 2025 | on myco",
+        "url": "https://myco.io/videohome/68c85bc3fd6cb8230ef3cdb6",
+        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250915%2Fmycolive-ThumbLivejpg-1757961154023.webp&w=3840&q=30",
+        "name": "Bangladesh vs Afghanistan | 9th Match | Asia Cup 2025 | on myco",
         "m3u8_url": "https://ml-pull-hwc.myco.io/stream2/hls/stream2.m3u8"
-      },
-      {
-        "url": "https://myco.io/videohome/68c703fbb1928ffc9ced459f",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250914%2Fmycolive-ThumbLivejpg-1757873146402.webp&w=3840&q=30",
-        "name": "UAE vs Oman | 7th Match | Asia Cup 2025 | on myco",
-        "m3u8_url": "https://ml-pull-rtmp-pk1.myco.io/AsiaCupMain/hls/index.m3u8"
       },
       {
         "url": "https://myco.io/videohome/68c6ad69e71ec84e003ed4a0",
@@ -89,12 +83,6 @@
       }
     ],
     "Channels": [
-      {
-        "url": "https://myco.io/videohome/68c5536773426b874f678fd1",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250913%2Fmycolive-thumb_28jpg-1757762407807.webp&w=3840&q=30",
-        "name": "The Dug Out - Asia Cup 2025",
-        "m3u8_url": "https://ml-pull-rtmp-pk1.myco.io/AsiaCupMain/hls/index.m3u8"
-      },
       {
         "url": "https://myco.io/videohome/689e1c195135d41bf965b7cb",
         "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250814%2Fmycolive-4jpg-1755192345133.webp&w=3840&q=30",
@@ -184,6 +172,18 @@
         "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-6jpg-1751381173414.webp&w=3840&q=30",
         "name": "Channel 5 News HD",
         "m3u8_url": "https://myco.telflex.net:8088/CHANNEL5NEWS_FHD/video.m3u8?token=KsR3k27_sH3n-2"
+      },
+      {
+        "url": "https://myco.io/videohome/68309e5379580b256d1b1b82",
+        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-18jpg-1751381198697.webp&w=3840&q=30",
+        "name": "Time News HD",
+        "m3u8_url": "https://myco.telflex.net:8088/TIMENEWS_FHD/video.m3u8?token=KsR3k27_sH3n-2"
+      },
+      {
+        "url": "https://myco.io/videohome/683074438dfcfbbcde5c20d6",
+        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-13jpg-1751381222642.webp&w=3840&q=30",
+        "name": "MUN TV",
+        "m3u8_url": "https://myco.telflex.net:8088/MUNTV_FHD/video.m3u8?token=KsR3k27_sH3n-2"
       }
     ]
   }
