@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250915%2Fmycolive-ThumbLivejpg-1757961154023.webp&w=3840&q=30" group-title="Live_Event",Bangladesh vs Afghanistan | 9th Match | Asia Cup 2025 | on myco
+#EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250916%2Fmycolive-ThumbLivejpg-1758049301386.webp&w=3840&q=30" group-title="Live_Event",Pakistan vs UAE | 10th Match | Asia Cup 2025 | on myco
 https://ml-pull-hwc.myco.io/stream2/hls/stream2.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250914%2Fmycolive-LIVE_THUMBpng-1757851254074.webp&w=3840&q=30" group-title="Live_Event",Arsenal vs Man City | Matchday - 5 of  English Premier League 2025-26
 https://ml-pull-hwc.myco.io/PROMO/hls/index.m3u8
@@ -23,6 +23,8 @@ https://ml-pull-hwc.myco.io/PROMO/hls/index.m3u8
 https://ml-pull-hwc.myco.io/PROMO/hls/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250901%2Fmycolive-NO_LIVE_THUMBpng-1756743379812.webp&w=3840&q=30" group-title="Live_Event",Man City vs Man United | Matchweek-4 of  English Premier League 2025-26
 https://ml-pull-hwc.myco.io/EPLBONGO1/hls/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250913%2Fmycolive-thumb_28jpg-1757762407807.webp&w=3840&q=30" group-title="Channels",The Dug Out - Asia Cup 2025
+https://ml-pull-rtmp-pk1.myco.io/AsiaCupMain/hls/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250814%2Fmycolive-4jpg-1755192345133.webp&w=3840&q=30" group-title="Channels",Discover Pakistan
 https://myco.telflex.net:8088/DISCOVERPAKISTAN_FHD/video.m3u8?token=KsR3k27_sH3n-2
 #EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250814%2Fmycolive-11jpg-1755175677114.webp&w=3840&q=30" group-title="Channels",BBC Lifestyle
@@ -55,5 +57,3 @@ https://ml-pull-hwc.myco.io/stream1/hls/stream1.m3u8
 https://myco.telflex.net:8088/CHANNEL5NEWS_FHD/video.m3u8?token=KsR3k27_sH3n-2
 #EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-18jpg-1751381198697.webp&w=3840&q=30" group-title="Channels",Time News HD
 https://myco.telflex.net:8088/TIMENEWS_FHD/video.m3u8?token=KsR3k27_sH3n-2
-#EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-13jpg-1751381222642.webp&w=3840&q=30" group-title="Channels",MUN TV
-https://myco.telflex.net:8088/MUNTV_FHD/video.m3u8?token=KsR3k27_sH3n-2
