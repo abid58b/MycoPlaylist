@@ -1,34 +1,28 @@
 {
   "Author": "Abid",
   "For Update": "DM me on Telegram @MAbidOfficial",
-  "last_update": "19-09-2025 : 17:47:38",
+  "last_update": "20-09-2025 : 00:56:19",
   "total_links": 19,
   "category_counts": {
-    "Live_Event": 2,
+    "Live": 2,
     "Channels": 17
   },
   "categories": {
-    "Live_Event": [
+    "Live": [
       {
-        "url": "https://myco.io/videohome/68cc4b33710423ccbc6ba7f6",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250918%2Fmycolive-ThumbLivejpg-1758219058900.webp&w=3840&q=30",
-        "name": "India vs Oman  | 12th Match | Asia Cup 2025 | on myco",
+        "url": "https://myco.io/videohome/68cda8a765a5273a511849d8",
+        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250919%2Fmycolive-ThumbLivejpg-1758308518107.webp&w=3840&q=30",
+        "name": "Sri Lanka vs Bangladesh | 13th Match | Asia Cup 2025 | on myco",
         "m3u8_url": "https://ml-pull-hwc.myco.io/stream2/hls/stream2.m3u8"
       },
       {
-        "url": "https://myco.io/videohome/68b5c6d3c0eb75a5788c04c7",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250901%2Fmycolive-NO_LIVE_THUMBpng-1756743379812.webp&w=3840&q=30",
-        "name": "Man City vs Man United | Matchweek-4 of  English Premier League 2025-26",
-        "m3u8_url": "https://ml-pull-hwc.myco.io/EPLBONGO1/hls/index.m3u8"
+        "url": "https://myco.io/videohome/68be9c62d66620bc0a47f1ca",
+        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250908%2Fmycolive-CIBEGYTPTIANpng-1757322331667.webp&w=3840&q=30",
+        "name": "Finals | Squash | CIB Egyptian Open 2025 | on myco",
+        "m3u8_url": "https://ml-pull-hwc.myco.io/PSA/hls/index.m3u8"
       }
     ],
     "Channels": [
-      {
-        "url": "https://myco.io/videohome/68c5536773426b874f678fd1",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250913%2Fmycolive-thumb_28jpg-1757762407807.webp&w=3840&q=30",
-        "name": "The Dug Out - Asia Cup 2025",
-        "m3u8_url": "https://ml-pull-rtmp-pk1.myco.io/AsiaCup2/hls/index.m3u8"
-      },
       {
         "url": "https://myco.io/videohome/689e1c195135d41bf965b7cb",
         "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250814%2Fmycolive-4jpg-1755192345133.webp&w=3840&q=30",
@@ -124,6 +118,12 @@
         "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-18jpg-1751381198697.webp&w=3840&q=30",
         "name": "Time News HD",
         "m3u8_url": "https://myco.telflex.net:8088/TIMENEWS_FHD/video.m3u8?token=KsR3k27_sH3n-2"
+      },
+      {
+        "url": "https://myco.io/videohome/683074438dfcfbbcde5c20d6",
+        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-13jpg-1751381222642.webp&w=3840&q=30",
+        "name": "MUN TV",
+        "m3u8_url": "https://myco.telflex.net:8088/MUNTV_FHD/video.m3u8?token=KsR3k27_sH3n-2"
       }
     ]
   }
