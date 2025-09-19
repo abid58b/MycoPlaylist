@@ -1,83 +1,23 @@
 {
   "Author": "Abid",
   "For Update": "DM me on Telegram @MAbidOfficial",
-  "last_update": "17-09-2025 : 17:47:26",
-  "total_links": 29,
+  "last_update": "19-09-2025 : 17:23:33",
+  "total_links": 19,
   "category_counts": {
-    "Live_Event": 12,
+    "Live_Event": 2,
     "Channels": 17
   },
   "categories": {
     "Live_Event": [
       {
-        "url": "https://myco.io/videohome/68c9b4175eaf2726af439948",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250916%2Fmycolive-ThumbLivejpg-1758049301386.webp&w=3840&q=30",
-        "name": "Pakistan vs UAE | 10th Match | Asia Cup 2025 | on myco",
+        "url": "https://myco.io/videohome/68cc4b33710423ccbc6ba7f6",
+        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250918%2Fmycolive-ThumbLivejpg-1758219058900.webp&w=3840&q=30",
+        "name": "India vs Oman  | 12th Match | Asia Cup 2025 | on myco",
         "m3u8_url": "https://ml-pull-hwc.myco.io/stream2/hls/stream2.m3u8"
       },
       {
-        "url": "https://myco.io/videohome/68c6ad69e71ec84e003ed4a0",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250914%2Fmycolive-LIVE_THUMBpng-1757851254074.webp&w=3840&q=30",
-        "name": "Arsenal vs Man City | Matchday - 5 of  English Premier League 2025-26",
-        "m3u8_url": "https://ml-pull-hwc.myco.io/PROMO/hls/index.m3u8"
-      },
-      {
-        "url": "https://myco.io/videohome/68c6acf34426c09c6519c3b7",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250914%2Fmycolive-NO_LIVE_THUMBpng-1757850866876.webp&w=3840&q=30",
-        "name": "Sunderland vs Aston Villa | Matchday - 5 of  English Premier League 2025-26",
-        "m3u8_url": "https://ml-pull-hwc.myco.io/PROMO/hls/index.m3u8"
-      },
-      {
-        "url": "https://myco.io/videohome/68c6ac243642a8deaedc21b1",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250914%2Fmycolive-NO_LIVE_THUMBpng-1757850659445.webp&w=3840&q=30",
-        "name": "Bournemouth vs Newcastle | Matchday - 5 of  English Premier League 2025-26",
-        "m3u8_url": "https://ml-pull-hwc.myco.io/PROMO/hls/index.m3u8"
-      },
-      {
-        "url": "https://myco.io/videohome/68c6aa6daae991c0c36a8b0d",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250914%2Fmycolive-NO_LIVE_THUMBpng-1757850220895.webp&w=3840&q=30",
-        "name": "Fulham vs Brentford | Matchday - 5 of  English Premier League 2025-26",
-        "m3u8_url": "https://ml-pull-hwc.myco.io/PROMO/hls/index.m3u8"
-      },
-      {
-        "url": "https://myco.io/videohome/68c6a978aa42f021f5367865",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250914%2Fmycolive-NO_LIVE_THUMBpng-1757849975991.webp&w=3840&q=30",
-        "name": "Man Utd vs Chelsea | Matchday - 5 of  English Premier League 2025-26",
-        "m3u8_url": "https://ml-pull-hwc.myco.io/PROMO/hls/index.m3u8"
-      },
-      {
-        "url": "https://myco.io/videohome/68c6a66128b9431411f606b6",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250914%2Fmycolive-NO_LIVE_THUMBpng-1757849187062.webp&w=3840&q=30",
-        "name": "Wolves vs Leeds United | Matchday - 5 of  English Premier League 2025-26",
-        "m3u8_url": "https://ml-pull-hwc.myco.io/PROMO/hls/index.m3u8"
-      },
-      {
-        "url": "https://myco.io/videohome/68c6a558e71ec84e003ecdd6",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250914%2Fmycolive-NO_LIVE_THUMBpng-1757848921203.webp&w=3840&q=30",
-        "name": "West Ham vs Crystal Palace | Matchday - 5 of  English Premier League 2025-26",
-        "m3u8_url": "https://ml-pull-hwc.myco.io/PROMO/hls/index.m3u8"
-      },
-      {
-        "url": "https://myco.io/videohome/68c6a48241f1a5b912c72794",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250914%2Fmycolive-NO_LIVE_THUMBpng-1757848707858.webp&w=3840&q=30",
-        "name": "Burnley vs Nott'm Forest | Matchday - 5 of  English Premier League 2025-26",
-        "m3u8_url": "https://ml-pull-hwc.myco.io/PROMO/hls/index.m3u8"
-      },
-      {
-        "url": "https://myco.io/videohome/68c6a31386cf6acec063cf5c",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250914%2Fmycolive-NO_LIVE_THUMBpng-1757848510586.webp&w=3840&q=30",
-        "name": "Brighton vs Spurs | Matchday - 5 of  English Premier League 2025-26",
-        "m3u8_url": "https://ml-pull-hwc.myco.io/PROMO/hls/index.m3u8"
-      },
-      {
-        "url": "https://myco.io/videohome/68c6a1935c5560e77c5fc4b3",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250914%2Fmycolive-NO_LIVE_THUMBpng-1757847956787.webp&w=3840&q=30",
-        "name": "Liverpool v Everton | Matchday - 5 of  English Premier League 2025-26",
-        "m3u8_url": "https://ml-pull-hwc.myco.io/PROMO/hls/index.m3u8"
-      },
-      {
         "url": "https://myco.io/videohome/68b5c6d3c0eb75a5788c04c7",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250901%2Fmycolive-NO_LIVE_THUMBpng-1756743379812.webp&w=3840&q=30",
+        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250901%2Fmycolive-NO_LIVE_THUMBpng-1756743379812.webp&w=3840&q=30",
         "name": "Man City vs Man United | Matchweek-4 of  English Premier League 2025-26",
         "m3u8_url": "https://ml-pull-hwc.myco.io/EPLBONGO1/hls/index.m3u8"
       }
@@ -85,103 +25,103 @@
     "Channels": [
       {
         "url": "https://myco.io/videohome/68c5536773426b874f678fd1",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250913%2Fmycolive-thumb_28jpg-1757762407807.webp&w=3840&q=30",
+        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250913%2Fmycolive-thumb_28jpg-1757762407807.webp&w=3840&q=30",
         "name": "The Dug Out - Asia Cup 2025",
-        "m3u8_url": "https://ml-pull-rtmp-pk1.myco.io/AsiaCupMain/hls/index.m3u8"
+        "m3u8_url": "https://ml-pull-rtmp-pk1.myco.io/AsiaCup2/hls/index.m3u8"
       },
       {
         "url": "https://myco.io/videohome/689e1c195135d41bf965b7cb",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250814%2Fmycolive-4jpg-1755192345133.webp&w=3840&q=30",
+        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250814%2Fmycolive-4jpg-1755192345133.webp&w=3840&q=30",
         "name": "Discover Pakistan",
         "m3u8_url": "https://myco.telflex.net:8088/DISCOVERPAKISTAN_FHD/video.m3u8?token=KsR3k27_sH3n-2"
       },
       {
         "url": "https://myco.io/videohome/689dda3f3f4c9b18f4a24a0e",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250814%2Fmycolive-11jpg-1755175677114.webp&w=3840&q=30",
+        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250814%2Fmycolive-11jpg-1755175677114.webp&w=3840&q=30",
         "name": "BBC Lifestyle",
         "m3u8_url": "https://myco.telflex.net:8088/BBCLIFESTYLE_FHD/index.m3u8"
       },
       {
         "url": "https://myco.io/videohome/689dd7ba5135d41bf965932e",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250814%2Fmycolive-WhatsApp_Image_20250814_at_53344_PMjpeg-1755174841190.webp&w=3840&q=30",
+        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250814%2Fmycolive-WhatsApp_Image_20250814_at_53344_PMjpeg-1755174841190.webp&w=3840&q=30",
         "name": "EPL - PROMO",
         "m3u8_url": "https://ml-pull-hwc.myco.io/PROMO/hls/index.m3u8"
       },
       {
         "url": "https://myco.io/videohome/689c544c5135d41bf96497c3",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250813%2Fmycolive-9jpg-1755075660153.webp&w=3840&q=30",
+        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250813%2Fmycolive-9jpg-1755075660153.webp&w=3840&q=30",
         "name": "PBS Kids",
         "m3u8_url": "https://myco.telflex.net:8088/PBSKIDS_FHD/video.m3u8?token=KsR3k27_sH3n-2"
       },
       {
         "url": "https://myco.io/videohome/689c529413d8d1168ffa302f",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250813%2Fmycolive-8jpg-1755075220532.webp&w=3840&q=30",
+        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250813%2Fmycolive-8jpg-1755075220532.webp&w=3840&q=30",
         "name": "Disnep Kids",
         "m3u8_url": "https://myco.telflex.net:8088/DISNEYCHANNEL_FHD/video.m3u8?token=KsR3k27_sH3n-2"
       },
       {
         "url": "https://myco.io/videohome/6890babe3f4c9b18f49426d0",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250804%2Fmycolive-3jpg-1754315453863.webp&w=3840&q=30",
+        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250804%2Fmycolive-3jpg-1754315453863.webp&w=3840&q=30",
         "name": "Al Jazeera",
         "m3u8_url": "https://myco.telflex.net:8088/ALJAZEERAENG_FHD/video.m3u8?token=KsR3k27_sH3n-2"
       },
       {
         "url": "https://myco.io/videohome/6890b9bd64c8e4f0ca407ea2",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250804%2Fmycolive-5jpg-1754315196301.webp&w=3840&q=30",
+        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250804%2Fmycolive-5jpg-1754315196301.webp&w=3840&q=30",
         "name": "8XM HD",
         "m3u8_url": "https://myco.telflex.net:8088/8XM_FHD/video.m3u8?token=KsR3k27_sH3n-2"
       },
       {
         "url": "https://myco.io/videohome/685babbf23efb8c4f551a9d9",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-7jpg-1751381543101.webp&w=3840&q=30",
+        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-7jpg-1751381543101.webp&w=3840&q=30",
         "name": "Abbtakk News",
         "m3u8_url": "https://myco.telflex.net:8088/ABBTAKNEWS_FHD/video.m3u8?token=KsR3k27_sH3n-2"
       },
       {
         "url": "https://myco.io/videohome/685bab0f8593d91eb46a15be",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250625%2Fmycolive-CaptialTvjpg-1750838029644.webp&w=3840&q=30",
+        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250625%2Fmycolive-CaptialTvjpg-1750838029644.webp&w=3840&q=30",
         "name": "Capital TV",
         "m3u8_url": "https://myco.telflex.net:8088/CAPITALNEWS_FHD/video.m3u8?token=KsR3k27_sH3n-2"
       },
       {
         "url": "https://myco.io/videohome/685ba90f23efb8c4f551a6ed",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250625%2Fmycolive-Watch_green_entertainment_channel_online_freejpg-1750856023512.webp&w=3840&q=30",
+        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250625%2Fmycolive-Watch_green_entertainment_channel_online_freejpg-1750856023512.webp&w=3840&q=30",
         "name": "Green Entertainment TV | Live Free Streaming",
         "m3u8_url": "https://myco.telflex.net:8088/GREENENT_FHD/video.m3u8?token=KsR3k27_sH3n-2"
       },
       {
         "url": "https://myco.io/videohome/68402aeac265d95410f152d5",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-1jpg-1751381074821.webp&w=3840&q=30",
+        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-1jpg-1751381074821.webp&w=3840&q=30",
         "name": "Saudi Quran TV",
         "m3u8_url": "https://myco.telflex.net:8088/SAUDIQURAN-FHD/video.m3u8?token=KsR3k27_sH3n-2"
       },
       {
         "url": "https://myco.io/videohome/68402415d2d30d092c1cc5d4",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-14jpg-1751381099951.webp&w=3840&q=30",
+        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-14jpg-1751381099951.webp&w=3840&q=30",
         "name": "Madani Channel",
         "m3u8_url": "https://myco.telflex.net:8088/MADNICHANNEL-FHD/video.m3u8?token=KsR3k27_sH3n-2"
       },
       {
         "url": "https://myco.io/videohome/6840238bc265d95410f14ea8",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-15jpg-1751381144523.webp&w=3840&q=30",
+        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-15jpg-1751381144523.webp&w=3840&q=30",
         "name": "Hyder TV",
         "m3u8_url": "https://ml-pull-hwc.myco.io/hydertvcanada/hls/index.m3u8"
       },
       {
         "url": "https://myco.io/videohome/683837d04af76c0b35ca39e9",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250529%2Fmycolive-myco_Sports_247jpeg-1748514767310.webp&w=3840&q=30",
+        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250529%2Fmycolive-myco_Sports_247jpeg-1748514767310.webp&w=3840&q=30",
         "name": "myco sports 24/7",
         "m3u8_url": "https://ml-pull-hwc.myco.io/stream1/hls/stream1.m3u8"
       },
       {
         "url": "https://myco.io/videohome/68382ec7a8a42ec476af2959",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-6jpg-1751381173414.webp&w=3840&q=30",
+        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-6jpg-1751381173414.webp&w=3840&q=30",
         "name": "Channel 5 News HD",
         "m3u8_url": "https://myco.telflex.net:8088/CHANNEL5NEWS_FHD/video.m3u8?token=KsR3k27_sH3n-2"
       },
       {
         "url": "https://myco.io/videohome/68309e5379580b256d1b1b82",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fmyco.io%2Fapi%2Fimage-proxy%3Furl%3D%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-18jpg-1751381198697.webp&w=3840&q=30",
+        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-18jpg-1751381198697.webp&w=3840&q=30",
         "name": "Time News HD",
         "m3u8_url": "https://myco.telflex.net:8088/TIMENEWS_FHD/video.m3u8?token=KsR3k27_sH3n-2"
       }
