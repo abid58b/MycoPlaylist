@@ -1,11 +1,11 @@
 {
   "Author": "Abid",
   "For Update": "DM me on Telegram @MAbidOfficial",
-  "last_update": "20-09-2025 : 01:03:18",
+  "last_update": "20-09-2025 : 15:03:12",
   "total_links": 19,
   "category_counts": {
-    "Live": 2,
-    "Channels": 17
+    "Live": 1,
+    "Channels": 18
   },
   "categories": {
     "Live": [
@@ -14,12 +14,6 @@
         "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250919%2Fmycolive-ThumbLivejpg-1758308518107.webp&w=3840&q=30",
         "name": "Sri Lanka vs Bangladesh | 13th Match | Asia Cup 2025 | on myco",
         "m3u8_url": "https://ml-pull-hwc.myco.io/stream2/hls/stream2.m3u8"
-      },
-      {
-        "url": "https://myco.io/videohome/68be9c62d66620bc0a47f1ca",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250908%2Fmycolive-CIBEGYTPTIANpng-1757322331667.webp&w=3840&q=30",
-        "name": "Finals | Squash | CIB Egyptian Open 2025 | on myco",
-        "m3u8_url": "https://ml-pull-hwc.myco.io/PSA/hls/index.m3u8"
       }
     ],
     "Channels": [
@@ -124,6 +118,12 @@
         "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-13jpg-1751381222642.webp&w=3840&q=30",
         "name": "MUN TV",
         "m3u8_url": "https://myco.telflex.net:8088/MUNTV_FHD/video.m3u8?token=KsR3k27_sH3n-2"
+      },
+      {
+        "url": "https://myco.io/videohome/682f1e66d132b2399b27ab00",
+        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-3jpg-1751381255548.webp&w=3840&q=30",
+        "name": "Aaj Entertainment",
+        "m3u8_url": "https://myco.telflex.net:8088/AAJENT_FHD/video.m3u8?token=KsR3k27_sH3n-2"
       }
     ]
   }
