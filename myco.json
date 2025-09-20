@@ -1,11 +1,11 @@
 {
   "Author": "Abid",
   "For Update": "DM me on Telegram @MAbidOfficial",
-  "last_update": "20-09-2025 : 15:03:12",
-  "total_links": 19,
+  "last_update": "20-09-2025 : 20:53:37",
+  "total_links": 20,
   "category_counts": {
     "Live": 1,
-    "Channels": 18
+    "Channels": 19
   },
   "categories": {
     "Live": [
@@ -13,7 +13,7 @@
         "url": "https://myco.io/videohome/68cda8a765a5273a511849d8",
         "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250919%2Fmycolive-ThumbLivejpg-1758308518107.webp&w=3840&q=30",
         "name": "Sri Lanka vs Bangladesh | 13th Match | Asia Cup 2025 | on myco",
-        "m3u8_url": "https://ml-pull-hwc.myco.io/stream2/hls/stream2.m3u8"
+        "m3u8_url": "https://ml-pull-rtmp-pk1.myco.io/AsiaCupMain/hls/index.m3u8"
       }
     ],
     "Channels": [
@@ -124,6 +124,12 @@
         "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-3jpg-1751381255548.webp&w=3840&q=30",
         "name": "Aaj Entertainment",
         "m3u8_url": "https://myco.telflex.net:8088/AAJENT_FHD/video.m3u8?token=KsR3k27_sH3n-2"
+      },
+      {
+        "url": "https://myco.io/videohome/682f1c9595dce935340d76d1",
+        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-4jpg-1751381286619.webp&w=3840&q=30",
+        "name": "Aaj News",
+        "m3u8_url": "https://myco.telflex.net:8088/AAJNEWS_FHD/video.m3u8?token=KsR3k27_sH3n-2"
       }
     ]
   }
