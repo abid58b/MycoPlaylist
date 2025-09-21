@@ -1,22 +1,22 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250920%2Fmycolive-ThumbLivejpg-1758387726305.webp&w=3840&q=30" group-title="Live",Pakistan vs India | 14th Match | Asia Cup 2025 | on myco
-https://myco.maxott.fun:8088/published/index.m3u8
+https://myco.maxott.fun:2096/MYCO-PROMO/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250814%2Fmycolive-4jpg-1755192345133.webp&w=3840&q=30" group-title="Channels",Discover Pakistan
-https://myco.telflex.net:8088/DISCOVERPAKISTAN_FHD/video.m3u8?token=KsR3k27_sH3n-2
+https://myco.maxott.fun:2096/DISCOVER_PAKISTAN/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250814%2Fmycolive-11jpg-1755175677114.webp&w=3840&q=30" group-title="Channels",BBC Lifestyle
 https://myco.telflex.net:8088/BBCLIFESTYLE_FHD/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250814%2Fmycolive-WhatsApp_Image_20250814_at_53344_PMjpeg-1755174841190.webp&w=3840&q=30" group-title="Channels",EPL - PROMO
 https://ml-pull-hwc.myco.io/PROMO/hls/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250813%2Fmycolive-9jpg-1755075660153.webp&w=3840&q=30" group-title="Channels",PBS Kids
-https://myco.telflex.net:8088/PBSKIDS_FHD/video.m3u8?token=KsR3k27_sH3n-2
+https://streaming.telflex.net:8088/PBS_KIDS/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250813%2Fmycolive-8jpg-1755075220532.webp&w=3840&q=30" group-title="Channels",Disnep Kids
-https://myco.telflex.net:8088/DISNEYCHANNEL_FHD/video.m3u8?token=KsR3k27_sH3n-2
+https://streaming.telflex.net:8088/DISNEY_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250804%2Fmycolive-3jpg-1754315453863.webp&w=3840&q=30" group-title="Channels",Al Jazeera
 https://myco.telflex.net:8088/ALJAZEERAENG_FHD/video.m3u8?token=KsR3k27_sH3n-2
 #EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250804%2Fmycolive-5jpg-1754315196301.webp&w=3840&q=30" group-title="Channels",8XM HD
-https://myco.telflex.net:8088/8XM_FHD/video.m3u8?token=KsR3k27_sH3n-2
+https://myco.maxott.fun:2096/8XM_MUSIC/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-7jpg-1751381543101.webp&w=3840&q=30" group-title="Channels",Abbtakk News
-https://myco.telflex.net:8088/ABBTAKNEWS_FHD/video.m3u8?token=KsR3k27_sH3n-2
+https://myco.maxott.fun:2096/ABBTAK_NEWS/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250625%2Fmycolive-CaptialTvjpg-1750838029644.webp&w=3840&q=30" group-title="Channels",Capital TV
 https://myco.telflex.net:8088/CAPITALNEWS_FHD/video.m3u8?token=KsR3k27_sH3n-2
 #EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250625%2Fmycolive-Watch_green_entertainment_channel_online_freejpg-1750856023512.webp&w=3840&q=30" group-title="Channels",Green Entertainment TV | Live Free Streaming
@@ -49,3 +49,5 @@ https://ml-pull-hwc.myco.io/MixONE/hls/index.m3u8
 https://ml-pull-hwc.myco.io/MixTV/hls/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20240920%2Fmycolive-thumb2jpg-1726843385402.webp&w=3840&q=30" group-title="Channels",CGTN Arabic
 https://global.cgtn.cicc.media.caton.cloud/master/cgtn-arabic.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20240920%2Fmycolive-thumb1jpg-1726843358649.webp&w=3840&q=30" group-title="Channels",CGTN English
+https://global.cgtn.cicc.media.caton.cloud/master/cgtn_myco.m3u8
