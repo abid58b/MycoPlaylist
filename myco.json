@@ -1,7 +1,7 @@
 {
   "Author": "Abid",
   "For Update": "DM me on Telegram @MAbidOfficial",
-  "last_update": "21-09-2025 : 15:01:31",
+  "last_update": "21-09-2025 : 18:07:22",
   "total_links": 26,
   "category_counts": {
     "Live": 1,
@@ -17,6 +17,12 @@
       }
     ],
     "Channels": [
+      {
+        "url": "https://myco.io/videohome/68c5536773426b874f678fd1",
+        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250913%2Fmycolive-thumb_28jpg-1757762407807.webp&w=3840&q=30",
+        "name": "The Dug Out - Asia Cup 2025",
+        "m3u8_url": "https://ml-pull-rtmp-pk1.myco.io/AsiaCup2/hls/index.m3u8"
+      },
       {
         "url": "https://myco.io/videohome/689e1c195135d41bf965b7cb",
         "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250814%2Fmycolive-4jpg-1755192345133.webp&w=3840&q=30",
@@ -160,12 +166,6 @@
         "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20240920%2Fmycolive-thumb2jpg-1726843385402.webp&w=3840&q=30",
         "name": "CGTN Arabic",
         "m3u8_url": "https://global.cgtn.cicc.media.caton.cloud/master/cgtn-arabic.m3u8"
-      },
-      {
-        "url": "https://myco.io/videohome/66ea658e13a6f6fce0bab8b2",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20240920%2Fmycolive-thumb1jpg-1726843358649.webp&w=3840&q=30",
-        "name": "CGTN English",
-        "m3u8_url": "https://global.cgtn.cicc.media.caton.cloud/master/cgtn_myco.m3u8"
       }
     ]
   }
