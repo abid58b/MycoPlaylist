@@ -1,28 +1,22 @@
 {
   "Author": "Abid",
   "For Update": "DM me on Telegram @MAbidOfficial",
-  "last_update": "21-09-2025 : 18:07:22",
-  "total_links": 26,
+  "last_update": "22-09-2025 : 00:03:07",
+  "total_links": 19,
   "category_counts": {
     "Live": 1,
-    "Channels": 25
+    "Channels": 18
   },
   "categories": {
     "Live": [
       {
-        "url": "https://myco.io/videohome/68cede0fbc5ad33200ff8926",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250920%2Fmycolive-ThumbLivejpg-1758387726305.webp&w=3840&q=30",
-        "name": "Pakistan vs India | 14th Match | Asia Cup 2025 | on myco",
-        "m3u8_url": "https://myco.maxott.fun:2096/MYCO-PROMO/index.m3u8"
+        "url": "https://myco.io/videohome/68d049d8da473b9560d0a245",
+        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250921%2Fmycolive-WhatsApp_Image_20250921_at_115005_PMjpeg-1758480856370.webp&w=3840&q=30",
+        "name": "Pakistan vs Sri Lanka | 15th Match | Asia Cup 2025 | on myco",
+        "m3u8_url": "https://ml-pull-hwc.myco.io/stream2/hls/stream2.m3u8"
       }
     ],
     "Channels": [
-      {
-        "url": "https://myco.io/videohome/68c5536773426b874f678fd1",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250913%2Fmycolive-thumb_28jpg-1757762407807.webp&w=3840&q=30",
-        "name": "The Dug Out - Asia Cup 2025",
-        "m3u8_url": "https://ml-pull-rtmp-pk1.myco.io/AsiaCup2/hls/index.m3u8"
-      },
       {
         "url": "https://myco.io/videohome/689e1c195135d41bf965b7cb",
         "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250814%2Fmycolive-4jpg-1755192345133.webp&w=3840&q=30",
@@ -130,42 +124,6 @@
         "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-3jpg-1751381255548.webp&w=3840&q=30",
         "name": "Aaj Entertainment",
         "m3u8_url": "https://myco.telflex.net:8088/AAJENT_FHD/video.m3u8?token=KsR3k27_sH3n-2"
-      },
-      {
-        "url": "https://myco.io/videohome/682f1c9595dce935340d76d1",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-4jpg-1751381286619.webp&w=3840&q=30",
-        "name": "Aaj News",
-        "m3u8_url": "https://myco.telflex.net:8088/AAJNEWS_FHD/video.m3u8?token=KsR3k27_sH3n-2"
-      },
-      {
-        "url": "https://myco.io/videohome/6798e14cc13e0a3cd93d24f0",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250128%2Fmycolive-cgtnjpg-1738072396919.webp&w=3840&q=30",
-        "name": "CGTN Documentary",
-        "m3u8_url": "https://global.cgtn.cicc.media.caton.cloud/master/cgtn-documentary_myco.m3u8"
-      },
-      {
-        "url": "https://myco.io/videohome/67764e92c13e0a3cd924cf54",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-8jpg-1751381422278.webp&w=3840&q=30",
-        "name": "Mix Bel Araby",
-        "m3u8_url": "https://ml-pull-hwc.myco.io/MixBelAraby/hls/index.m3u8"
-      },
-      {
-        "url": "https://myco.io/videohome/67764d04d040a3a0e2597a40",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-10jpg-1751381447882.webp&w=3840&q=30",
-        "name": "Mix ONE",
-        "m3u8_url": "https://ml-pull-hwc.myco.io/MixONE/hls/index.m3u8"
-      },
-      {
-        "url": "https://myco.io/videohome/670533a7bf8a4684f0188155",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-9jpg-1751381481661.webp&w=3840&q=30",
-        "name": "Mix TV",
-        "m3u8_url": "https://ml-pull-hwc.myco.io/MixTV/hls/index.m3u8"
-      },
-      {
-        "url": "https://myco.io/videohome/66ea67498dcc00534340d4a1",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20240920%2Fmycolive-thumb2jpg-1726843385402.webp&w=3840&q=30",
-        "name": "CGTN Arabic",
-        "m3u8_url": "https://global.cgtn.cicc.media.caton.cloud/master/cgtn-arabic.m3u8"
       }
     ]
   }
