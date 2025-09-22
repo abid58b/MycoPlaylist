@@ -1,7 +1,7 @@
 {
   "Author": "Abid",
   "For Update": "DM me on Telegram @MAbidOfficial",
-  "last_update": "22-09-2025 : 15:03:26",
+  "last_update": "22-09-2025 : 18:45:49",
   "total_links": 19,
   "category_counts": {
     "Live": 1,
@@ -11,9 +11,9 @@
     "Live": [
       {
         "url": "https://myco.io/videohome/68d049d8da473b9560d0a245",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250921%2Fmycolive-WhatsApp_Image_20250921_at_115005_PMjpeg-1758480856370.webp&w=3840&q=30",
+        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250922%2Fmycolive-ThumbLivepng-1758546327233.webp&w=3840&q=30",
         "name": "Pakistan vs Sri Lanka | 15th Match | Asia Cup 2025 | on myco",
-        "m3u8_url": "https://ml-pull-hwc.myco.io/stream2/hls/stream2.m3u8"
+        "m3u8_url": "https://myco.maxott.fun:2096/MYCO_ASIA_CUP_PROMO/index.m3u8"
       }
     ],
     "Channels": [
@@ -99,7 +99,7 @@
         "url": "https://myco.io/videohome/683837d04af76c0b35ca39e9",
         "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250529%2Fmycolive-myco_Sports_247jpeg-1748514767310.webp&w=3840&q=30",
         "name": "myco sports 24/7",
-        "m3u8_url": "https://ml-pull-hwc.myco.io/stream1/hls/stream1.m3u8"
+        "m3u8_url": "https://myco.maxott.fun:2096/MYCO_24/7_SPORTS/index.m3u8"
       },
       {
         "url": "https://myco.io/videohome/68382ec7a8a42ec476af2959",
