@@ -1,10 +1,10 @@
 {
   "Author": "Abid",
   "For Update": "DM me on Telegram @MAbidOfficial",
-  "last_update": "23-09-2025 : 12:03:29",
-  "total_links": 19,
+  "last_update": "23-09-2025 : 16:00:41",
+  "total_links": 20,
   "category_counts": {
-    "Live": 1,
+    "Live": 2,
     "Channels": 18
   },
   "categories": {
@@ -14,6 +14,12 @@
         "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250922%2Fmycolive-ThumbLivepng-1758546327233.webp&w=3840&q=30",
         "name": "Pakistan vs Sri Lanka | 15th Match | Asia Cup 2025 | on myco",
         "m3u8_url": "https://myco.maxott.fun:2096/MYCO_ASIA_CUP_PROMO/index.m3u8"
+      },
+      {
+        "url": "https://myco.io/videohome/68c7c80dd57397cf017fa9b7",
+        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250915%2Fft-PeoplesGazettewebp-1757923339811.webp&w=3840&q=30",
+        "name": "matches",
+        "m3u8_url": "https://content.jwplatform.com/manifests/yp34SRmf.m3u8"
       }
     ],
     "Channels": [
