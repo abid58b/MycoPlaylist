@@ -1,7 +1,7 @@
 {
   "Author": "Abid",
   "For Update": "DM me on Telegram @MAbidOfficial",
-  "last_update": "23-09-2025 : 19:01:56",
+  "last_update": "24-09-2025 : 00:44:56",
   "total_links": 20,
   "category_counts": {
     "Live": 2,
@@ -10,10 +10,10 @@
   "categories": {
     "Live": [
       {
-        "url": "https://myco.io/videohome/68d049d8da473b9560d0a245",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250922%2Fmycolive-ThumbLivepng-1758546327233.webp&w=3840&q=30",
-        "name": "Pakistan vs Sri Lanka | 15th Match | Asia Cup 2025 | on myco",
-        "m3u8_url": "https://ml-pull-rtmp-pk1.myco.io/AsiaCupMain/hls/index.m3u8"
+        "url": "https://myco.io/videohome/68d2f5944b66d3eb43d409ba",
+        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250923%2Fmycolive-ThumbLivepng-1758655891871.webp&w=3840&q=30",
+        "name": "India vs Bangladesh | 16th Match | Asia Cup 2025 | on myco",
+        "m3u8_url": "https://myco.maxott.fun:2096/MYCO_ASIA_CUP_PROMO/index.m3u8"
       },
       {
         "url": "https://myco.io/videohome/68c7c80dd57397cf017fa9b7",
