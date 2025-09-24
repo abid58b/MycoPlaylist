@@ -1,7 +1,7 @@
 {
   "Author": "Abid",
   "For Update": "DM me on Telegram @MAbidOfficial",
-  "last_update": "24-09-2025 : 15:03:00",
+  "last_update": "24-09-2025 : 18:08:25",
   "total_links": 20,
   "category_counts": {
     "Live": 2,
@@ -13,7 +13,7 @@
         "url": "https://myco.io/videohome/68d2f5944b66d3eb43d409ba",
         "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250923%2Fmycolive-ThumbLivepng-1758655891871.webp&w=3840&q=30",
         "name": "India vs Bangladesh | 16th Match | Asia Cup 2025 | on myco",
-        "m3u8_url": "https://myco.maxott.fun:2096/MYCO_ASIA_CUP_PROMO/index.m3u8"
+        "m3u8_url": "https://ml-pull-hwc.myco.io/stream2/hls/stream2.m3u8"
       },
       {
         "url": "https://myco.io/videohome/68c7c80dd57397cf017fa9b7",
@@ -45,19 +45,19 @@
         "url": "https://myco.io/videohome/689c544c5135d41bf96497c3",
         "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250813%2Fmycolive-9jpg-1755075660153.webp&w=3840&q=30",
         "name": "PBS Kids",
-        "m3u8_url": "https://streaming.telflex.net:8088/PBS_KIDS/index.m3u8"
+        "m3u8_url": "https://us.ml-pull-dvc-myco.io:2096/PBS_KIDS/index.m3u8"
       },
       {
         "url": "https://myco.io/videohome/689c529413d8d1168ffa302f",
         "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250813%2Fmycolive-8jpg-1755075220532.webp&w=3840&q=30",
         "name": "Disnep Kids",
-        "m3u8_url": "https://streaming.telflex.net:8088/DISNEY_CHANNEL/index.m3u8"
+        "m3u8_url": "https://us.ml-pull-dvc-myco.io:2096/DISNEY_CHANNEL/index.m3u8"
       },
       {
         "url": "https://myco.io/videohome/6890babe3f4c9b18f49426d0",
         "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250804%2Fmycolive-3jpg-1754315453863.webp&w=3840&q=30",
         "name": "Al Jazeera",
-        "m3u8_url": "https://myco.telflex.net:8088/ALJAZEERAENG_FHD/video.m3u8?token=KsR3k27_sH3n-2"
+        "m3u8_url": "https://us.ml-pull-dvc-myco.io:2096/AL_JAZEERA_ENG/index.m3u8"
       },
       {
         "url": "https://myco.io/videohome/6890b9bd64c8e4f0ca407ea2",
@@ -105,7 +105,7 @@
         "url": "https://myco.io/videohome/683837d04af76c0b35ca39e9",
         "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250529%2Fmycolive-myco_Sports_247jpeg-1748514767310.webp&w=3840&q=30",
         "name": "myco sports 24/7",
-        "m3u8_url": "https://myco.maxott.fun:2096/MYCO_24/7_SPORTS/index.m3u8"
+        "m3u8_url": "https://ml-pull-dvc-myco.io:2096/MYCO_24/7_SPORTS/index.m3u8"
       },
       {
         "url": "https://myco.io/videohome/68382ec7a8a42ec476af2959",
