@@ -1,7 +1,7 @@
 {
   "Author": "Abid",
   "For Update": "DM me on Telegram @MAbidOfficial",
-  "last_update": "24-09-2025 : 18:08:25",
+  "last_update": "24-09-2025 : 21:23:51",
   "total_links": 20,
   "category_counts": {
     "Live": 2,
@@ -13,7 +13,7 @@
         "url": "https://myco.io/videohome/68d2f5944b66d3eb43d409ba",
         "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250923%2Fmycolive-ThumbLivepng-1758655891871.webp&w=3840&q=30",
         "name": "India vs Bangladesh | 16th Match | Asia Cup 2025 | on myco",
-        "m3u8_url": "https://ml-pull-hwc.myco.io/stream2/hls/stream2.m3u8"
+        "m3u8_url": "https://ml-pull-rtmp-pk1.myco.io/AsiaCupMain/hls/index.m3u8"
       },
       {
         "url": "https://myco.io/videohome/68c7c80dd57397cf017fa9b7",
@@ -27,7 +27,7 @@
         "url": "https://myco.io/videohome/689e1c195135d41bf965b7cb",
         "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250814%2Fmycolive-4jpg-1755192345133.webp&w=3840&q=30",
         "name": "Discover Pakistan",
-        "m3u8_url": "https://myco.maxott.fun:2096/DISCOVER_PAKISTAN/index.m3u8"
+        "m3u8_url": "https://ml-pull-dvc-myco.io:2096/DISCOVER_PAKISTAN/index.m3u8"
       },
       {
         "url": "https://myco.io/videohome/689dda3f3f4c9b18f4a24a0e",
@@ -63,13 +63,13 @@
         "url": "https://myco.io/videohome/6890b9bd64c8e4f0ca407ea2",
         "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250804%2Fmycolive-5jpg-1754315196301.webp&w=3840&q=30",
         "name": "8XM HD",
-        "m3u8_url": "https://myco.maxott.fun:2096/8XM_MUSIC/index.m3u8"
+        "m3u8_url": "https://ml-pull-dvc-myco.io:2096/8XM_MUSIC/index.m3u8"
       },
       {
         "url": "https://myco.io/videohome/685babbf23efb8c4f551a9d9",
         "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-7jpg-1751381543101.webp&w=3840&q=30",
         "name": "Abbtakk News",
-        "m3u8_url": "https://myco.maxott.fun:2096/ABBTAK_NEWS/index.m3u8"
+        "m3u8_url": "https://ml-pull-dvc-myco.io:2096/ABBTAK_NEWS/index.m3u8"
       },
       {
         "url": "https://myco.io/videohome/685bab0f8593d91eb46a15be",
