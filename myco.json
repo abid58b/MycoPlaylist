@@ -1,7 +1,7 @@
 {
   "Author": "Abid",
   "For Update": "DM me on Telegram @MAbidOfficial",
-  "last_update": "25-09-2025 : 15:03:06",
+  "last_update": "25-09-2025 : 18:03:03",
   "total_links": 20,
   "category_counts": {
     "Live": 2,
@@ -28,6 +28,12 @@
         "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250924%2Fmycolive-Screenshot_20250924_161235png-1758712410764.webp&w=3840&q=30",
         "name": "ASIA CUP  PROMO",
         "m3u8_url": "https://ml-pull-hwc.myco.io/TestSep16/hls/index.m3u8"
+      },
+      {
+        "url": "https://myco.io/videohome/68c5536773426b874f678fd1",
+        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250913%2Fmycolive-thumb_28jpg-1757762407807.webp&w=3840&q=30",
+        "name": "The Dug Out - Asia Cup 2025",
+        "m3u8_url": "https://ml-pull-rtmp-pk1.myco.io/AsiaCup2/hls/index.m3u8"
       },
       {
         "url": "https://myco.io/videohome/689e1c195135d41bf965b7cb",
@@ -124,12 +130,6 @@
         "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-18jpg-1751381198697.webp&w=3840&q=30",
         "name": "Time News HD",
         "m3u8_url": "https://myco.telflex.net:8088/TIMENEWS_FHD/video.m3u8?token=KsR3k27_sH3n-2"
-      },
-      {
-        "url": "https://myco.io/videohome/683074438dfcfbbcde5c20d6",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-13jpg-1751381222642.webp&w=3840&q=30",
-        "name": "MUN TV",
-        "m3u8_url": "https://myco.telflex.net:8088/MUNTV_FHD/video.m3u8?token=KsR3k27_sH3n-2"
       }
     ]
   }
