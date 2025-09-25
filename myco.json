@@ -1,7 +1,7 @@
 {
   "Author": "Abid",
   "For Update": "DM me on Telegram @MAbidOfficial",
-  "last_update": "24-09-2025 : 21:23:51",
+  "last_update": "25-09-2025 : 15:03:06",
   "total_links": 20,
   "category_counts": {
     "Live": 2,
@@ -10,10 +10,10 @@
   "categories": {
     "Live": [
       {
-        "url": "https://myco.io/videohome/68d2f5944b66d3eb43d409ba",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250923%2Fmycolive-ThumbLivepng-1758655891871.webp&w=3840&q=30",
-        "name": "India vs Bangladesh | 16th Match | Asia Cup 2025 | on myco",
-        "m3u8_url": "https://ml-pull-rtmp-pk1.myco.io/AsiaCupMain/hls/index.m3u8"
+        "url": "https://myco.io/videohome/68d435fe3ab8473ef0b62328",
+        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250924%2Fmycolive-ThumbLivepng-1758737918515.webp&w=3840&q=30",
+        "name": "Pakistan vs Bangladesh | 17th Match | Asia Cup 2025 | on myco",
+        "m3u8_url": "https://ml-pull-dvc-myco.io:2096/MYCO_ASIA_CUP_PROMO/index.m3u8"
       },
       {
         "url": "https://myco.io/videohome/68c7c80dd57397cf017fa9b7",
@@ -23,6 +23,12 @@
       }
     ],
     "Channels": [
+      {
+        "url": "https://myco.io/videohome/68d3d25b5c76d032b557c235",
+        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250924%2Fmycolive-Screenshot_20250924_161235png-1758712410764.webp&w=3840&q=30",
+        "name": "ASIA CUP  PROMO",
+        "m3u8_url": "https://ml-pull-hwc.myco.io/TestSep16/hls/index.m3u8"
+      },
       {
         "url": "https://myco.io/videohome/689e1c195135d41bf965b7cb",
         "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250814%2Fmycolive-4jpg-1755192345133.webp&w=3840&q=30",
@@ -124,12 +130,6 @@
         "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-13jpg-1751381222642.webp&w=3840&q=30",
         "name": "MUN TV",
         "m3u8_url": "https://myco.telflex.net:8088/MUNTV_FHD/video.m3u8?token=KsR3k27_sH3n-2"
-      },
-      {
-        "url": "https://myco.io/videohome/682f1e66d132b2399b27ab00",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-3jpg-1751381255548.webp&w=3840&q=30",
-        "name": "Aaj Entertainment",
-        "m3u8_url": "https://myco.telflex.net:8088/AAJENT_FHD/video.m3u8?token=KsR3k27_sH3n-2"
       }
     ]
   }
