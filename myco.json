@@ -1,19 +1,25 @@
 {
   "Author": "Abid",
   "For Update": "DM me on Telegram @MAbidOfficial",
-  "last_update": "26-09-2025 : 19:07:03",
-  "total_links": 18,
+  "last_update": "27-09-2025 : 21:56:53",
+  "total_links": 23,
   "category_counts": {
-    "Live": 1,
-    "Channels": 17
+    "Live": 2,
+    "Channels": 21
   },
   "categories": {
     "Live": [
       {
-        "url": "https://myco.io/videohome/68d58aca3ab8473ef0b8784d",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250925%2Fmycolive-ThumbLivepng-1758825162953.webp&w=3840&q=30",
-        "name": "India vs Sri Lanka | 17th Match | Asia Cup 2025 | on myco",
-        "m3u8_url": "https://ml-pull-rtmp-pk1.myco.io/AsiaCupMain/hls/index.m3u8"
+        "url": "https://myco.io/videohome/68d6d5d977995a46c77dd835",
+        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250926%2Fmycolive-ThumbLivejpg-1758909912517.webp&w=3840&q=30",
+        "name": "Pakistan vs India | FINAL | 19th Match | Asia Cup 2025 | on myco",
+        "m3u8_url": "https://ml-pull-dvc-myco.io:2096/MYCO_ASIA_CUP_PROMO/index.m3u8"
+      },
+      {
+        "url": "https://myco.io/videohome/68d0568a4a2fa398d8904124",
+        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250921%2Fmycolive-NO_LIVE_THUMBpng-1758484105284.webp&w=3840&q=30",
+        "name": "Nott'm Forest vs Sunderland | Matchweek - 6 of  English Premier League 2025-26",
+        "m3u8_url": "https://ml-pull-hwc.myco.io/EPLBONGO6/hls/index.m3u8"
       }
     ],
     "Channels": [
@@ -118,6 +124,30 @@
         "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-18jpg-1751381198697.webp&w=3840&q=30",
         "name": "Time News HD",
         "m3u8_url": "https://myco.telflex.net:8088/TIMENEWS_FHD/video.m3u8?token=KsR3k27_sH3n-2"
+      },
+      {
+        "url": "https://myco.io/videohome/683074438dfcfbbcde5c20d6",
+        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-13jpg-1751381222642.webp&w=3840&q=30",
+        "name": "MUN TV",
+        "m3u8_url": "https://myco.telflex.net:8088/MUNTV_FHD/video.m3u8?token=KsR3k27_sH3n-2"
+      },
+      {
+        "url": "https://myco.io/videohome/682f1e66d132b2399b27ab00",
+        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-3jpg-1751381255548.webp&w=3840&q=30",
+        "name": "Aaj Entertainment",
+        "m3u8_url": "https://myco.telflex.net:8088/AAJENT_FHD/video.m3u8?token=KsR3k27_sH3n-2"
+      },
+      {
+        "url": "https://myco.io/videohome/682f1c9595dce935340d76d1",
+        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-4jpg-1751381286619.webp&w=3840&q=30",
+        "name": "Aaj News",
+        "m3u8_url": "https://myco.telflex.net:8088/AAJNEWS_FHD/video.m3u8?token=KsR3k27_sH3n-2"
+      },
+      {
+        "url": "https://myco.io/videohome/6798e14cc13e0a3cd93d24f0",
+        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250128%2Fmycolive-cgtnjpg-1738072396919.webp&w=3840&q=30",
+        "name": "CGTN Documentary",
+        "m3u8_url": "https://global.cgtn.cicc.media.caton.cloud/master/cgtn-documentary_myco.m3u8"
       }
     ]
   }
