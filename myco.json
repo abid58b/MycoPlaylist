@@ -1,27 +1,26 @@
 {
   "Author": "Abid",
   "For Update": "DM me on Telegram @MAbidOfficial",
-  "last_update": "29-09-2025 : 00:05:48",
+  "last_update": "29-09-2025 : 18:03:59",
   "total_links": 17,
   "category_counts": {
-    "Live": 1,
-    "Channels": 16
+    "Live": 0,
+    "Channels": 17
   },
   "categories": {
-    "Live": [
-      {
-        "url": "https://myco.io/videohome/68d6d5d977995a46c77dd835",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250926%2Fmycolive-ThumbLivejpg-1758909912517.webp&w=3840&q=30",
-        "name": "Pakistan vs India | FINAL | 19th Match | Asia Cup 2025 | on myco",
-        "m3u8_url": "https://ml-pull-rtmp-pk1.myco.io/AsiaCup2/hls/index.m3u8"
-      }
-    ],
+    "Live": [],
     "Channels": [
       {
         "url": "https://myco.io/videohome/68d66fe10df6dbfc10d36e60",
         "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250926%2Fft-images_14jpeg-1758883809100.webp&w=3840&q=30",
         "name": "sports",
         "m3u8_url": "https://cdn.bitmovin.com/content/assets/art-of-motion-dash-hls-progressive/m3u8s/f08e80da-bf1d-4e3d-8899-f0f6155f6efa.m3u8"
+      },
+      {
+        "url": "https://myco.io/videohome/68b2c644be6483581643a61f",
+        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250830%2Fmycolive-mpng-1756564193323.webp&w=3840&q=30",
+        "name": "Buypass TV",
+        "m3u8_url": "https://ml-pull-dvc-myco.io:2096/BUYPASS_TV/index.m3u8"
       },
       {
         "url": "https://myco.io/videohome/689e1c195135d41bf965b7cb",
