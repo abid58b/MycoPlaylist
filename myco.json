@@ -1,7 +1,7 @@
 {
   "Author": "Abid",
   "For Update": "DM me on Telegram @MAbidOfficial",
-  "last_update": "30-09-2025 : 15:10:28",
+  "last_update": "30-09-2025 : 18:51:41",
   "total_links": 18,
   "category_counts": {
     "Live": 1,
@@ -87,19 +87,19 @@
         "url": "https://myco.io/videohome/685ba90f23efb8c4f551a6ed",
         "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250625%2Fmycolive-Watch_green_entertainment_channel_online_freejpg-1750856023512.webp&w=3840&q=30",
         "name": "Green Entertainment TV | Live Free Streaming",
-        "m3u8_url": "https://myco.telflex.net:8088/GREENENT_FHD/video.m3u8?token=KsR3k27_sH3n-2"
+        "m3u8_url": "https://ml-pull-dvc-myco.io:2096/GREEN_ENTERTAINMENT/index.m3u8"
       },
       {
         "url": "https://myco.io/videohome/68402aeac265d95410f152d5",
         "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-1jpg-1751381074821.webp&w=3840&q=30",
         "name": "Saudi Quran TV",
-        "m3u8_url": "https://myco.telflex.net:8088/SAUDIQURAN-FHD/video.m3u8?token=KsR3k27_sH3n-2"
+        "m3u8_url": "https://ml-pull-dvc-myco.io:2096/SAUDI_QURAN/index.m3u8"
       },
       {
         "url": "https://myco.io/videohome/68402415d2d30d092c1cc5d4",
         "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-14jpg-1751381099951.webp&w=3840&q=30",
         "name": "Madani Channel",
-        "m3u8_url": "https://myco.telflex.net:8088/MADNICHANNEL-FHD/video.m3u8?token=KsR3k27_sH3n-2"
+        "m3u8_url": "https://ml-pull-dvc-myco.io:2096/MADNI_CHANNEL/index.m3u8"
       },
       {
         "url": "https://myco.io/videohome/6840238bc265d95410f14ea8",
@@ -117,7 +117,7 @@
         "url": "https://myco.io/videohome/68382ec7a8a42ec476af2959",
         "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-6jpg-1751381173414.webp&w=3840&q=30",
         "name": "Channel 5 News HD",
-        "m3u8_url": "https://myco.telflex.net:8088/CHANNEL5NEWS_FHD/video.m3u8?token=KsR3k27_sH3n-2"
+        "m3u8_url": "https://ml-pull-dvc-myco.io:2096/CHANNEL_5_NEWS/index.m3u8"
       }
     ]
   }
