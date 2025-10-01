@@ -1,7 +1,7 @@
 {
   "Author": "Abid",
   "For Update": "DM me on Telegram @MAbidOfficial",
-  "last_update": "01-10-2025 : 15:03:20",
+  "last_update": "01-10-2025 : 18:03:18",
   "total_links": 18,
   "category_counts": {
     "Live": 1,
@@ -17,6 +17,24 @@
       }
     ],
     "Channels": [
+      {
+        "url": "https://myco.io/videohome/68dd23554b66d3eb43dd8878",
+        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251001%2Fmycolive-Disnep_XD_png-1759322964912.webp&w=3840&q=30",
+        "name": "Disney XD",
+        "m3u8_url": "https://us.ml-pull-dvc-myco.io:2096/DISNEY_XD/index.m3u8"
+      },
+      {
+        "url": "https://myco.io/videohome/68dd21b658291f57d26eeafb",
+        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251001%2Fmycolive-Disnep_JR_1png-1759322549163.webp&w=3840&q=30",
+        "name": "Disney Jr",
+        "m3u8_url": "https://us.ml-pull-dvc-myco.io:2096/DISNEY_JR/index.m3u8"
+      },
+      {
+        "url": "https://myco.io/videohome/68dd17a25c5560e77c7614d7",
+        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251001%2Fmycolive-Baby_TV_2png-1759319969482.webp&w=3840&q=30",
+        "name": "Baby TV",
+        "m3u8_url": "https://ml-pull-dvc-myco.io:2096/BABY_TV/index.m3u8"
+      },
       {
         "url": "https://myco.io/videohome/68d66fe10df6dbfc10d36e60",
         "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250926%2Fft-images_14jpeg-1758883809100.webp&w=3840&q=30",
@@ -100,24 +118,6 @@
         "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-14jpg-1751381099951.webp&w=3840&q=30",
         "name": "Madani Channel",
         "m3u8_url": "https://ml-pull-dvc-myco.io:2096/MADNI_CHANNEL/index.m3u8"
-      },
-      {
-        "url": "https://myco.io/videohome/6840238bc265d95410f14ea8",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-15jpg-1751381144523.webp&w=3840&q=30",
-        "name": "Hyder TV",
-        "m3u8_url": "https://ml-pull-hwc.myco.io/hydertvcanada/hls/index.m3u8"
-      },
-      {
-        "url": "https://myco.io/videohome/683837d04af76c0b35ca39e9",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250529%2Fmycolive-myco_Sports_247jpeg-1748514767310.webp&w=3840&q=30",
-        "name": "myco sports 24/7",
-        "m3u8_url": "https://ml-pull-hwc.myco.io/stream1/hls/stream1.m3u8"
-      },
-      {
-        "url": "https://myco.io/videohome/68382ec7a8a42ec476af2959",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-6jpg-1751381173414.webp&w=3840&q=30",
-        "name": "Channel 5 News HD",
-        "m3u8_url": "https://ml-pull-dvc-myco.io:2096/CHANNEL_5_NEWS/index.m3u8"
       }
     ]
   }
