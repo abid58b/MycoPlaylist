@@ -1,21 +1,14 @@
 {
   "Author": "Abid",
   "For Update": "DM me on Telegram @MAbidOfficial",
-  "last_update": "30-09-2025 : 22:58:39",
+  "last_update": "01-10-2025 : 12:03:29",
   "total_links": 18,
   "category_counts": {
-    "Live": 1,
-    "Channels": 17
+    "Live": 0,
+    "Channels": 18
   },
   "categories": {
-    "Live": [
-      {
-        "url": "https://myco.io/videohome/68dacb115eaf2726af56b0dd",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250929%2Fmycolive-WhatsApp_Image_20250929_at_105631_PM_2jpeg-1759169296808.webp&w=3840&q=30",
-        "name": "India vs Sri Lanka | Match -  1 | ICC Women’s World Cup Live on myco",
-        "m3u8_url": "https://ml-pull-rtmp-pk1.myco.io/AsiaCupMain/hls/index.m3u8"
-      }
-    ],
+    "Live": [],
     "Channels": [
       {
         "url": "https://myco.io/videohome/68d66fe10df6dbfc10d36e60",
@@ -27,7 +20,7 @@
         "url": "https://myco.io/videohome/68b2c644be6483581643a61f",
         "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250830%2Fmycolive-mpng-1756564193323.webp&w=3840&q=30",
         "name": "Buypass TV",
-        "m3u8_url": "https://ml-pull-dvc-myco.io:2096/BUYPASS_TV/index.m3u8"
+        "m3u8_url": "https://ml-pull-hwc.myco.io/TV/hls/index.m3u8"
       },
       {
         "url": "https://myco.io/videohome/689e1c195135d41bf965b7cb",
@@ -111,13 +104,19 @@
         "url": "https://myco.io/videohome/683837d04af76c0b35ca39e9",
         "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250529%2Fmycolive-myco_Sports_247jpeg-1748514767310.webp&w=3840&q=30",
         "name": "myco sports 24/7",
-        "m3u8_url": "https://ml-pull-dvc-myco.io:2096/MYCO_24/7_SPORTS/index.m3u8"
+        "m3u8_url": "https://ml-pull-hwc.myco.io/stream1/hls/stream1.m3u8"
       },
       {
         "url": "https://myco.io/videohome/68382ec7a8a42ec476af2959",
         "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-6jpg-1751381173414.webp&w=3840&q=30",
         "name": "Channel 5 News HD",
         "m3u8_url": "https://ml-pull-dvc-myco.io:2096/CHANNEL_5_NEWS/index.m3u8"
+      },
+      {
+        "url": "https://myco.io/videohome/68309e5379580b256d1b1b82",
+        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-18jpg-1751381198697.webp&w=3840&q=30",
+        "name": "Time News HD",
+        "m3u8_url": "https://ml-pull-dvc-myco.io:2096/TIME_NEWS/index.m3u8"
       }
     ]
   }
