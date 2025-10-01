@@ -1,14 +1,21 @@
 {
   "Author": "Abid",
   "For Update": "DM me on Telegram @MAbidOfficial",
-  "last_update": "01-10-2025 : 12:03:29",
+  "last_update": "01-10-2025 : 15:03:20",
   "total_links": 18,
   "category_counts": {
-    "Live": 0,
-    "Channels": 18
+    "Live": 1,
+    "Channels": 17
   },
   "categories": {
-    "Live": [],
+    "Live": [
+      {
+        "url": "https://myco.io/videohome/68dbcf695eaf2726af56cc59",
+        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250930%2Fmycolive-thumblivepng-1759237051709.webp&w=3840&q=30",
+        "name": "Australia vs New Zealand | Match -  2 | ICC Women’s World Cup Live on myco",
+        "m3u8_url": "https://cdn2.ml-pull-dvc-myco.io:2096/ICC-WWC-MATCH-2/index.m3u8"
+      }
+    ],
     "Channels": [
       {
         "url": "https://myco.io/videohome/68d66fe10df6dbfc10d36e60",
@@ -74,7 +81,7 @@
         "url": "https://myco.io/videohome/685bab0f8593d91eb46a15be",
         "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250625%2Fmycolive-CaptialTvjpg-1750838029644.webp&w=3840&q=30",
         "name": "Capital TV",
-        "m3u8_url": "https://myco.telflex.net:8088/CAPITALNEWS_FHD/video.m3u8?token=KsR3k27_sH3n-2"
+        "m3u8_url": "https://ml-pull-dvc-myco.io:2096/CAPITAL_NEWS/index.m3u8"
       },
       {
         "url": "https://myco.io/videohome/685ba90f23efb8c4f551a6ed",
@@ -111,12 +118,6 @@
         "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-6jpg-1751381173414.webp&w=3840&q=30",
         "name": "Channel 5 News HD",
         "m3u8_url": "https://ml-pull-dvc-myco.io:2096/CHANNEL_5_NEWS/index.m3u8"
-      },
-      {
-        "url": "https://myco.io/videohome/68309e5379580b256d1b1b82",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-18jpg-1751381198697.webp&w=3840&q=30",
-        "name": "Time News HD",
-        "m3u8_url": "https://ml-pull-dvc-myco.io:2096/TIME_NEWS/index.m3u8"
       }
     ]
   }
