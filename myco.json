@@ -1,7 +1,7 @@
 {
   "Author": "Abid",
   "For Update": "DM me on Telegram @MAbidOfficial",
-  "last_update": "02-10-2025 : 15:30:59",
+  "last_update": "02-10-2025 : 19:40:46",
   "total_links": 18,
   "category_counts": {
     "Live": 1,
@@ -45,7 +45,7 @@
         "url": "https://myco.io/videohome/68b2c644be6483581643a61f",
         "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250830%2Fmycolive-mpng-1756564193323.webp&w=3840&q=30",
         "name": "Buypass TV",
-        "m3u8_url": "https://ml-pull-hwc.myco.io/TV/hls/index.m3u8"
+        "m3u8_url": "https://ml-pull-dvc-myco.io:2096/BuyPass_TV/index.m3u8"
       },
       {
         "url": "https://myco.io/videohome/689e1c195135d41bf965b7cb",
