@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251001%2Fmycolive-thumblivepng-1759338210271.webp&w=3840&q=30" group-title="Live",Bangladesh vs Pakistan | Match - 3 | ICC Women’s World Cup Live on myco
+https://cdn2.ml-pull-dvc-myco.io:2096/ICC-WWC-MATCH-3/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251001%2Fmycolive-Disnep_XD_png-1759322964912.webp&w=3840&q=30" group-title="Channels",Disney XD
 https://us.ml-pull-dvc-myco.io:2096/DISNEY_XD/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251001%2Fmycolive-Disnep_JR_1png-1759322549163.webp&w=3840&q=30" group-title="Channels",Disney Jr
@@ -33,5 +35,3 @@ https://ml-pull-dvc-myco.io:2096/GREEN_ENTERTAINMENT/index.m3u8
 https://ml-pull-dvc-myco.io:2096/SAUDI_QURAN/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-14jpg-1751381099951.webp&w=3840&q=30" group-title="Channels",Madani Channel
 https://ml-pull-dvc-myco.io:2096/MADNI_CHANNEL/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-15jpg-1751381144523.webp&w=3840&q=30" group-title="Channels",Hyder TV
-https://ml-pull-hwc.myco.io/hydertvcanada/hls/index.m3u8

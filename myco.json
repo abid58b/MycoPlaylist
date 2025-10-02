@@ -1,14 +1,21 @@
 {
   "Author": "Abid",
   "For Update": "DM me on Telegram @MAbidOfficial",
-  "last_update": "02-10-2025 : 12:03:44",
+  "last_update": "02-10-2025 : 15:14:42",
   "total_links": 18,
   "category_counts": {
-    "Live": 0,
-    "Channels": 18
+    "Live": 1,
+    "Channels": 17
   },
   "categories": {
-    "Live": [],
+    "Live": [
+      {
+        "url": "https://myco.io/videohome/68dd5ee25c5560e77c762b80",
+        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251001%2Fmycolive-thumblivepng-1759338210271.webp&w=3840&q=30",
+        "name": "Bangladesh vs Pakistan | Match - 3 | ICC Women’s World Cup Live on myco",
+        "m3u8_url": "https://cdn2.ml-pull-dvc-myco.io:2096/ICC-WWC-MATCH-3/index.m3u8"
+      }
+    ],
     "Channels": [
       {
         "url": "https://myco.io/videohome/68dd23554b66d3eb43dd8878",
@@ -111,12 +118,6 @@
         "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-14jpg-1751381099951.webp&w=3840&q=30",
         "name": "Madani Channel",
         "m3u8_url": "https://ml-pull-dvc-myco.io:2096/MADNI_CHANNEL/index.m3u8"
-      },
-      {
-        "url": "https://myco.io/videohome/6840238bc265d95410f14ea8",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-15jpg-1751381144523.webp&w=3840&q=30",
-        "name": "Hyder TV",
-        "m3u8_url": "https://ml-pull-hwc.myco.io/hydertvcanada/hls/index.m3u8"
       }
     ]
   }
