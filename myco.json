@@ -1,21 +1,14 @@
 {
   "Author": "Abid",
   "For Update": "DM me on Telegram @MAbidOfficial",
-  "last_update": "01-10-2025 : 21:03:28",
+  "last_update": "02-10-2025 : 12:03:44",
   "total_links": 18,
   "category_counts": {
-    "Live": 1,
-    "Channels": 17
+    "Live": 0,
+    "Channels": 18
   },
   "categories": {
-    "Live": [
-      {
-        "url": "https://myco.io/videohome/68dbcf695eaf2726af56cc59",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250930%2Fmycolive-thumblivepng-1759237051709.webp&w=3840&q=30",
-        "name": "Australia vs New Zealand | Match -  2 | ICC Women’s World Cup Live on myco",
-        "m3u8_url": "https://cdn2.ml-pull-dvc-myco.io:2096/ICC-WWC-MATCH-2/index.m3u8"
-      }
-    ],
+    "Live": [],
     "Channels": [
       {
         "url": "https://myco.io/videohome/68dd23554b66d3eb43dd8878",
@@ -118,6 +111,12 @@
         "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-14jpg-1751381099951.webp&w=3840&q=30",
         "name": "Madani Channel",
         "m3u8_url": "https://ml-pull-dvc-myco.io:2096/MADNI_CHANNEL/index.m3u8"
+      },
+      {
+        "url": "https://myco.io/videohome/6840238bc265d95410f14ea8",
+        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-15jpg-1751381144523.webp&w=3840&q=30",
+        "name": "Hyder TV",
+        "m3u8_url": "https://ml-pull-hwc.myco.io/hydertvcanada/hls/index.m3u8"
       }
     ]
   }
