@@ -1,21 +1,14 @@
 {
   "Author": "Abid",
   "For Update": "DM me on Telegram @MAbidOfficial",
-  "last_update": "03-10-2025 : 15:03:20",
+  "last_update": "03-10-2025 : 18:03:26",
   "total_links": 18,
   "category_counts": {
-    "Live": 1,
-    "Channels": 17
+    "Live": 0,
+    "Channels": 18
   },
   "categories": {
-    "Live": [
-      {
-        "url": "https://myco.io/videohome/68de73cd0c735feb5c0b525f",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251002%2Fmycolive-thumblivepng-1759409100744.webp&w=3840&q=30",
-        "name": "England vs South Africa | Match - 4 | ICC Women’s World Cup Live on myco",
-        "m3u8_url": "https://cdn2.ml-pull-dvc-myco.io:2096/ICC-WWC-MATCH-3/index.m3u8"
-      }
-    ],
+    "Live": [],
     "Channels": [
       {
         "url": "https://myco.io/videohome/68dd23554b66d3eb43dd8878",
@@ -118,6 +111,12 @@
         "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-14jpg-1751381099951.webp&w=3840&q=30",
         "name": "Madani Channel",
         "m3u8_url": "https://ml-pull-dvc-myco.io:2096/MADNI_CHANNEL/index.m3u8"
+      },
+      {
+        "url": "https://myco.io/videohome/6840238bc265d95410f14ea8",
+        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-15jpg-1751381144523.webp&w=3840&q=30",
+        "name": "Hyder TV",
+        "m3u8_url": "https://ml-pull-hwc.myco.io/hydertvcanada/hls/index.m3u8"
       }
     ]
   }
