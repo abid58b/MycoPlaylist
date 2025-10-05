@@ -1,19 +1,43 @@
 {
   "Author": "Abid",
   "For Update": "DM me on Telegram @MAbidOfficial",
-  "last_update": "04-10-2025 : 12:03:20",
-  "total_links": 19,
+  "last_update": "05-10-2025 : 17:31:36",
+  "total_links": 14,
   "category_counts": {
-    "Live": 1,
-    "Channels": 18
+    "Live": 5,
+    "Channels": 9
   },
   "categories": {
     "Live": [
       {
-        "url": "https://myco.io/videohome/68dff4313ab8473ef0beb9f2",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251003%2Fmycolive-thumblivepng-1759507504543.webp&w=3840&q=30",
-        "name": "Australia vs Sri Lanka  | Match - 5 | ICC Women’s World Cup Live on myco",
-        "m3u8_url": "https://ml-pull-dvc-myco.io:2096/MYCO_ICC_WWC_PROMO/index.m3u8"
+        "url": "https://myco.io/videohome/68e173d15eaf2726af57e1f2",
+        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251004%2Fmycolive-thumblivepng-1759605713341.webp&w=3840&q=30",
+        "name": "Pakistan vs India  | Match - 6 | ICC Women’s World Cup Live on myco",
+        "m3u8_url": "https://rtmp-pk.ml-pull-dvc-myco.io/rtmp-icc-wwc/index.m3u8"
+      },
+      {
+        "url": "https://myco.io/videohome/68dbdd870c735feb5c0acd1a",
+        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251005%2Fmycolive-LIVE_THUMBpng-1759666140136.webp&w=3840&q=30",
+        "name": "Wolves vs Brighton | Matchweek - 7 of  English Premier League 2025-26",
+        "m3u8_url": "https://ml-pull-hwc.myco.io/EPLBONGO9/hls/index.m3u8"
+      },
+      {
+        "url": "https://myco.io/videohome/68dbdc485eaf2726af56d337",
+        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251005%2Fmycolive-LIVE_THUMBpng-1759666103277.webp&w=3840&q=30",
+        "name": "Newcastle vs Nottingham Forest | Matchweek - 7 of  English Premier League 2025-26",
+        "m3u8_url": "https://ml-pull-hwc.myco.io/EPLBONGO8/hls/index.m3u8"
+      },
+      {
+        "url": "https://myco.io/videohome/68dbdaae5eaf2726af56d2a8",
+        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251005%2Fmycolive-LIVE_THUMBpng-1759665918983.webp&w=3840&q=30",
+        "name": "Everton vs Crystal Palace | Matchweek - 7 of  English Premier League 2025-26",
+        "m3u8_url": "https://ml-pull-hwc.myco.io/EPLBONGO7/hls/index.m3u8"
+      },
+      {
+        "url": "https://myco.io/videohome/68dbd9ad5eaf2726af56d26a",
+        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251005%2Fmycolive-LIVE_THUMBpng-1759665981558.webp&w=3840&q=30",
+        "name": "Aston Villa vs Burnley | Matchweek - 7 of  English Premier League 2025-26",
+        "m3u8_url": "https://ml-pull-hwc.myco.io/EPLBONGO6/hls/index.m3u8"
       }
     ],
     "Channels": [
@@ -70,60 +94,6 @@
         "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250813%2Fmycolive-9jpg-1755075660153.webp&w=3840&q=30",
         "name": "PBS Kids",
         "m3u8_url": "https://us.ml-pull-dvc-myco.io:2096/PBS_KIDS/index.m3u8"
-      },
-      {
-        "url": "https://myco.io/videohome/689c529413d8d1168ffa302f",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250813%2Fmycolive-8jpg-1755075220532.webp&w=3840&q=30",
-        "name": "Disnep Kids",
-        "m3u8_url": "https://us.ml-pull-dvc-myco.io:2096/DISNEY_CHANNEL/index.m3u8"
-      },
-      {
-        "url": "https://myco.io/videohome/6890babe3f4c9b18f49426d0",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250804%2Fmycolive-3jpg-1754315453863.webp&w=3840&q=30",
-        "name": "Al Jazeera",
-        "m3u8_url": "https://us.ml-pull-dvc-myco.io:2096/AL_JAZEERA_ENG/index.m3u8"
-      },
-      {
-        "url": "https://myco.io/videohome/6890b9bd64c8e4f0ca407ea2",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250804%2Fmycolive-5jpg-1754315196301.webp&w=3840&q=30",
-        "name": "8XM HD",
-        "m3u8_url": "https://ml-pull-dvc-myco.io:2096/8XM_MUSIC/index.m3u8"
-      },
-      {
-        "url": "https://myco.io/videohome/685babbf23efb8c4f551a9d9",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-7jpg-1751381543101.webp&w=3840&q=30",
-        "name": "Abbtakk News",
-        "m3u8_url": "https://ml-pull-dvc-myco.io:2096/ABBTAK_NEWS/index.m3u8"
-      },
-      {
-        "url": "https://myco.io/videohome/685bab0f8593d91eb46a15be",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250625%2Fmycolive-CaptialTvjpg-1750838029644.webp&w=3840&q=30",
-        "name": "Capital TV",
-        "m3u8_url": "https://ml-pull-dvc-myco.io:2096/CAPITAL_NEWS/index.m3u8"
-      },
-      {
-        "url": "https://myco.io/videohome/685ba90f23efb8c4f551a6ed",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250625%2Fmycolive-Watch_green_entertainment_channel_online_freejpg-1750856023512.webp&w=3840&q=30",
-        "name": "Green Entertainment TV | Live Free Streaming",
-        "m3u8_url": "https://ml-pull-dvc-myco.io:2096/GREEN_ENTERTAINMENT/index.m3u8"
-      },
-      {
-        "url": "https://myco.io/videohome/68402aeac265d95410f152d5",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-1jpg-1751381074821.webp&w=3840&q=30",
-        "name": "Saudi Quran TV",
-        "m3u8_url": "https://ml-pull-dvc-myco.io:2096/SAUDI_QURAN/index.m3u8"
-      },
-      {
-        "url": "https://myco.io/videohome/68402415d2d30d092c1cc5d4",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-14jpg-1751381099951.webp&w=3840&q=30",
-        "name": "Madani Channel",
-        "m3u8_url": "https://ml-pull-dvc-myco.io:2096/MADNI_CHANNEL/index.m3u8"
-      },
-      {
-        "url": "https://myco.io/videohome/6840238bc265d95410f14ea8",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-15jpg-1751381144523.webp&w=3840&q=30",
-        "name": "Hyder TV",
-        "m3u8_url": "https://ml-pull-hwc.myco.io/hydertvcanada/hls/index.m3u8"
       }
     ]
   }
