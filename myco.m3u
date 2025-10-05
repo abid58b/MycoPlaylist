@@ -1,14 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251005%2Fmycolive-thumblivepng-1759675631953.webp&w=3840&q=30" group-title="Live",New Zealand vs South Africa | Match -  7 | ICC Women’s World Cup Live on myco
+https://ml-pull-dvc-myco.io:2096/MYCO_ICC_WWC_PROMO/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251004%2Fmycolive-thumblivepng-1759605713341.webp&w=3840&q=30" group-title="Live",Pakistan vs India  | Match - 6 | ICC Women’s World Cup Live on myco
 https://rtmp-pk.ml-pull-dvc-myco.io/rtmp-icc-wwc/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251005%2Fmycolive-LIVE_THUMBpng-1759666140136.webp&w=3840&q=30" group-title="Live",Wolves vs Brighton | Matchweek - 7 of  English Premier League 2025-26
-https://ml-pull-hwc.myco.io/EPLBONGO9/hls/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251005%2Fmycolive-LIVE_THUMBpng-1759666103277.webp&w=3840&q=30" group-title="Live",Newcastle vs Nottingham Forest | Matchweek - 7 of  English Premier League 2025-26
-https://ml-pull-hwc.myco.io/EPLBONGO8/hls/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251005%2Fmycolive-LIVE_THUMBpng-1759665918983.webp&w=3840&q=30" group-title="Live",Everton vs Crystal Palace | Matchweek - 7 of  English Premier League 2025-26
-https://ml-pull-hwc.myco.io/EPLBONGO7/hls/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251005%2Fmycolive-LIVE_THUMBpng-1759665981558.webp&w=3840&q=30" group-title="Live",Aston Villa vs Burnley | Matchweek - 7 of  English Premier League 2025-26
-https://ml-pull-hwc.myco.io/EPLBONGO6/hls/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251005%2Fmycolive-LIVE_THUMBpng-1759666181747.webp&w=3840&q=30" group-title="Live",Brentford vs Man City | Matchweek - 7 of  English Premier League 2025-26
+https://ml-pull-hwc.myco.io/EPLBONGO10/hls/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251003%2Fmycolive-disneyXDjpg-1759513921942.webp&w=3840&q=30" group-title="Channels",Disney XD
 https://us.ml-pull-dvc-myco.io:2096/DISNEY_XD/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251003%2Fmycolive-_DisneyJrjpg-1759513891183.webp&w=3840&q=30" group-title="Channels",Disney Jr
@@ -27,3 +23,13 @@ https://myco.telflex.net:8088/BBCLIFESTYLE_FHD/index.m3u8
 https://ml-pull-hwc.myco.io/PROMO/hls/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250813%2Fmycolive-9jpg-1755075660153.webp&w=3840&q=30" group-title="Channels",PBS Kids
 https://us.ml-pull-dvc-myco.io:2096/PBS_KIDS/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250813%2Fmycolive-8jpg-1755075220532.webp&w=3840&q=30" group-title="Channels",Disnep Kids
+https://us.ml-pull-dvc-myco.io:2096/DISNEY_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250804%2Fmycolive-3jpg-1754315453863.webp&w=3840&q=30" group-title="Channels",Al Jazeera
+https://us.ml-pull-dvc-myco.io:2096/AL_JAZEERA_ENG/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250804%2Fmycolive-5jpg-1754315196301.webp&w=3840&q=30" group-title="Channels",8XM HD
+https://ml-pull-dvc-myco.io:2096/8XM_MUSIC/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-7jpg-1751381543101.webp&w=3840&q=30" group-title="Channels",Abbtakk News
+https://ml-pull-dvc-myco.io:2096/ABBTAK_NEWS/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250625%2Fmycolive-CaptialTvjpg-1750838029644.webp&w=3840&q=30" group-title="Channels",Capital TV
+https://ml-pull-dvc-myco.io:2096/CAPITAL_NEWS/index.m3u8
