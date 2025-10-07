@@ -1,5 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251005%2Fmycolive-thumblivepng-1759684619835.webp&w=3840&q=30" group-title="Live",England vs Bangladesh | Match -  8 | ICC Women’s World Cup Live on myco
+#EXTVLCOPT:http-referrer=https://myco.io/
 https://ml-pull-rtmp-pk1.myco.io/AsiaCupMain/hls/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251003%2Fmycolive-disneyXDjpg-1759513921942.webp&w=3840&q=30" group-title="Channels",Disney XD
 https://us.ml-pull-dvc-myco.io:2096/DISNEY_XD/index.m3u8
