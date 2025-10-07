@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251007%2Fmycolive-thumblivepng-1759852366866.webp&w=3840&q=30" group-title="Live",Pakistan vs Australia | Match -  9 | ICC Women’s World Cup Live on myco
+#EXTVLCOPT:http-referrer=https://myco.io/
+https://ml-pull-dvc-myco.io:2096/MYCO_ICC_WWC_PROMO/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251005%2Fmycolive-thumblivepng-1759684619835.webp&w=3840&q=30" group-title="Live",England vs Bangladesh | Match -  8 | ICC Women’s World Cup Live on myco
 #EXTVLCOPT:http-referrer=https://myco.io/
 https://ml-pull-rtmp-pk1.myco.io/AsiaCupMain/hls/index.m3u8
@@ -13,7 +16,7 @@ https://ml-pull-dvc-myco.io:2096/BuyPass_TV/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250814%2Fmycolive-4jpg-1755192345133.webp&w=3840&q=30" group-title="Channels",Discover Pakistan
 https://ml-pull-dvc-myco.io:2096/DISCOVER_PAKISTAN/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250814%2Fmycolive-11jpg-1755175677114.webp&w=3840&q=30" group-title="Channels",BBC Lifestyle
-https://myco.telflex.net:8088/BBCLIFESTYLE_FHD/index.m3u8
+https://ml-pull-dvc-myco.io:2096/BBCLIFESTYLE-FHD/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250814%2Fmycolive-WhatsApp_Image_20250814_at_53344_PMjpeg-1755174841190.webp&w=3840&q=30" group-title="Channels",EPL - PROMO
 https://ml-pull-hwc.myco.io/PROMO/hls/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250813%2Fmycolive-9jpg-1755075660153.webp&w=3840&q=30" group-title="Channels",PBS Kids
@@ -38,5 +41,3 @@ https://ml-pull-dvc-myco.io:2096/MADNI_CHANNEL/index.m3u8
 https://ml-pull-hwc.myco.io/hydertvcanada/hls/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250529%2Fmycolive-myco_Sports_247jpeg-1748514767310.webp&w=3840&q=30" group-title="Channels",myco sports 24/7
 https://ml-pull-dvc-myco.io:2096/RTMP-MYCO-24/7/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-6jpg-1751381173414.webp&w=3840&q=30" group-title="Channels",Channel 5 News HD
-https://ml-pull-dvc-myco.io:2096/CHANNEL_5_NEWS/index.m3u8
