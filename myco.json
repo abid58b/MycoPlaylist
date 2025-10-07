@@ -1,7 +1,7 @@
 {
   "Author": "Abid",
   "For Update": "DM me on Telegram @MAbidOfficial",
-  "last_update": "07-10-2025 : 00:03:04",
+  "last_update": "07-10-2025 : 16:03:45",
   "total_links": 20,
   "category_counts": {
     "Live": 1,
@@ -13,7 +13,7 @@
         "url": "https://myco.io/videohome/68e2a7ff4b66d3eb43df4ddc",
         "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251005%2Fmycolive-thumblivepng-1759684619835.webp&w=3840&q=30",
         "name": "England vs Bangladesh | Match -  8 | ICC Women’s World Cup Live on myco",
-        "m3u8_url": "https://ml-pull-dvc-myco.io:2096/MYCO_ICC_WWC_PROMO/index.m3u8"
+        "m3u8_url": "https://ml-pull-rtmp-pk1.myco.io/AsiaCupMain/hls/index.m3u8"
       }
     ],
     "Channels": [
@@ -123,7 +123,7 @@
         "url": "https://myco.io/videohome/683837d04af76c0b35ca39e9",
         "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250529%2Fmycolive-myco_Sports_247jpeg-1748514767310.webp&w=3840&q=30",
         "name": "myco sports 24/7",
-        "m3u8_url": "https://cdn2.ml-pull-dvc-myco.io:2096/MYCO_24/7_SPORTS/index.m3u8"
+        "m3u8_url": "https://ml-pull-dvc-myco.io:2096/RTMP-MYCO-24/7/index.m3u8"
       },
       {
         "url": "https://myco.io/videohome/68382ec7a8a42ec476af2959",
