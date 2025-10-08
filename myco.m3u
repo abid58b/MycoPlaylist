@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251007%2Fmycolive-thumblivepng-1759852366866.webp&w=3840&q=30" group-title="Live",Pakistan vs Australia | Match -  9 | ICC Women’s World Cup Live on myco
+#EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251008%2Fmycolive-thumblivepng-1759942353045.webp&w=3840&q=30" group-title="Live",India vs South Africa | Match -  10 | ICC Women’s World Cup Live on myco
 #EXTVLCOPT:http-referrer=https://myco.io/
-https://rtmp-pk.ml-pull-dvc-myco.io/RTMP-ICC-WWC/index.m3u8
+https://ml-pull-dvc-myco.io:2096/MYCO_ICC_WWC_PROMO/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251003%2Fmycolive-disneyXDjpg-1759513921942.webp&w=3840&q=30" group-title="Channels",Disney XD
 https://us.ml-pull-dvc-myco.io:2096/DISNEY_XD/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251003%2Fmycolive-_DisneyJrjpg-1759513891183.webp&w=3840&q=30" group-title="Channels",Disney Jr
