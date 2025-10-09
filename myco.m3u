@@ -2,10 +2,6 @@
 #EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251008%2Fmycolive-thumblivepng-1759942353045.webp&w=3840&q=30" group-title="Live",India vs South Africa | Match -  10 | ICC Women’s World Cup Live on myco
 #EXTVLCOPT:http-referrer=https://myco.io/
 https://rtmp-pk.ml-pull-dvc-myco.io/RTMP-ICC-WWC/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251003%2Fmycolive-disneyXDjpg-1759513921942.webp&w=3840&q=30" group-title="Channels",Disney XD
-https://us.ml-pull-dvc-myco.io:2096/DISNEY_XD/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251003%2Fmycolive-_DisneyJrjpg-1759513891183.webp&w=3840&q=30" group-title="Channels",Disney Jr
-https://us.ml-pull-dvc-myco.io:2096/DISNEY_JR/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251003%2Fmycolive-BabyTvjpg-1759513854973.webp&w=3840&q=30" group-title="Channels",Baby TV
 https://ml-pull-dvc-myco.io:2096/BABY_TV/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250830%2Fmycolive-mpng-1756564193323.webp&w=3840&q=30" group-title="Channels",Buypass TV
@@ -40,3 +36,7 @@ https://ml-pull-hwc.myco.io/hydertvcanada/hls/index.m3u8
 https://ml-pull-dvc-myco.io:2096/RTMP-MYCO-24/7/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-6jpg-1751381173414.webp&w=3840&q=30" group-title="Channels",Channel 5 News HD
 https://ml-pull-dvc-myco.io:2096/CHANNEL_5_NEWS/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-18jpg-1751381198697.webp&w=3840&q=30" group-title="Channels",Time News HD
+https://ml-pull-dvc-myco.io:2096/TIME_NEWS/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-13jpg-1751381222642.webp&w=3840&q=30" group-title="Channels",MUN TV
+https://ml-pull-dvc-myco.io:2096/MUN_TV/index.m3u8
