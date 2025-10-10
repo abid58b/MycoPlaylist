@@ -1,7 +1,7 @@
 {
   "Author": "Abid",
   "For Update": "DM me on Telegram @MAbidOfficial",
-  "last_update": "09-10-2025 : 21:46:49",
+  "last_update": "10-10-2025 : 15:03:07",
   "total_links": 20,
   "category_counts": {
     "Live": 1,
@@ -10,9 +10,9 @@
   "categories": {
     "Live": [
       {
-        "url": "https://myco.io/videohome/68e696d20c735feb5c0d8931",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251008%2Fmycolive-thumblivepng-1759942353045.webp&w=3840&q=30",
-        "name": "India vs South Africa | Match -  10 | ICC Women’s World Cup Live on myco",
+        "url": "https://myco.io/videohome/68e7f95273f0072d3c27fc47",
+        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251009%2Fmycolive-thumblivepng-1760033105822.webp&w=3840&q=30",
+        "name": "New Zealand vs Bangladesh | Match -  11 | ICC Women’s World Cup Live on myco",
         "m3u8_url": "https://rtmp-pk.ml-pull-dvc-myco.io/RTMP-ICC-WWC/index.m3u8"
       }
     ],
