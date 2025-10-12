@@ -5,7 +5,7 @@ https://rtmp-pk.ml-pull-dvc-myco.io/RTMP-ICC-WWC/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251003%2Fmycolive-BabyTvjpg-1759513854973.webp&w=3840&q=30" group-title="Channels",Baby TV
 https://ml-pull-dvc-myco.io:2096/BABY_TV/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250830%2Fmycolive-mpng-1756564193323.webp&w=3840&q=30" group-title="Channels",Buypass TV
-https://ml-pull-hwc.myco.io/TV/hls/index.m3u8
+https://ml-pull-dvc-myco.io:2096/BuyPass_TV/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250814%2Fmycolive-4jpg-1755192345133.webp&w=3840&q=30" group-title="Channels",Discover Pakistan
 https://ml-pull-dvc-myco.io:2096/DISCOVER_PAKISTAN/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250814%2Fmycolive-11jpg-1755175677114.webp&w=3840&q=30" group-title="Channels",BBC Lifestyle
@@ -14,8 +14,6 @@ https://ml-pull-dvc-myco.io:2096/BBCLIFESTYLE-FHD/index.m3u8
 https://ml-pull-hwc.myco.io/PROMO/hls/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250813%2Fmycolive-9jpg-1755075660153.webp&w=3840&q=30" group-title="Channels",PBS Kids
 https://us.ml-pull-dvc-myco.io:2096/PBS_KIDS/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250813%2Fmycolive-8jpg-1755075220532.webp&w=3840&q=30" group-title="Channels",Disnep Kids
-https://us.ml-pull-dvc-myco.io:2096/DISNEY_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250804%2Fmycolive-3jpg-1754315453863.webp&w=3840&q=30" group-title="Channels",Al Jazeera
 https://us.ml-pull-dvc-myco.io:2096/AL_JAZEERA_ENG/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250804%2Fmycolive-5jpg-1754315196301.webp&w=3840&q=30" group-title="Channels",8XM HD
@@ -40,3 +38,5 @@ https://ml-pull-dvc-myco.io:2096/CHANNEL_5_NEWS/index.m3u8
 https://ml-pull-dvc-myco.io:2096/TIME_NEWS/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-13jpg-1751381222642.webp&w=3840&q=30" group-title="Channels",MUN TV
 https://ml-pull-dvc-myco.io:2096/MUN_TV/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-3jpg-1751381255548.webp&w=3840&q=30" group-title="Channels",Aaj Entertainment
+https://ml-pull-dvc-myco.io:2096/AAJ_ENTERTAINMENT/index.m3u8
