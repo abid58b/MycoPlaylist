@@ -1,11 +1,11 @@
 {
   "Author": "Abid",
   "For Update": "DM me on Telegram @MAbidOfficial",
-  "last_update": "12-10-2025 : 09:34:57",
+  "last_update": "12-10-2025 : 15:46:50",
   "total_links": 20,
   "category_counts": {
-    "Live": 2,
-    "Channels": 18
+    "Live": 1,
+    "Channels": 19
   },
   "categories": {
     "Live": [
@@ -13,13 +13,7 @@
         "url": "https://myco.io/videohome/68ea8e7c73f0072d3c284938",
         "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251011%2Fmycolive-thumblivepng-1760202364234.webp&w=3840&q=30",
         "name": "India vs Australia | Match -  13 | ICC Women’s World Cup Live on myco",
-        "m3u8_url": "https://ml-pull-dvc-myco.io:2096/MYCO_ICC_WWC_PROMO/index.m3u8"
-      },
-      {
-        "url": "https://myco.io/videohome/68e7af8dbd86758a6dda569b",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251011%2Fmycolive-THUMBDay1png-1760190474548.webp&w=3840&q=30",
-        "name": "Day 1 | Squash | Silicon Valley Open 2025 | on myco",
-        "m3u8_url": "https://ml-pull-hwc.myco.io/PSA/hls/index.m3u8"
+        "m3u8_url": "https://rtmp-pk.ml-pull-dvc-myco.io/RTMP-ICC-WWC/index.m3u8"
       }
     ],
     "Channels": [
@@ -130,6 +124,12 @@
         "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-18jpg-1751381198697.webp&w=3840&q=30",
         "name": "Time News HD",
         "m3u8_url": "https://ml-pull-dvc-myco.io:2096/TIME_NEWS/index.m3u8"
+      },
+      {
+        "url": "https://myco.io/videohome/683074438dfcfbbcde5c20d6",
+        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-13jpg-1751381222642.webp&w=3840&q=30",
+        "name": "MUN TV",
+        "m3u8_url": "https://ml-pull-dvc-myco.io:2096/MUN_TV/index.m3u8"
       }
     ]
   }
