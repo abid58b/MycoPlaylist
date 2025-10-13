@@ -1,7 +1,7 @@
 {
   "Author": "Abid",
   "For Update": "DM me on Telegram @MAbidOfficial",
-  "last_update": "12-10-2025 : 21:05:16",
+  "last_update": "13-10-2025 : 15:14:14",
   "total_links": 20,
   "category_counts": {
     "Live": 1,
@@ -10,13 +10,25 @@
   "categories": {
     "Live": [
       {
-        "url": "https://myco.io/videohome/68ea8e7c73f0072d3c284938",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251011%2Fmycolive-thumblivepng-1760202364234.webp&w=3840&q=30",
-        "name": "India vs Australia | Match -  13 | ICC Women’s World Cup Live on myco",
-        "m3u8_url": "https://ml-pull-rtmp-pk1.myco.io/AsiaCupMain/hls/index.m3u8"
+        "url": "https://myco.io/videohome/68ebe203aa42f021f5501d05",
+        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251012%2Fmycolive-thumblivepng-1760289308185.webp&w=3840&q=30",
+        "name": "South Africa vs Bangladesh | Match -  14 | ICC Women’s World Cup Live on myco",
+        "m3u8_url": "https://rtmp-pk.ml-pull-dvc-myco.io/RTMP-ICC-WWC/index.m3u8"
       }
     ],
     "Channels": [
+      {
+        "url": "https://myco.io/videohome/68ecb7e84b66d3eb43e0f8a9",
+        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251013%2Fmycolive-CGTNGLOBALjpg-1760344040210.webp&w=3840&q=30",
+        "name": "Global Biz - CGTN",
+        "m3u8_url": "https://ml-pull-hwc.myco.io/CGTN6/hls/index.m3u8"
+      },
+      {
+        "url": "https://myco.io/videohome/68ecb74faa42f021f550346d",
+        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251013%2Fmycolive-CHINATRAVELTHUMBjpg-1760343887620.webp&w=3840&q=30",
+        "name": "China Travel - CGTN",
+        "m3u8_url": "https://ml-pull-hwc.myco.io/CGTN5/hls/index.m3u8"
+      },
       {
         "url": "https://myco.io/videohome/68dd17a25c5560e77c7614d7",
         "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251003%2Fmycolive-BabyTvjpg-1759513854973.webp&w=3840&q=30",
@@ -84,6 +96,12 @@
         "m3u8_url": "https://ml-pull-dvc-myco.io:2096/GREEN_ENTERTAINMENT/index.m3u8"
       },
       {
+        "url": "https://myco.io/videohome/6853df7f8593d91eb461aaff",
+        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251013%2Fmycolive-CHINACGTNTHUMBjpg-1760344429317.webp&w=3840&q=30",
+        "name": "CGTN Discovering China",
+        "m3u8_url": "https://ml-pull-hwc.myco.io/CGTN/hls/index.m3u8"
+      },
+      {
         "url": "https://myco.io/videohome/68402aeac265d95410f152d5",
         "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-1jpg-1751381074821.webp&w=3840&q=30",
         "name": "Saudi Quran TV",
@@ -112,24 +130,6 @@
         "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-6jpg-1751381173414.webp&w=3840&q=30",
         "name": "Channel 5 News HD",
         "m3u8_url": "https://ml-pull-dvc-myco.io:2096/CHANNEL_5_NEWS/index.m3u8"
-      },
-      {
-        "url": "https://myco.io/videohome/68309e5379580b256d1b1b82",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-18jpg-1751381198697.webp&w=3840&q=30",
-        "name": "Time News HD",
-        "m3u8_url": "https://ml-pull-dvc-myco.io:2096/TIME_NEWS/index.m3u8"
-      },
-      {
-        "url": "https://myco.io/videohome/683074438dfcfbbcde5c20d6",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-13jpg-1751381222642.webp&w=3840&q=30",
-        "name": "MUN TV",
-        "m3u8_url": "https://ml-pull-dvc-myco.io:2096/MUN_TV/index.m3u8"
-      },
-      {
-        "url": "https://myco.io/videohome/682f1e66d132b2399b27ab00",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-3jpg-1751381255548.webp&w=3840&q=30",
-        "name": "Aaj Entertainment",
-        "m3u8_url": "https://ml-pull-dvc-myco.io:2096/AAJ_ENTERTAINMENT/index.m3u8"
       }
     ]
   }
