@@ -1,7 +1,7 @@
 {
   "Author": "Abid",
   "For Update": "DM me on Telegram @MAbidOfficial",
-  "last_update": "15-10-2025 : 12:58:40",
+  "last_update": "15-10-2025 : 16:13:48",
   "total_links": 20,
   "category_counts": {
     "Live": 1,
@@ -13,7 +13,7 @@
         "url": "https://myco.io/videohome/68ee7a5ec63833c49a69d924",
         "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251014%2Fmycolive-thumblivepng-1760459356225.webp&w=3840&q=30",
         "name": "Pakistan vs England | Match -  16 | ICC Women’s World Cup Live on myco",
-        "m3u8_url": "https://ml-pull-dvc-myco.io:2096/MYCO_ICC_WWC_PROMO/index.m3u8"
+        "m3u8_url": "https://rtmp-pk.ml-pull-dvc-myco.io/RTMP-ICC-WWC/index.m3u8"
       }
     ],
     "Channels": [
