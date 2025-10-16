@@ -1,11 +1,11 @@
 {
   "Author": "Abid",
   "For Update": "DM me on Telegram @MAbidOfficial",
-  "last_update": "16-10-2025 : 15:03:22",
+  "last_update": "16-10-2025 : 20:08:33",
   "total_links": 20,
   "category_counts": {
-    "Live": 1,
-    "Channels": 19
+    "Live": 2,
+    "Channels": 18
   },
   "categories": {
     "Live": [
@@ -14,6 +14,12 @@
         "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251015%2Fmycolive-thumblivepng-1760546766208.webp&w=3840&q=30",
         "name": "Bangladesh vs Australia | Match -  17 | ICC Women’s World Cup Live on myco",
         "m3u8_url": "https://rtmp-pk.ml-pull-dvc-myco.io/RTMP-ICC-WWC/index.m3u8"
+      },
+      {
+        "url": "https://myco.io/videohome/68e7d4dbbd86758a6dda6393",
+        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251016%2Fmycolive-M5jpg-1760622397704.webp&w=3840&q=30",
+        "name": "Ajman Rising Stars Tournament 2025 | Live on myco",
+        "m3u8_url": "https://rtmp-pk.ml-pull-dvc-myco.io/RTMP-AJMAN-CRICKET/index.m3u8"
       }
     ],
     "Channels": [
@@ -124,12 +130,6 @@
         "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250529%2Fmycolive-myco_Sports_247jpeg-1748514767310.webp&w=3840&q=30",
         "name": "myco sports 24/7",
         "m3u8_url": "https://ml-pull-dvc-myco.io:2096/RTMP-MYCO-24/7/index.m3u8"
-      },
-      {
-        "url": "https://myco.io/videohome/68382ec7a8a42ec476af2959",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-6jpg-1751381173414.webp&w=3840&q=30",
-        "name": "Channel 5 News HD",
-        "m3u8_url": "https://ml-pull-dvc-myco.io:2096/CHANNEL_5_NEWS/index.m3u8"
       }
     ]
   }
