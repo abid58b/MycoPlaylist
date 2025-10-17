@@ -1,25 +1,31 @@
 {
   "Author": "Abid",
   "For Update": "DM me on Telegram @MAbidOfficial",
-  "last_update": "16-10-2025 : 21:03:01",
+  "last_update": "17-10-2025 : 21:37:30",
   "total_links": 20,
   "category_counts": {
-    "Live": 2,
-    "Channels": 18
+    "Live": 3,
+    "Channels": 17
   },
   "categories": {
     "Live": [
       {
+        "url": "https://myco.io/videohome/68f114b0770167ef9db156b4",
+        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251016%2Fmycolive-THUMB_3png-1760629935292.webp&w=3840&q=30",
+        "name": "Day - 1 | TUI Socca Champions League 2025 | Live Stream on myco",
+        "m3u8_url": "https://ml-pull-hwc.myco.io/SRT/hls/index.m3u8"
+      },
+      {
         "url": "https://myco.io/videohome/68f10a8c3e7967010e5ff48f",
         "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251016%2Fmycolive-thumblivepng-1760627339048.webp&w=3840&q=30",
         "name": "South Africa vs Sri Lanka | Match -  18 | ICC Women’s World Cup Live on myco",
-        "m3u8_url": "https://ml-pull-dvc-myco.io:2096/MYCO_ICC_WWC_PROMO/index.m3u8"
+        "m3u8_url": "https://ml-pull-rtmp-pk1.myco.io/AsiaCupMain/hls/index.m3u8"
       },
       {
         "url": "https://myco.io/videohome/68e7d4dbbd86758a6dda6393",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251016%2Fmycolive-M5jpg-1760622397704.webp&w=3840&q=30",
+        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251017%2Fmycolive-M6jpg-1760710001195.webp&w=3840&q=30",
         "name": "Ajman Rising Stars Tournament 2025 | Live on myco",
-        "m3u8_url": "https://rtmp-pk.ml-pull-dvc-myco.io/RTMP-AJMAN-CRICKET/index.m3u8"
+        "m3u8_url": "https://ml-pull-hwc.myco.io/AjmanCricket/hls/index.m3u8"
       }
     ],
     "Channels": [
@@ -124,12 +130,6 @@
         "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-15jpg-1751381144523.webp&w=3840&q=30",
         "name": "Hyder TV",
         "m3u8_url": "https://ml-pull-hwc.myco.io/hydertvcanada/hls/index.m3u8"
-      },
-      {
-        "url": "https://myco.io/videohome/683837d04af76c0b35ca39e9",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250529%2Fmycolive-myco_Sports_247jpeg-1748514767310.webp&w=3840&q=30",
-        "name": "myco sports 24/7",
-        "m3u8_url": "https://ml-pull-dvc-myco.io:2096/RTMP-MYCO-24/7/index.m3u8"
       }
     ]
   }
