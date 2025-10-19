@@ -1,19 +1,25 @@
 {
   "Author": "Abid",
   "For Update": "DM me on Telegram @MAbidOfficial",
-  "last_update": "19-10-2025 : 18:18:25",
-  "total_links": 17,
+  "last_update": "19-10-2025 : 22:20:12",
+  "total_links": 18,
   "category_counts": {
-    "Live": 2,
+    "Live": 3,
     "Channels": 15
   },
   "categories": {
     "Live": [
       {
-        "url": "https://myco.io/videohome/68f3dbe3f19efaba17e07bb2",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251018%2Fmycolive-thumblivepng-1760812003221.webp&w=3840&q=30",
-        "name": "India vs England | Match -  20 | ICC Women’s World Cup Live on myco",
-        "m3u8_url": "https://rtmp-pk.ml-pull-dvc-myco.io/RTMP-ICC-WWC/index.m3u8"
+        "url": "https://myco.io/videohome/68f266fd770167ef9db1d042",
+        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251017%2Fmycolive-THUMBM1png-1760716541190.webp&w=3840&q=30",
+        "name": "Day 1 | Sqaush  - Court GW | Comcast Business U.S. Open 2025 | on myco",
+        "m3u8_url": "https://ml-pull-hwc.myco.io/PSA2025/hls/index.m3u8"
+      },
+      {
+        "url": "https://myco.io/videohome/68f266653e7967010e6075ff",
+        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251017%2Fmycolive-THUMBM1png-1760716388539.webp&w=3840&q=30",
+        "name": "Day 1 | Sqaush  - Court GE | Comcast Business U.S. Open 2025 | on myco",
+        "m3u8_url": "https://ml-pull-hwc.myco.io/PSA/hls/index.m3u8"
       },
       {
         "url": "https://myco.io/videohome/68f114b0770167ef9db156b4",
@@ -34,12 +40,6 @@
         "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251013%2Fmycolive-CHINATRAVELTHUMBjpg-1760343887620.webp&w=3840&q=30",
         "name": "China Travel - CGTN",
         "m3u8_url": "https://ml-pull-hwc.myco.io/CGTN5/hls/index.m3u8"
-      },
-      {
-        "url": "https://myco.io/videohome/68f3736a047fa3bf36d4927e",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251018%2Fmycolive-LIVE_THUMBpng-1760785051865.webp&w=3840&q=30",
-        "name": "DRM Test Video",
-        "m3u8_url": "https://ml-pull-rtmp-pk1.myco.io/EPLPK1/hls/index.m3u8"
       },
       {
         "url": "https://myco.io/videohome/68dd17a25c5560e77c7614d7",
@@ -112,6 +112,12 @@
         "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251013%2Fmycolive-CHINACGTNTHUMBjpg-1760344429317.webp&w=3840&q=30",
         "name": "CGTN Discovering China",
         "m3u8_url": "https://ml-pull-hwc.myco.io/CGTN/hls/index.m3u8"
+      },
+      {
+        "url": "https://myco.io/videohome/68402aeac265d95410f152d5",
+        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-1jpg-1751381074821.webp&w=3840&q=30",
+        "name": "Saudi Quran TV",
+        "m3u8_url": "https://ml-pull-dvc-myco.io:2096/SAUDI_QURAN/index.m3u8"
       }
     ]
   }
