@@ -1,7 +1,7 @@
 {
   "Author": "Abid",
   "For Update": "DM me on Telegram @MAbidOfficial",
-  "last_update": "20-10-2025 : 15:19:39",
+  "last_update": "20-10-2025 : 18:03:10",
   "total_links": 19,
   "category_counts": {
     "Live": 4,
@@ -31,7 +31,7 @@
         "url": "https://myco.io/videohome/68f114b0770167ef9db156b4",
         "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251016%2Fmycolive-THUMB_3png-1760629935292.webp&w=3840&q=30",
         "name": "Final Day | TUI Socca Champions League 2025 | Live Stream on myco",
-        "m3u8_url": "https://ml-pull-hwc.myco.io/SRT/hls/index.m3u8"
+        "m3u8_url": "https://ml-pull-dvc-myco.io:2096/Socca/index.m3u8"
       }
     ],
     "Channels": [

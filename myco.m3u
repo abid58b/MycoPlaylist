@@ -10,7 +10,7 @@ https://rtmp-pk.ml-pull-dvc-myco.io/RTMP-ICC-WWC/index.m3u8
 https://ml-pull-dvc-myco.io:2096/RTMP-ZIM-VS-AFG/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251016%2Fmycolive-THUMB_3png-1760629935292.webp&w=3840&q=30" group-title="Live",Final Day | TUI Socca Champions League 2025 | Live Stream on myco
 #EXTVLCOPT:http-referrer=https://myco.io/
-https://ml-pull-hwc.myco.io/SRT/hls/index.m3u8
+https://ml-pull-dvc-myco.io:2096/Socca/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251020%2Fft-MIN07881800x533webp-1760948319050.webp&w=3840&q=30" group-title="Channels",DRM
 https://live-hls-abr-cdn.livepush.io/live/bigbuckbunnyclip/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251013%2Fmycolive-CGTNGLOBALjpg-1760344040210.webp&w=3840&q=30" group-title="Channels",Global Biz - CGTN
