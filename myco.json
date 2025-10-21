@@ -1,7 +1,7 @@
 {
   "Author": "Abid",
   "For Update": "DM me on Telegram @MAbidOfficial",
-  "last_update": "21-10-2025 : 13:14:21",
+  "last_update": "21-10-2025 : 15:51:26",
   "total_links": 20,
   "category_counts": {
     "Live": 3,
@@ -13,12 +13,12 @@
         "url": "https://myco.io/videohome/68f66b982a4f0e1d58bdfad3",
         "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251020%2Fmycolive-thumblivepng-1760979863626.webp&w=3840&q=30",
         "name": "Pakistan vs South Africa | Match - 22 | ICC Women’s World Cup Live on myco",
-        "m3u8_url": "https://ml-pull-dvc-myco.io:2096/MYCO_ICC_WWC_PROMO/index.m3u8"
+        "m3u8_url": "https://rtmp-pk.ml-pull-dvc-myco.io/RTMP-ICC-WWC/index.m3u8"
       },
       {
         "url": "https://myco.io/videohome/68f5fb882a4f0e1d58bd8b8b",
         "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251020%2Fmycolive-IOBMLEAGUEpng-1760951278936.webp&w=3840&q=30",
-        "name": "Szabul vs Denning | IoBM Super League 2025 | Live Cricket Match | Watch Now on myco",
+        "name": "Fast vs Ksbl | IoBM Super League 2025 | Live Cricket Match | Watch Now on myco",
         "m3u8_url": "https://customer-kvea0ipq8pqdt5ir.cloudflarestream.com/f65dba7d3b6a29d7234c0440b455fdee/manifest/video.m3u8"
       },
       {
