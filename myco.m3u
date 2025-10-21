@@ -1,12 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251019%2Fmycolive-thumblivepng-1760894692399.webp&w=3840&q=30" group-title="Live",Sri Lanka vs Bagladesh | Match -  21 | ICC Women’s World Cup Live on myco
+#EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251020%2Fmycolive-thumblivepng-1760979863626.webp&w=3840&q=30" group-title="Live",Pakistan vs South Africa | Match - 22 | ICC Women’s World Cup Live on myco
 #EXTVLCOPT:http-referrer=https://myco.io/
-https://rtmp-pk.ml-pull-dvc-myco.io/RTMP-ICC-WWC/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251016%2Fmycolive-THUMB_3png-1760629935292.webp&w=3840&q=30" group-title="Live",Final Day | TUI Socca Champions League 2025 | Live Stream on myco
+https://ml-pull-dvc-myco.io:2096/MYCO_ICC_WWC_PROMO/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251020%2Fmycolive-IOBMLEAGUEpng-1760951278936.webp&w=3840&q=30" group-title="Live",Szabul vs Denning | IoBM Super League 2025 | Live Cricket Match | Watch Now on myco
 #EXTVLCOPT:http-referrer=https://myco.io/
-https://ml-pull-dvc-myco.io:2096/Socca/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251020%2Fft-MIN07881800x533webp-1760948319050.webp&w=3840&q=30" group-title="Channels",DRM
-https://live-hls-abr-cdn.livepush.io/live/bigbuckbunnyclip/index.m3u8
+https://customer-kvea0ipq8pqdt5ir.cloudflarestream.com/f65dba7d3b6a29d7234c0440b455fdee/manifest/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251020%2Fmycolive-THUMBD2png-1760982911872.webp&w=3840&q=30" group-title="Live",Zimbabwe vs Afghanistan | Day 2 of one-off test | on myco
+#EXTVLCOPT:http-referrer=https://myco.io/
+https://ml-pull-dvc-myco.io:2096/RTMP-ZIM-VS-AFG/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251013%2Fmycolive-CGTNGLOBALjpg-1760344040210.webp&w=3840&q=30" group-title="Channels",Global Biz - CGTN
 https://ml-pull-hwc.myco.io/CGTN6/hls/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251013%2Fmycolive-CHINATRAVELTHUMBjpg-1760343887620.webp&w=3840&q=30" group-title="Channels",China Travel - CGTN
@@ -39,3 +40,5 @@ https://ml-pull-hwc.myco.io/CGTN/hls/index.m3u8
 https://ml-pull-dvc-myco.io:2096/SAUDI_QURAN/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-14jpg-1751381099951.webp&w=3840&q=30" group-title="Channels",Madani Channel
 https://ml-pull-dvc-myco.io:2096/MADNI_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-15jpg-1751381144523.webp&w=3840&q=30" group-title="Channels",Hyder TV
+https://ml-pull-hwc.myco.io/hydertvcanada/hls/index.m3u8

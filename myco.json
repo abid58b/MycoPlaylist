@@ -1,34 +1,34 @@
 {
   "Author": "Abid",
   "For Update": "DM me on Telegram @MAbidOfficial",
-  "last_update": "20-10-2025 : 21:37:43",
-  "total_links": 19,
+  "last_update": "21-10-2025 : 13:14:21",
+  "total_links": 20,
   "category_counts": {
-    "Live": 2,
+    "Live": 3,
     "Channels": 17
   },
   "categories": {
     "Live": [
       {
-        "url": "https://myco.io/videohome/68f51ee47fbd5b5e50a91ca1",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251019%2Fmycolive-thumblivepng-1760894692399.webp&w=3840&q=30",
-        "name": "Sri Lanka vs Bagladesh | Match -  21 | ICC Women’s World Cup Live on myco",
-        "m3u8_url": "https://rtmp-pk.ml-pull-dvc-myco.io/RTMP-ICC-WWC/index.m3u8"
+        "url": "https://myco.io/videohome/68f66b982a4f0e1d58bdfad3",
+        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251020%2Fmycolive-thumblivepng-1760979863626.webp&w=3840&q=30",
+        "name": "Pakistan vs South Africa | Match - 22 | ICC Women’s World Cup Live on myco",
+        "m3u8_url": "https://ml-pull-dvc-myco.io:2096/MYCO_ICC_WWC_PROMO/index.m3u8"
       },
       {
-        "url": "https://myco.io/videohome/68f114b0770167ef9db156b4",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251016%2Fmycolive-THUMB_3png-1760629935292.webp&w=3840&q=30",
-        "name": "Final Day | TUI Socca Champions League 2025 | Live Stream on myco",
-        "m3u8_url": "https://ml-pull-dvc-myco.io:2096/Socca/index.m3u8"
+        "url": "https://myco.io/videohome/68f5fb882a4f0e1d58bd8b8b",
+        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251020%2Fmycolive-IOBMLEAGUEpng-1760951278936.webp&w=3840&q=30",
+        "name": "Szabul vs Denning | IoBM Super League 2025 | Live Cricket Match | Watch Now on myco",
+        "m3u8_url": "https://customer-kvea0ipq8pqdt5ir.cloudflarestream.com/f65dba7d3b6a29d7234c0440b455fdee/manifest/video.m3u8"
+      },
+      {
+        "url": "https://myco.io/videohome/68f51e537fbd5b5e50a91bb3",
+        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251020%2Fmycolive-THUMBD2png-1760982911872.webp&w=3840&q=30",
+        "name": "Zimbabwe vs Afghanistan | Day 2 of one-off test | on myco",
+        "m3u8_url": "https://ml-pull-dvc-myco.io:2096/RTMP-ZIM-VS-AFG/index.m3u8"
       }
     ],
     "Channels": [
-      {
-        "url": "https://myco.io/videohome/68f5f0607fbd5b5e50a965d3",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251020%2Fft-MIN07881800x533webp-1760948319050.webp&w=3840&q=30",
-        "name": "DRM",
-        "m3u8_url": "https://live-hls-abr-cdn.livepush.io/live/bigbuckbunnyclip/index.m3u8"
-      },
       {
         "url": "https://myco.io/videohome/68ecb7e84b66d3eb43e0f8a9",
         "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251013%2Fmycolive-CGTNGLOBALjpg-1760344040210.webp&w=3840&q=30",
@@ -124,6 +124,12 @@
         "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-14jpg-1751381099951.webp&w=3840&q=30",
         "name": "Madani Channel",
         "m3u8_url": "https://ml-pull-dvc-myco.io:2096/MADNI_CHANNEL/index.m3u8"
+      },
+      {
+        "url": "https://myco.io/videohome/6840238bc265d95410f14ea8",
+        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-15jpg-1751381144523.webp&w=3840&q=30",
+        "name": "Hyder TV",
+        "m3u8_url": "https://ml-pull-hwc.myco.io/hydertvcanada/hls/index.m3u8"
       }
     ]
   }
