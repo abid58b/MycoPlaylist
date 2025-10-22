@@ -5,9 +5,9 @@ https://rtmp-pk.ml-pull-dvc-myco.io/RTMP-ICC-WWC/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251020%2Fmycolive-IOBMLEAGUEpng-1760951278936.webp&w=3840&q=30" group-title="Live",IoBM vs Szabul | IoBM Super League 2025 | Live Cricket Match | Watch Now on myco
 #EXTVLCOPT:http-referrer=https://myco.io/
 https://customer-kvea0ipq8pqdt5ir.cloudflarestream.com/f65dba7d3b6a29d7234c0440b455fdee/manifest/video.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251021%2Fmycolive-THUMBD3png-1761060853333.webp&w=3840&q=30" group-title="Live",Zimbabwe vs Afghanistan | Day 3 of one-off test | on myco
+#EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251020%2Fmycolive-MASTERFINALpng-1760980115081.webp&w=3840&q=30" group-title="Live",Final | Arab Billiard Championship 2025 | Arab Federation of Billiard Sport  | Live on Myco
 #EXTVLCOPT:http-referrer=https://myco.io/
-https://ml-pull-dvc-myco.io:2096/RTMP-ZIM-VS-AFG/index.m3u8
+https://ml-pull-hwc.myco.io/Event/hls/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251013%2Fmycolive-CGTNGLOBALjpg-1760344040210.webp&w=3840&q=30" group-title="Channels",Global Biz - CGTN
 https://ml-pull-hwc.myco.io/CGTN6/hls/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251013%2Fmycolive-CHINATRAVELTHUMBjpg-1760343887620.webp&w=3840&q=30" group-title="Channels",China Travel - CGTN

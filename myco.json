@@ -1,7 +1,7 @@
 {
   "Author": "Abid",
   "For Update": "DM me on Telegram @MAbidOfficial",
-  "last_update": "22-10-2025 : 15:03:24",
+  "last_update": "22-10-2025 : 18:02:59",
   "total_links": 20,
   "category_counts": {
     "Live": 3,
@@ -22,10 +22,10 @@
         "m3u8_url": "https://customer-kvea0ipq8pqdt5ir.cloudflarestream.com/f65dba7d3b6a29d7234c0440b455fdee/manifest/video.m3u8"
       },
       {
-        "url": "https://myco.io/videohome/68f51e537fbd5b5e50a91bb3",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251021%2Fmycolive-THUMBD3png-1761060853333.webp&w=3840&q=30",
-        "name": "Zimbabwe vs Afghanistan | Day 3 of one-off test | on myco",
-        "m3u8_url": "https://ml-pull-dvc-myco.io:2096/RTMP-ZIM-VS-AFG/index.m3u8"
+        "url": "https://myco.io/videohome/68eea79d533dfd2ab56e4b70",
+        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251020%2Fmycolive-MASTERFINALpng-1760980115081.webp&w=3840&q=30",
+        "name": "Final | Arab Billiard Championship 2025 | Arab Federation of Billiard Sport  | Live on Myco",
+        "m3u8_url": "https://ml-pull-hwc.myco.io/Event/hls/index.m3u8"
       }
     ],
     "Channels": [
