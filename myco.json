@@ -1,11 +1,11 @@
 {
   "Author": "Abid",
   "For Update": "DM me on Telegram @MAbidOfficial",
-  "last_update": "26-10-2025 : 18:02:50",
-  "total_links": 25,
+  "last_update": "26-10-2025 : 22:09:14",
+  "total_links": 29,
   "category_counts": {
-    "Live": 2,
-    "Channels": 23
+    "Live": 4,
+    "Channels": 25
   },
   "categories": {
     "Live": [
@@ -16,10 +16,22 @@
         "m3u8_url": "https://rtmp-pk.ml-pull-dvc-myco.io/RTMP-ICC-WWC_2/index.m3u8"
       },
       {
+        "url": "https://myco.io/videohome/68fb874e7fbd5b5e50acff2f",
+        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251026%2Fmycolive-LIVE_THUMBpng-1761480018503.webp&w=3840&q=30",
+        "name": "Everton vs Spurs | Matchweek - 9 of English Premier League 2025-26",
+        "m3u8_url": "https://ml-pull-hwc.myco.io/EPLBONGO10/hls/index.m3u8"
+      },
+      {
         "url": "https://myco.io/videohome/68fa54fd2a4f0e1d58c0a4c1",
         "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251023%2Fmycolive-TAKKENjpg-1761236221460.webp&w=3840&q=30",
         "name": "Baaz Takedown 2025 | Day 3 | on myco",
         "m3u8_url": "https://ml-pull-hwc.myco.io/Socca/hls/index.m3u8"
+      },
+      {
+        "url": "https://myco.io/videohome/68f766a407dcd25162792753",
+        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251026%2Fmycolive-dhjhgdjdgpng-1761488103778.webp&w=3840&q=30",
+        "name": "Final - Tape Ball Champions League / TCL | only on myco",
+        "m3u8_url": "https://rtmp-pk.ml-pull-dvc-myco.io/RTMP-TAPEBALL-CRICKET/index.m3u8"
       }
     ],
     "Channels": [
@@ -160,6 +172,18 @@
         "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-13jpg-1751381222642.webp&w=3840&q=30",
         "name": "MUN TV",
         "m3u8_url": "https://ml-pull-dvc-myco.io:2096/MUN_TV/index.m3u8"
+      },
+      {
+        "url": "https://myco.io/videohome/682f1e66d132b2399b27ab00",
+        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-3jpg-1751381255548.webp&w=3840&q=30",
+        "name": "Aaj Entertainment",
+        "m3u8_url": "https://ml-pull-dvc-myco.io:2096/AAJ_ENTERTAINMENT/index.m3u8"
+      },
+      {
+        "url": "https://myco.io/videohome/682f1c9595dce935340d76d1",
+        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-4jpg-1751381286619.webp&w=3840&q=30",
+        "name": "Aaj News",
+        "m3u8_url": "https://ml-pull-dvc-myco.io:2096/AAJ_NEWS/index.m3u8"
       }
     ]
   }
