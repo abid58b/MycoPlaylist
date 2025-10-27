@@ -1,37 +1,19 @@
 {
   "Author": "Abid",
   "For Update": "DM me on Telegram @MAbidOfficial",
-  "last_update": "26-10-2025 : 22:09:14",
-  "total_links": 29,
+  "last_update": "27-10-2025 : 15:01:30",
+  "total_links": 30,
   "category_counts": {
-    "Live": 4,
-    "Channels": 25
+    "Live": 1,
+    "Channels": 29
   },
   "categories": {
     "Live": [
       {
-        "url": "https://myco.io/videohome/68fccf4807dcd251627c3dbf",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251025%2Fmycolive-thumblivepng-1761398599055.webp&w=3840&q=30",
-        "name": "India vs Bangladesh | Match - 28 | ICC Women’s World Cup Live on myco",
-        "m3u8_url": "https://rtmp-pk.ml-pull-dvc-myco.io/RTMP-ICC-WWC_2/index.m3u8"
-      },
-      {
-        "url": "https://myco.io/videohome/68fb874e7fbd5b5e50acff2f",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251026%2Fmycolive-LIVE_THUMBpng-1761480018503.webp&w=3840&q=30",
-        "name": "Everton vs Spurs | Matchweek - 9 of English Premier League 2025-26",
-        "m3u8_url": "https://ml-pull-hwc.myco.io/EPLBONGO10/hls/index.m3u8"
-      },
-      {
-        "url": "https://myco.io/videohome/68fa54fd2a4f0e1d58c0a4c1",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251023%2Fmycolive-TAKKENjpg-1761236221460.webp&w=3840&q=30",
-        "name": "Baaz Takedown 2025 | Day 3 | on myco",
-        "m3u8_url": "https://ml-pull-hwc.myco.io/Socca/hls/index.m3u8"
-      },
-      {
-        "url": "https://myco.io/videohome/68f766a407dcd25162792753",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251026%2Fmycolive-dhjhgdjdgpng-1761488103778.webp&w=3840&q=30",
-        "name": "Final - Tape Ball Champions League / TCL | only on myco",
-        "m3u8_url": "https://rtmp-pk.ml-pull-dvc-myco.io/RTMP-TAPEBALL-CRICKET/index.m3u8"
+        "url": "https://myco.io/videohome/68f5fb882a4f0e1d58bd8b8b",
+        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251020%2Fmycolive-IOBMLEAGUEpng-1760951278936.webp&w=3840&q=30",
+        "name": "Iobm vs Denning  | IoBM Super League 2025 | Live Cricket Match | Watch Now on myco",
+        "m3u8_url": "https://customer-kvea0ipq8pqdt5ir.cloudflarestream.com/f65dba7d3b6a29d7234c0440b455fdee/manifest/video.m3u8"
       }
     ],
     "Channels": [
@@ -184,6 +166,30 @@
         "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-4jpg-1751381286619.webp&w=3840&q=30",
         "name": "Aaj News",
         "m3u8_url": "https://ml-pull-dvc-myco.io:2096/AAJ_NEWS/index.m3u8"
+      },
+      {
+        "url": "https://myco.io/videohome/6798e14cc13e0a3cd93d24f0",
+        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250128%2Fmycolive-cgtnjpg-1738072396919.webp&w=3840&q=30",
+        "name": "CGTN Documentary",
+        "m3u8_url": "https://global.cgtn.cicc.media.caton.cloud/master/cgtn-documentary_myco.m3u8"
+      },
+      {
+        "url": "https://myco.io/videohome/67764e92c13e0a3cd924cf54",
+        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-8jpg-1751381422278.webp&w=3840&q=30",
+        "name": "Mix Bel Araby",
+        "m3u8_url": "https://ml-pull-hwc.myco.io/MixBelAraby/hls/index.m3u8"
+      },
+      {
+        "url": "https://myco.io/videohome/67764d04d040a3a0e2597a40",
+        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-10jpg-1751381447882.webp&w=3840&q=30",
+        "name": "Mix ONE",
+        "m3u8_url": "https://ml-pull-hwc.myco.io/MixONE/hls/index.m3u8"
+      },
+      {
+        "url": "https://myco.io/videohome/670533a7bf8a4684f0188155",
+        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-9jpg-1751381481661.webp&w=3840&q=30",
+        "name": "Mix TV",
+        "m3u8_url": "https://ml-pull-hwc.myco.io/MixTV/hls/index.m3u8"
       }
     ]
   }
