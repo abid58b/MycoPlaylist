@@ -1,22 +1,34 @@
 {
   "Author": "Abid",
   "For Update": "DM me on Telegram @MAbidOfficial",
-  "last_update": "27-10-2025 : 15:01:30",
-  "total_links": 30,
+  "last_update": "30-10-2025 : 18:14:16",
+  "total_links": 17,
   "category_counts": {
-    "Live": 1,
-    "Channels": 29
+    "Live": 2,
+    "Channels": 15
   },
   "categories": {
     "Live": [
       {
-        "url": "https://myco.io/videohome/68f5fb882a4f0e1d58bd8b8b",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251020%2Fmycolive-IOBMLEAGUEpng-1760951278936.webp&w=3840&q=30",
-        "name": "Iobm vs Denning  | IoBM Super League 2025 | Live Cricket Match | Watch Now on myco",
-        "m3u8_url": "https://customer-kvea0ipq8pqdt5ir.cloudflarestream.com/f65dba7d3b6a29d7234c0440b455fdee/manifest/video.m3u8"
+        "url": "https://myco.io/videohome/68ff755b7fbd5b5e50af256a",
+        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251030%2Fmycolive-thumblivepng-1761814916115.webp&w=3840&q=30",
+        "name": "India vs Australia | Semi-Fina 2 | Match - 30 | ICC Women’s World Cup Live on myco",
+        "m3u8_url": "https://rtmp-pk.ml-pull-dvc-myco.io/RTMP-ICC-WWC/index.m3u8"
+      },
+      {
+        "url": "https://myco.io/videohome/68fcd83607dcd251627c4399",
+        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251027%2Fmycolive-ThumbQFjpg-1761572713989.webp&w=3840&q=30",
+        "name": "Live | Squash | Quater Finals | Canadian Women’s Open 2025 | on myco",
+        "m3u8_url": "https://us.ml-pull-dvc-myco.io:2096/RTMP-PSA/index.m3u8"
       }
     ],
     "Channels": [
+      {
+        "url": "https://myco.io/videohome/690332529e8dc77edf198500",
+        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251030%2Fmycolive-Thumb_6jpg-1761822156288.webp&w=3840&q=30",
+        "name": "Tidpix - Authentically African Movies",
+        "m3u8_url": "https://api-ott.tidpix.com/loggingmediaurlpassthrough/a.m3u8?version=12\\u0026id=10\\u0026partner=general_test"
+      },
       {
         "url": "https://myco.io/videohome/68fb6004f19efaba17e59295",
         "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251024%2Fmycolive-saudisunnahTHUMBjpg-1761304579979.webp&w=3840&q=30",
@@ -28,12 +40,6 @@
         "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251013%2Fmycolive-CGTNGLOBALjpg-1760344040210.webp&w=3840&q=30",
         "name": "Global Biz - CGTN",
         "m3u8_url": "https://ml-pull-hwc.myco.io/CGTN6/hls/index.m3u8"
-      },
-      {
-        "url": "https://myco.io/videohome/68ecb74faa42f021f550346d",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251013%2Fmycolive-CHINATRAVELTHUMBjpg-1760343887620.webp&w=3840&q=30",
-        "name": "China Travel - CGTN",
-        "m3u8_url": "https://ml-pull-hwc.myco.io/CGTN5/hls/index.m3u8"
       },
       {
         "url": "https://myco.io/videohome/68dd17a25c5560e77c7614d7",
@@ -58,12 +64,6 @@
         "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250814%2Fmycolive-4jpg-1755192345133.webp&w=3840&q=30",
         "name": "Discover Pakistan",
         "m3u8_url": "https://ml-pull-dvc-myco.io:2096/DISCOVER_PAKISTAN/index.m3u8"
-      },
-      {
-        "url": "https://myco.io/videohome/689dda3f3f4c9b18f4a24a0e",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250814%2Fmycolive-11jpg-1755175677114.webp&w=3840&q=30",
-        "name": "BBC Lifestyle",
-        "m3u8_url": "https://ml-pull-dvc-myco.io:2096/BBCLIFESTYLE-FHD/index.m3u8"
       },
       {
         "url": "https://myco.io/videohome/689dd7ba5135d41bf965932e",
@@ -102,12 +102,6 @@
         "m3u8_url": "https://ml-pull-dvc-myco.io:2096/CAPITAL_NEWS/index.m3u8"
       },
       {
-        "url": "https://myco.io/videohome/685ba90f23efb8c4f551a6ed",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250625%2Fmycolive-Watch_green_entertainment_channel_online_freejpg-1750856023512.webp&w=3840&q=30",
-        "name": "Green Entertainment TV | Live Free Streaming",
-        "m3u8_url": "https://ml-pull-dvc-myco.io:2096/GREEN_ENTERTAINMENT/index.m3u8"
-      },
-      {
         "url": "https://myco.io/videohome/6853df7f8593d91eb461aaff",
         "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251013%2Fmycolive-CHINACGTNTHUMBjpg-1760344429317.webp&w=3840&q=30",
         "name": "CGTN Discovering China",
@@ -118,78 +112,6 @@
         "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-1jpg-1751381074821.webp&w=3840&q=30",
         "name": "Saudi Quran TV",
         "m3u8_url": "https://ml-pull-dvc-myco.io:2096/SAUDI_QURAN/index.m3u8"
-      },
-      {
-        "url": "https://myco.io/videohome/68402415d2d30d092c1cc5d4",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-14jpg-1751381099951.webp&w=3840&q=30",
-        "name": "Madani Channel",
-        "m3u8_url": "https://ml-pull-dvc-myco.io:2096/MADNI_CHANNEL/index.m3u8"
-      },
-      {
-        "url": "https://myco.io/videohome/6840238bc265d95410f14ea8",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-15jpg-1751381144523.webp&w=3840&q=30",
-        "name": "Hyder TV",
-        "m3u8_url": "https://ml-pull-hwc.myco.io/hydertvcanada/hls/index.m3u8"
-      },
-      {
-        "url": "https://myco.io/videohome/683837d04af76c0b35ca39e9",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250529%2Fmycolive-myco_Sports_247jpeg-1748514767310.webp&w=3840&q=30",
-        "name": "myco sports 24/7",
-        "m3u8_url": "https://ml-pull-dvc-myco.io:2096/RTMP-MYCO-24/7/index.m3u8"
-      },
-      {
-        "url": "https://myco.io/videohome/68382ec7a8a42ec476af2959",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-6jpg-1751381173414.webp&w=3840&q=30",
-        "name": "Channel 5 News HD",
-        "m3u8_url": "https://ml-pull-dvc-myco.io:2096/CHANNEL_5_NEWS/index.m3u8"
-      },
-      {
-        "url": "https://myco.io/videohome/68309e5379580b256d1b1b82",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-18jpg-1751381198697.webp&w=3840&q=30",
-        "name": "Time News HD",
-        "m3u8_url": "https://ml-pull-dvc-myco.io:2096/TIME_NEWS/index.m3u8"
-      },
-      {
-        "url": "https://myco.io/videohome/683074438dfcfbbcde5c20d6",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-13jpg-1751381222642.webp&w=3840&q=30",
-        "name": "MUN TV",
-        "m3u8_url": "https://ml-pull-dvc-myco.io:2096/MUN_TV/index.m3u8"
-      },
-      {
-        "url": "https://myco.io/videohome/682f1e66d132b2399b27ab00",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-3jpg-1751381255548.webp&w=3840&q=30",
-        "name": "Aaj Entertainment",
-        "m3u8_url": "https://ml-pull-dvc-myco.io:2096/AAJ_ENTERTAINMENT/index.m3u8"
-      },
-      {
-        "url": "https://myco.io/videohome/682f1c9595dce935340d76d1",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-4jpg-1751381286619.webp&w=3840&q=30",
-        "name": "Aaj News",
-        "m3u8_url": "https://ml-pull-dvc-myco.io:2096/AAJ_NEWS/index.m3u8"
-      },
-      {
-        "url": "https://myco.io/videohome/6798e14cc13e0a3cd93d24f0",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250128%2Fmycolive-cgtnjpg-1738072396919.webp&w=3840&q=30",
-        "name": "CGTN Documentary",
-        "m3u8_url": "https://global.cgtn.cicc.media.caton.cloud/master/cgtn-documentary_myco.m3u8"
-      },
-      {
-        "url": "https://myco.io/videohome/67764e92c13e0a3cd924cf54",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-8jpg-1751381422278.webp&w=3840&q=30",
-        "name": "Mix Bel Araby",
-        "m3u8_url": "https://ml-pull-hwc.myco.io/MixBelAraby/hls/index.m3u8"
-      },
-      {
-        "url": "https://myco.io/videohome/67764d04d040a3a0e2597a40",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-10jpg-1751381447882.webp&w=3840&q=30",
-        "name": "Mix ONE",
-        "m3u8_url": "https://ml-pull-hwc.myco.io/MixONE/hls/index.m3u8"
-      },
-      {
-        "url": "https://myco.io/videohome/670533a7bf8a4684f0188155",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-9jpg-1751381481661.webp&w=3840&q=30",
-        "name": "Mix TV",
-        "m3u8_url": "https://ml-pull-hwc.myco.io/MixTV/hls/index.m3u8"
       }
     ]
   }
