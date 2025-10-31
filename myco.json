@@ -1,14 +1,21 @@
 {
   "Author": "Abid",
   "For Update": "DM me on Telegram @MAbidOfficial",
-  "last_update": "31-10-2025 : 15:49:21",
-  "total_links": 20,
+  "last_update": "31-10-2025 : 19:20:09",
+  "total_links": 19,
   "category_counts": {
-    "Live": 0,
-    "Channels": 20
+    "Live": 1,
+    "Channels": 18
   },
   "categories": {
-    "Live": [],
+    "Live": [
+      {
+        "url": "https://myco.io/videohome/69049747bb262b02996256e8",
+        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251031%2Fmycolive-THUMB2ndpng-1761908551257.webp&w=3840&q=30",
+        "name": "Zimbabwe vs Afghanistan | Match 2 | T20 clash live on myco!",
+        "m3u8_url": "https://rtmp-pk.ml-pull-dvc-myco.io/RTMP-ZIM-VS-AFG/index.m3u8"
+      }
+    ],
     "Channels": [
       {
         "url": "https://myco.io/videohome/690332529e8dc77edf198500",
@@ -117,18 +124,6 @@
         "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-14jpg-1751381099951.webp&w=3840&q=30",
         "name": "Madani Channel",
         "m3u8_url": "https://ml-pull-dvc-myco.io:2096/MADNI_CHANNEL/index.m3u8"
-      },
-      {
-        "url": "https://myco.io/videohome/6840238bc265d95410f14ea8",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-15jpg-1751381144523.webp&w=3840&q=30",
-        "name": "Hyder TV",
-        "m3u8_url": "https://ml-pull-hwc.myco.io/hydertvcanada/hls/index.m3u8"
-      },
-      {
-        "url": "https://myco.io/videohome/683837d04af76c0b35ca39e9",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250529%2Fmycolive-myco_Sports_247jpeg-1748514767310.webp&w=3840&q=30",
-        "name": "myco sports 24/7",
-        "m3u8_url": "https://ml-pull-dvc-myco.io:2096/RTMP-MYCO-24/7/index.m3u8"
       }
     ]
   }
