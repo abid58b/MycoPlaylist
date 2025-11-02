@@ -1,11 +1,11 @@
 {
   "Author": "Abid",
   "For Update": "DM me on Telegram @MAbidOfficial",
-  "last_update": "02-11-2025 : 21:06:47",
-  "total_links": 17,
+  "last_update": "03-11-2025 : 00:06:53",
+  "total_links": 18,
   "category_counts": {
     "Live": 1,
-    "Channels": 16
+    "Channels": 17
   },
   "categories": {
     "Live": [
@@ -112,6 +112,12 @@
         "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251013%2Fmycolive-CHINACGTNTHUMBjpg-1760344429317.webp&w=3840&q=30",
         "name": "CGTN Discovering China",
         "m3u8_url": "https://ml-pull-hwc.myco.io/CGTN/hls/index.m3u8"
+      },
+      {
+        "url": "https://myco.io/videohome/68402aeac265d95410f152d5",
+        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-1jpg-1751381074821.webp&w=3840&q=30",
+        "name": "Saudi Quran TV",
+        "m3u8_url": "https://ml-pull-dvc-myco.io:2096/SAUDI_QURAN/index.m3u8"
       }
     ]
   }
