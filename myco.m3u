@@ -1,7 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251031%2Fmycolive-ISl_Final_Thumbnailjpg-1761908204814.webp&w=3840&q=30" group-title="Live",IBA vs Indus | IoBM Super League 2025 | Live Cricket Match | Watch Now on myco
-#EXTVLCOPT:http-referrer=https://myco.io/
-https://customer-kvea0ipq8pqdt5ir.cloudflarestream.com/f65dba7d3b6a29d7234c0440b455fdee/manifest/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251030%2Fmycolive-Thumb_6jpg-1761822156288.webp&w=3840&q=30" group-title="Channels",Tidpix - Authentically African Movies
 https://api-ott.tidpix.com/loggingmediaurlpassthrough/a.m3u8?version=12\u0026id=10\u0026partner=general_test
 #EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251024%2Fmycolive-saudisunnahTHUMBjpg-1761304579979.webp&w=3840&q=30" group-title="Channels",Saudi Sunnah TV
@@ -36,7 +33,3 @@ https://ml-pull-dvc-myco.io:2096/CAPITAL_NEWS/index.m3u8
 https://ml-pull-hwc.myco.io/CGTN/hls/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-1jpg-1751381074821.webp&w=3840&q=30" group-title="Channels",Saudi Quran TV
 https://ml-pull-dvc-myco.io:2096/SAUDI_QURAN/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-14jpg-1751381099951.webp&w=3840&q=30" group-title="Channels",Madani Channel
-https://ml-pull-dvc-myco.io:2096/MADNI_CHANNEL/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-15jpg-1751381144523.webp&w=3840&q=30" group-title="Channels",Hyder TV
-https://ml-pull-hwc.myco.io/hydertvcanada/hls/index.m3u8
