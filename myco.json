@@ -1,20 +1,14 @@
 {
   "Author": "Abid",
   "For Update": "DM me on Telegram @MAbidOfficial",
-  "last_update": "02-11-2025 : 18:06:17",
+  "last_update": "02-11-2025 : 21:06:47",
   "total_links": 17,
   "category_counts": {
-    "Live": 2,
-    "Channels": 15
+    "Live": 1,
+    "Channels": 16
   },
   "categories": {
     "Live": [
-      {
-        "url": "https://myco.io/videohome/69067654ab0595246176ae66",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251101%2Fmycolive-THUMB3rdpng-1762031188593.webp&w=3840&q=30",
-        "name": "Zimbabwe vs Afghanistan | Match 3 | T20 clash live on myco!",
-        "m3u8_url": "https://rtmp-pk.ml-pull-dvc-myco.io/RTMP-ZIM-VS-AFG/index.m3u8"
-      },
       {
         "url": "https://myco.io/videohome/690673ff9ec4fa9bbcabfa4a",
         "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251102%2Fmycolive-Screenshot_20251102_140244png-1762074299091.webp&w=3840&q=30",
@@ -58,6 +52,12 @@
         "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250830%2Fmycolive-mpng-1756564193323.webp&w=3840&q=30",
         "name": "Buypass TV",
         "m3u8_url": "https://ml-pull-dvc-myco.io:2096/BuyPass_TV/index.m3u8"
+      },
+      {
+        "url": "https://myco.io/videohome/68a0d66883214baa498339b5",
+        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251023%2Fmycolive-Geo_Supre_png-1761237110499.webp&w=3840&q=30",
+        "name": "Geo Super",
+        "m3u8_url": "https://ml-pull-dvc-myco.io:2096/GEO_SUPER/index.m3u8"
       },
       {
         "url": "https://myco.io/videohome/689e1c195135d41bf965b7cb",
