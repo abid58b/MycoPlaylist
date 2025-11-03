@@ -1,7 +1,7 @@
 {
   "Author": "Abid",
   "For Update": "DM me on Telegram @MAbidOfficial",
-  "last_update": "03-11-2025 : 18:04:53",
+  "last_update": "03-11-2025 : 22:33:49",
   "total_links": 18,
   "category_counts": {
     "Live": 1,
@@ -10,10 +10,10 @@
   "categories": {
     "Live": [
       {
-        "url": "https://myco.io/videohome/6905f98f9ec4fa9bbca98191",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251101%2Fmycolive-Screenshot_20251101_171136png-1761999246209.webp&w=3840&q=30",
-        "name": "Hum Spelling Whizz | Final Round | 3 Nov 2025 | on myco",
-        "m3u8_url": "https://ml-pull-dvc-myco.io:2096/RTMP-PSA/index.m3u8"
+        "url": "https://myco.io/videohome/68e7d4dbbd86758a6dda6393",
+        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251103%2Fmycolive-3_Nov_Desktoppng-1762176658961.webp&w=3840&q=30",
+        "name": "Ajman Rising Stars Tournament 2025 | Live on myco",
+        "m3u8_url": "https://rtmp-pk.ml-pull-dvc-myco.io/RTMP-AJMAN-CRICKET/index.m3u8"
       }
     ],
     "Channels": [
