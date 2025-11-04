@@ -1,27 +1,27 @@
 {
   "Author": "Abid",
   "For Update": "DM me on Telegram @MAbidOfficial",
-  "last_update": "03-11-2025 : 22:33:49",
-  "total_links": 18,
+  "last_update": "04-11-2025 : 21:02:04",
+  "total_links": 17,
   "category_counts": {
     "Live": 1,
-    "Channels": 17
+    "Channels": 16
   },
   "categories": {
     "Live": [
       {
         "url": "https://myco.io/videohome/68e7d4dbbd86758a6dda6393",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251103%2Fmycolive-3_Nov_Desktoppng-1762176658961.webp&w=3840&q=30",
+        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251104%2Fmycolive-Final_desktoppng-1762260344094.webp&w=3840&q=30",
         "name": "Ajman Rising Stars Tournament 2025 | Live on myco",
         "m3u8_url": "https://rtmp-pk.ml-pull-dvc-myco.io/RTMP-AJMAN-CRICKET/index.m3u8"
       }
     ],
     "Channels": [
       {
-        "url": "https://myco.io/videohome/690332529e8dc77edf198500",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251030%2Fmycolive-Thumb_6jpg-1761822156288.webp&w=3840&q=30",
-        "name": "Tidpix - Authentically African Movies",
-        "m3u8_url": "https://api-ott.tidpix.com/loggingmediaurlpassthrough/a.m3u8?version=12\\u0026id=10\\u0026partner=general_test"
+        "url": "https://myco.io/videohome/6909acc0bb262b02996a713f",
+        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251104%2Fsamia_admin_account-images_16jpeg-1762241728214.webp&w=3840&q=30",
+        "name": "do",
+        "m3u8_url": "https://live-hls-abr-cdn.livepush.io/live/bigbuckbunnyclip/index.m3u8"
       },
       {
         "url": "https://myco.io/videohome/68fb6004f19efaba17e59295",
@@ -112,12 +112,6 @@
         "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251013%2Fmycolive-CHINACGTNTHUMBjpg-1760344429317.webp&w=3840&q=30",
         "name": "CGTN Discovering China",
         "m3u8_url": "https://ml-pull-hwc.myco.io/CGTN/hls/index.m3u8"
-      },
-      {
-        "url": "https://myco.io/videohome/68402aeac265d95410f152d5",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-1jpg-1751381074821.webp&w=3840&q=30",
-        "name": "Saudi Quran TV",
-        "m3u8_url": "https://ml-pull-dvc-myco.io:2096/SAUDI_QURAN/index.m3u8"
       }
     ]
   }
