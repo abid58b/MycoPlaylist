@@ -1,7 +1,7 @@
 {
   "Author": "Abid",
   "For Update": "DM me on Telegram @MAbidOfficial",
-  "last_update": "06-11-2025 : 19:13:36",
+  "last_update": "07-11-2025 : 19:08:32",
   "total_links": 18,
   "category_counts": {
     "Live": 0,
@@ -10,12 +10,6 @@
   "categories": {
     "Live": [],
     "Channels": [
-      {
-        "url": "https://myco.io/videohome/6909acc0bb262b02996a713f",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251104%2Fsamia_admin_account-images_16jpeg-1762241728214.webp&w=3840&q=30",
-        "name": "do",
-        "m3u8_url": "https://live-hls-abr-cdn.livepush.io/live/bigbuckbunnyclip/index.m3u8"
-      },
       {
         "url": "https://myco.io/videohome/690332529e8dc77edf198500",
         "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251030%2Fmycolive-Thumb_6jpg-1761822156288.webp&w=3840&q=30",
@@ -117,6 +111,12 @@
         "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-1jpg-1751381074821.webp&w=3840&q=30",
         "name": "Saudi Quran TV",
         "m3u8_url": "https://ml-pull-dvc-myco.io:2096/SAUDI_QURAN/index.m3u8"
+      },
+      {
+        "url": "https://myco.io/videohome/68402415d2d30d092c1cc5d4",
+        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-14jpg-1751381099951.webp&w=3840&q=30",
+        "name": "Madani Channel",
+        "m3u8_url": "https://ml-pull-dvc-myco.io:2096/MADNI_CHANNEL/index.m3u8"
       }
     ]
   }
