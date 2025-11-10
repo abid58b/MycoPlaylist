@@ -1,11 +1,11 @@
 {
   "Author": "Abid",
   "For Update": "DM me on Telegram @MAbidOfficial",
-  "last_update": "07-11-2025 : 21:58:22",
-  "total_links": 18,
+  "last_update": "10-11-2025 : 15:19:27",
+  "total_links": 20,
   "category_counts": {
     "Live": 0,
-    "Channels": 18
+    "Channels": 20
   },
   "categories": {
     "Live": [],
@@ -117,6 +117,18 @@
         "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-14jpg-1751381099951.webp&w=3840&q=30",
         "name": "Madani Channel",
         "m3u8_url": "https://ml-pull-dvc-myco.io:2096/MADNI_CHANNEL/index.m3u8"
+      },
+      {
+        "url": "https://myco.io/videohome/6840238bc265d95410f14ea8",
+        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-15jpg-1751381144523.webp&w=3840&q=30",
+        "name": "Hyder TV",
+        "m3u8_url": "https://ml-pull-hwc.myco.io/hydertvcanada/hls/index.m3u8"
+      },
+      {
+        "url": "https://myco.io/videohome/683837d04af76c0b35ca39e9",
+        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250529%2Fmycolive-myco_Sports_247jpeg-1748514767310.webp&w=3840&q=30",
+        "name": "myco sports 24/7",
+        "m3u8_url": "https://ml-pull-hwc.myco.io/stream1/hls/stream1.m3u8"
       }
     ]
   }
