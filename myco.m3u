@@ -1,13 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251121%2Fmycolive-6Ljpg-1763758309853.webp&w=3840&q=30" group-title="Live",USA vs Rest of Gulf | Match 6  | IMC Over-40s T20 Cricket World Cup 2025 | live on myco
-#EXTVLCOPT:http-referrer=https://myco.io/
-https://ml-pull-hwc.myco.io/StreamPVCA6/hls/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251121%2Fmycolive-3Ljpg-1763757495783.webp&w=3840&q=30" group-title="Live",West Indies	vs Canada | Match 3 | IMC Over-40s T20 Cricket World Cup 2025 | live on myco
-#EXTVLCOPT:http-referrer=https://myco.io/
-https://ml-pull-hwc.myco.io/StreamPVCA5/hls/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251121%2Fmycolive-2Ljpg-1763756910517.webp&w=3840&q=30" group-title="Live",Pakistan vs South Africa | Stream 2  | IMC Over-40s T20 Cricket World Cup 2025 | live on myco
-#EXTVLCOPT:http-referrer=https://myco.io/
-https://ml-pull-hwc.myco.io/StreamPVCA4/hls/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251122%2Fmycolive-WhatsApp_Image_20251122_at_25726_AMjpeg-1763799926292.webp&w=3840&q=30" group-title="Live",Finals | Sindh Esports Championship 2025 | live on myco!
 #EXTVLCOPT:http-referrer=https://myco.io/
 https://ml-pull-hwc.myco.io/Socca/hls/index.m3u8
@@ -43,3 +34,7 @@ https://ml-pull-dvc-myco.io:2096/ABBTAK_NEWS/index.m3u8
 https://ml-pull-dvc-myco.io:2096/CAPITAL_NEWS/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251013%2Fmycolive-CHINACGTNTHUMBjpg-1760344429317.webp&w=3840&q=30" group-title="Channels",CGTN Discovering China
 https://ml-pull-hwc.myco.io/CGTN/hls/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-1jpg-1751381074821.webp&w=3840&q=30" group-title="Channels",Saudi Quran TV
+https://ml-pull-dvc-myco.io:2096/SAUDI_QURAN/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-14jpg-1751381099951.webp&w=3840&q=30" group-title="Channels",Madani Channel
+https://ml-pull-dvc-myco.io:2096/MADNI_CHANNEL/index.m3u8
