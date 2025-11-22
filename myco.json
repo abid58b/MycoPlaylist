@@ -1,11 +1,11 @@
 {
   "Author": "Abid",
   "For Update": "DM me on Telegram @MAbidOfficial",
-  "last_update": "22-11-2025 : 19:21:17",
-  "total_links": 19,
+  "last_update": "22-11-2025 : 22:22:02",
+  "total_links": 20,
   "category_counts": {
     "Live": 1,
-    "Channels": 18
+    "Channels": 19
   },
   "categories": {
     "Live": [
@@ -124,6 +124,12 @@
         "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-14jpg-1751381099951.webp&w=3840&q=30",
         "name": "Madani Channel",
         "m3u8_url": "https://ml-pull-dvc-myco.io:2096/MADNI_CHANNEL/index.m3u8"
+      },
+      {
+        "url": "https://myco.io/videohome/6840238bc265d95410f14ea8",
+        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-15jpg-1751381144523.webp&w=3840&q=30",
+        "name": "Hyder TV",
+        "m3u8_url": "https://ml-pull-hwc.myco.io/hydertvcanada/hls/index.m3u8"
       }
     ]
   }
