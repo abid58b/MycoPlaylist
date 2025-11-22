@@ -1,14 +1,39 @@
 {
   "Author": "Abid",
   "For Update": "DM me on Telegram @MAbidOfficial",
-  "last_update": "21-11-2025 : 18:00:10",
+  "last_update": "22-11-2025 : 15:39:02",
   "total_links": 20,
   "category_counts": {
-    "Live": 0,
-    "Channels": 20
+    "Live": 4,
+    "Channels": 16
   },
   "categories": {
-    "Live": [],
+    "Live": [
+      {
+        "url": "https://myco.io/videohome/6920d0e5b7e2230c3aabba9c",
+        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251121%2Fmycolive-6Ljpg-1763758309853.webp&w=3840&q=30",
+        "name": "USA vs Rest of Gulf | Match 6  | IMC Over-40s T20 Cricket World Cup 2025 | live on myco",
+        "m3u8_url": "https://ml-pull-hwc.myco.io/StreamPVCA6/hls/index.m3u8"
+      },
+      {
+        "url": "https://myco.io/videohome/6920cdb8b7e2230c3aabb9ba",
+        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251121%2Fmycolive-3Ljpg-1763757495783.webp&w=3840&q=30",
+        "name": "West Indies\tvs Canada | Match 3 | IMC Over-40s T20 Cricket World Cup 2025 | live on myco",
+        "m3u8_url": "https://ml-pull-hwc.myco.io/StreamPVCA5/hls/index.m3u8"
+      },
+      {
+        "url": "https://myco.io/videohome/6920cb6d7f6dca04caadda85",
+        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251121%2Fmycolive-2Ljpg-1763756910517.webp&w=3840&q=30",
+        "name": "Pakistan vs South Africa | Stream 2  | IMC Over-40s T20 Cricket World Cup 2025 | live on myco",
+        "m3u8_url": "https://ml-pull-hwc.myco.io/StreamPVCA4/hls/index.m3u8"
+      },
+      {
+        "url": "https://myco.io/videohome/69146fce621039edcbb37eea",
+        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251122%2Fmycolive-WhatsApp_Image_20251122_at_25726_AMjpeg-1763799926292.webp&w=3840&q=30",
+        "name": "Finals | Sindh Esports Championship 2025 | live on myco!",
+        "m3u8_url": "https://ml-pull-hwc.myco.io/Socca/hls/index.m3u8"
+      }
+    ],
     "Channels": [
       {
         "url": "https://myco.io/videohome/690332529e8dc77edf198500",
@@ -105,30 +130,6 @@
         "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251013%2Fmycolive-CHINACGTNTHUMBjpg-1760344429317.webp&w=3840&q=30",
         "name": "CGTN Discovering China",
         "m3u8_url": "https://ml-pull-hwc.myco.io/CGTN/hls/index.m3u8"
-      },
-      {
-        "url": "https://myco.io/videohome/68402aeac265d95410f152d5",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-1jpg-1751381074821.webp&w=3840&q=30",
-        "name": "Saudi Quran TV",
-        "m3u8_url": "https://ml-pull-dvc-myco.io:2096/SAUDI_QURAN/index.m3u8"
-      },
-      {
-        "url": "https://myco.io/videohome/68402415d2d30d092c1cc5d4",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-14jpg-1751381099951.webp&w=3840&q=30",
-        "name": "Madani Channel",
-        "m3u8_url": "https://ml-pull-dvc-myco.io:2096/MADNI_CHANNEL/index.m3u8"
-      },
-      {
-        "url": "https://myco.io/videohome/6840238bc265d95410f14ea8",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-15jpg-1751381144523.webp&w=3840&q=30",
-        "name": "Hyder TV",
-        "m3u8_url": "https://ml-pull-hwc.myco.io/hydertvcanada/hls/index.m3u8"
-      },
-      {
-        "url": "https://myco.io/videohome/683837d04af76c0b35ca39e9",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250529%2Fmycolive-myco_Sports_247jpeg-1748514767310.webp&w=3840&q=30",
-        "name": "myco sports 24/7",
-        "m3u8_url": "https://ml-pull-hwc.myco.io/stream1/hls/stream1.m3u8"
       }
     ]
   }
