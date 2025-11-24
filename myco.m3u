@@ -1,16 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251123%2Fmycolive-WhatsApp_Image_20251123_at_52013_PMjpeg-1763923561383.webp&w=3840&q=30" group-title="Live",Day 1 | CAS Serena Hotels International Squash Championships 2025 | live on myco
-#EXTVLCOPT:http-referrer=https://myco.io/
-https://ml-pull-hwc.myco.io/GlassCourt1/hls/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251123%2Fmycolive-4Ljpg-1763906409516.webp&w=3840&q=30" group-title="Live",USA vs Zimbabwe | Stream 16 | IMC Over-40s T20 Cricket World Cup 2025 | live on myco
-#EXTVLCOPT:http-referrer=https://myco.io/
-https://ml-pull-hwc.myco.io/StreamPVCA2/hls/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251123%2Fmycolive-2Ljpg-1763905981947.webp&w=3840&q=30" group-title="Live",Hong Kong China vs Canada | Stream 14 | IMC Over-40s T20 Cricket World Cup 2025 | live on myco
-#EXTVLCOPT:http-referrer=https://myco.io/
-https://ml-pull-hwc.myco.io/StreamPVCA4/hls/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251123%2Fmycolive-1Ljpg-1763905858016.webp&w=3840&q=30" group-title="Live",South Africa vs West Indies | Stream 13 | IMC Over-40s T20 Cricket World Cup 2025 | live on myco
-#EXTVLCOPT:http-referrer=https://myco.io/
-https://ml-pull-hwc.myco.io/Stream1/hls/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251030%2Fmycolive-Thumb_6jpg-1761822156288.webp&w=3840&q=30" group-title="Channels",Tidpix - Authentically African Movies
 https://api-ott.tidpix.com/loggingmediaurlpassthrough/a.m3u8?version=12\u0026id=10\u0026partner=general_test
 #EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251024%2Fmycolive-saudisunnahTHUMBjpg-1761304579979.webp&w=3840&q=30" group-title="Channels",Saudi Sunnah TV
@@ -19,8 +7,20 @@ https://ml-pull-dvc-myco.io:2096/SAUDI_SUNNAH/index.m3u8
 https://ml-pull-hwc.myco.io/CGTN6/hls/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251013%2Fmycolive-CHINATRAVELTHUMBjpg-1760343887620.webp&w=3840&q=30" group-title="Channels",China Travel - CGTN
 https://ml-pull-hwc.myco.io/CGTN5/hls/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251003%2Fmycolive-BabyTvjpg-1759513854973.webp&w=3840&q=30" group-title="Channels",Baby TV
+https://ml-pull-dvc-myco.io:2096/BABY_TV/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250830%2Fmycolive-mpng-1756564193323.webp&w=3840&q=30" group-title="Channels",Buypass TV
 https://ml-pull-dvc-myco.io:2096/BuyPass_TV/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251023%2Fmycolive-Geo_Supre_png-1761237110499.webp&w=3840&q=30" group-title="Channels",Geo Super
+https://ml-pull-dvc-myco.io:2096/GEO_SUPER/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250814%2Fmycolive-4jpg-1755192345133.webp&w=3840&q=30" group-title="Channels",Discover Pakistan
+https://ml-pull-dvc-myco.io:2096/DISCOVER_PAKISTAN/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250814%2Fmycolive-11jpg-1755175677114.webp&w=3840&q=30" group-title="Channels",BBC Lifestyle
+https://ml-pull-dvc-myco.io:2096/BBCLIFESTYLE-FHD/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250814%2Fmycolive-WhatsApp_Image_20250814_at_53344_PMjpeg-1755174841190.webp&w=3840&q=30" group-title="Channels",EPL - PROMO
+https://ml-pull-hwc.myco.io/PROMO/hls/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250813%2Fmycolive-9jpg-1755075660153.webp&w=3840&q=30" group-title="Channels",PBS Kids
+https://us.ml-pull-dvc-myco.io:2096/PBS_KIDS/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250804%2Fmycolive-3jpg-1754315453863.webp&w=3840&q=30" group-title="Channels",Al Jazeera
 https://us.ml-pull-dvc-myco.io:2096/AL_JAZEERA_ENG/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250804%2Fmycolive-5jpg-1754315196301.webp&w=3840&q=30" group-title="Channels",8XM HD
@@ -29,8 +29,6 @@ https://ml-pull-dvc-myco.io:2096/8XM_MUSIC/index.m3u8
 https://ml-pull-dvc-myco.io:2096/ABBTAK_NEWS/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250625%2Fmycolive-CaptialTvjpg-1750838029644.webp&w=3840&q=30" group-title="Channels",Capital TV
 https://ml-pull-dvc-myco.io:2096/CAPITAL_NEWS/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250625%2Fmycolive-Watch_green_entertainment_channel_online_freejpg-1750856023512.webp&w=3840&q=30" group-title="Channels",Green Entertainment TV | Live Free Streaming
-https://ml-pull-dvc-myco.io:2096/GREEN_ENTERTAINMENT/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251013%2Fmycolive-CHINACGTNTHUMBjpg-1760344429317.webp&w=3840&q=30" group-title="Channels",CGTN Discovering China
 https://ml-pull-hwc.myco.io/CGTN/hls/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-1jpg-1751381074821.webp&w=3840&q=30" group-title="Channels",Saudi Quran TV
@@ -39,27 +37,3 @@ https://ml-pull-dvc-myco.io:2096/SAUDI_QURAN/index.m3u8
 https://ml-pull-dvc-myco.io:2096/MADNI_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-15jpg-1751381144523.webp&w=3840&q=30" group-title="Channels",Hyder TV
 https://ml-pull-hwc.myco.io/hydertvcanada/hls/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250529%2Fmycolive-myco_Sports_247jpeg-1748514767310.webp&w=3840&q=30" group-title="Channels",myco sports 24/7
-https://ml-pull-hwc.myco.io/stream1/hls/stream1.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-6jpg-1751381173414.webp&w=3840&q=30" group-title="Channels",Channel 5 News HD
-https://ml-pull-dvc-myco.io:2096/CHANNEL_5_NEWS/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-18jpg-1751381198697.webp&w=3840&q=30" group-title="Channels",Time News HD
-https://ml-pull-dvc-myco.io:2096/TIME_NEWS/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-13jpg-1751381222642.webp&w=3840&q=30" group-title="Channels",MUN TV
-https://ml-pull-dvc-myco.io:2096/MUN_TV/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-3jpg-1751381255548.webp&w=3840&q=30" group-title="Channels",Aaj Entertainment
-https://ml-pull-dvc-myco.io:2096/AAJ_ENTERTAINMENT/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-4jpg-1751381286619.webp&w=3840&q=30" group-title="Channels",Aaj News
-https://ml-pull-dvc-myco.io:2096/AAJ_NEWS/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250128%2Fmycolive-cgtnjpg-1738072396919.webp&w=3840&q=30" group-title="Channels",CGTN Documentary
-https://global.cgtn.cicc.media.caton.cloud/master/cgtn-documentary_myco.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-8jpg-1751381422278.webp&w=3840&q=30" group-title="Channels",Mix Bel Araby
-https://ml-pull-hwc.myco.io/MixBelAraby/hls/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-10jpg-1751381447882.webp&w=3840&q=30" group-title="Channels",Mix ONE
-https://ml-pull-hwc.myco.io/MixONE/hls/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251105%2Fmycolive-mix_1jpg-1762353499626.webp&w=3840&q=30" group-title="Channels",Mix TV - Hollywood
-https://ml-pull-hwc.myco.io/MixTV/hls/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20240920%2Fmycolive-thumb2jpg-1726843385402.webp&w=3840&q=30" group-title="Channels",CGTN Arabic
-https://global.cgtn.cicc.media.caton.cloud/master/cgtn-arabic.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20240920%2Fmycolive-thumb1jpg-1726843358649.webp&w=3840&q=30" group-title="Channels",CGTN English
-https://global.cgtn.cicc.media.caton.cloud/master/cgtn_myco.m3u8

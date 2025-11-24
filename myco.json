@@ -1,39 +1,14 @@
 {
   "Author": "Abid",
   "For Update": "DM me on Telegram @MAbidOfficial",
-  "last_update": "24-11-2025 : 12:06:49",
-  "total_links": 30,
+  "last_update": "24-11-2025 : 19:33:22",
+  "total_links": 19,
   "category_counts": {
-    "Live": 4,
-    "Channels": 26
+    "Live": 0,
+    "Channels": 19
   },
   "categories": {
-    "Live": [
-      {
-        "url": "https://myco.io/videohome/69235669c4b1b41aa8d93e1b",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251123%2Fmycolive-WhatsApp_Image_20251123_at_52013_PMjpeg-1763923561383.webp&w=3840&q=30",
-        "name": "Day 1 | CAS Serena Hotels International Squash Championships 2025 | live on myco",
-        "m3u8_url": "https://ml-pull-hwc.myco.io/GlassCourt1/hls/index.m3u8"
-      },
-      {
-        "url": "https://myco.io/videohome/6920cf1ffe14892260bf7115",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251123%2Fmycolive-4Ljpg-1763906409516.webp&w=3840&q=30",
-        "name": "USA vs Zimbabwe | Stream 16 | IMC Over-40s T20 Cricket World Cup 2025 | live on myco",
-        "m3u8_url": "https://ml-pull-hwc.myco.io/StreamPVCA2/hls/index.m3u8"
-      },
-      {
-        "url": "https://myco.io/videohome/6920cb6d7f6dca04caadda85",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251123%2Fmycolive-2Ljpg-1763905981947.webp&w=3840&q=30",
-        "name": "Hong Kong China vs Canada | Stream 14 | IMC Over-40s T20 Cricket World Cup 2025 | live on myco",
-        "m3u8_url": "https://ml-pull-hwc.myco.io/StreamPVCA4/hls/index.m3u8"
-      },
-      {
-        "url": "https://myco.io/videohome/6920cab7fe14892260bf6fc4",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251123%2Fmycolive-1Ljpg-1763905858016.webp&w=3840&q=30",
-        "name": "South Africa vs West Indies | Stream 13 | IMC Over-40s T20 Cricket World Cup 2025 | live on myco",
-        "m3u8_url": "https://ml-pull-hwc.myco.io/Stream1/hls/index.m3u8"
-      }
-    ],
+    "Live": [],
     "Channels": [
       {
         "url": "https://myco.io/videohome/690332529e8dc77edf198500",
@@ -60,10 +35,46 @@
         "m3u8_url": "https://ml-pull-hwc.myco.io/CGTN5/hls/index.m3u8"
       },
       {
+        "url": "https://myco.io/videohome/68dd17a25c5560e77c7614d7",
+        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251003%2Fmycolive-BabyTvjpg-1759513854973.webp&w=3840&q=30",
+        "name": "Baby TV",
+        "m3u8_url": "https://ml-pull-dvc-myco.io:2096/BABY_TV/index.m3u8"
+      },
+      {
         "url": "https://myco.io/videohome/68b2c644be6483581643a61f",
         "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250830%2Fmycolive-mpng-1756564193323.webp&w=3840&q=30",
         "name": "Buypass TV",
         "m3u8_url": "https://ml-pull-dvc-myco.io:2096/BuyPass_TV/index.m3u8"
+      },
+      {
+        "url": "https://myco.io/videohome/68a0d66883214baa498339b5",
+        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251023%2Fmycolive-Geo_Supre_png-1761237110499.webp&w=3840&q=30",
+        "name": "Geo Super",
+        "m3u8_url": "https://ml-pull-dvc-myco.io:2096/GEO_SUPER/index.m3u8"
+      },
+      {
+        "url": "https://myco.io/videohome/689e1c195135d41bf965b7cb",
+        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250814%2Fmycolive-4jpg-1755192345133.webp&w=3840&q=30",
+        "name": "Discover Pakistan",
+        "m3u8_url": "https://ml-pull-dvc-myco.io:2096/DISCOVER_PAKISTAN/index.m3u8"
+      },
+      {
+        "url": "https://myco.io/videohome/689dda3f3f4c9b18f4a24a0e",
+        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250814%2Fmycolive-11jpg-1755175677114.webp&w=3840&q=30",
+        "name": "BBC Lifestyle",
+        "m3u8_url": "https://ml-pull-dvc-myco.io:2096/BBCLIFESTYLE-FHD/index.m3u8"
+      },
+      {
+        "url": "https://myco.io/videohome/689dd7ba5135d41bf965932e",
+        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250814%2Fmycolive-WhatsApp_Image_20250814_at_53344_PMjpeg-1755174841190.webp&w=3840&q=30",
+        "name": "EPL - PROMO",
+        "m3u8_url": "https://ml-pull-hwc.myco.io/PROMO/hls/index.m3u8"
+      },
+      {
+        "url": "https://myco.io/videohome/689c544c5135d41bf96497c3",
+        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250813%2Fmycolive-9jpg-1755075660153.webp&w=3840&q=30",
+        "name": "PBS Kids",
+        "m3u8_url": "https://us.ml-pull-dvc-myco.io:2096/PBS_KIDS/index.m3u8"
       },
       {
         "url": "https://myco.io/videohome/6890babe3f4c9b18f49426d0",
@@ -90,12 +101,6 @@
         "m3u8_url": "https://ml-pull-dvc-myco.io:2096/CAPITAL_NEWS/index.m3u8"
       },
       {
-        "url": "https://myco.io/videohome/685ba90f23efb8c4f551a6ed",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250625%2Fmycolive-Watch_green_entertainment_channel_online_freejpg-1750856023512.webp&w=3840&q=30",
-        "name": "Green Entertainment TV | Live Free Streaming",
-        "m3u8_url": "https://ml-pull-dvc-myco.io:2096/GREEN_ENTERTAINMENT/index.m3u8"
-      },
-      {
         "url": "https://myco.io/videohome/6853df7f8593d91eb461aaff",
         "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251013%2Fmycolive-CHINACGTNTHUMBjpg-1760344429317.webp&w=3840&q=30",
         "name": "CGTN Discovering China",
@@ -118,78 +123,6 @@
         "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-15jpg-1751381144523.webp&w=3840&q=30",
         "name": "Hyder TV",
         "m3u8_url": "https://ml-pull-hwc.myco.io/hydertvcanada/hls/index.m3u8"
-      },
-      {
-        "url": "https://myco.io/videohome/683837d04af76c0b35ca39e9",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250529%2Fmycolive-myco_Sports_247jpeg-1748514767310.webp&w=3840&q=30",
-        "name": "myco sports 24/7",
-        "m3u8_url": "https://ml-pull-hwc.myco.io/stream1/hls/stream1.m3u8"
-      },
-      {
-        "url": "https://myco.io/videohome/68382ec7a8a42ec476af2959",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-6jpg-1751381173414.webp&w=3840&q=30",
-        "name": "Channel 5 News HD",
-        "m3u8_url": "https://ml-pull-dvc-myco.io:2096/CHANNEL_5_NEWS/index.m3u8"
-      },
-      {
-        "url": "https://myco.io/videohome/68309e5379580b256d1b1b82",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-18jpg-1751381198697.webp&w=3840&q=30",
-        "name": "Time News HD",
-        "m3u8_url": "https://ml-pull-dvc-myco.io:2096/TIME_NEWS/index.m3u8"
-      },
-      {
-        "url": "https://myco.io/videohome/683074438dfcfbbcde5c20d6",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-13jpg-1751381222642.webp&w=3840&q=30",
-        "name": "MUN TV",
-        "m3u8_url": "https://ml-pull-dvc-myco.io:2096/MUN_TV/index.m3u8"
-      },
-      {
-        "url": "https://myco.io/videohome/682f1e66d132b2399b27ab00",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-3jpg-1751381255548.webp&w=3840&q=30",
-        "name": "Aaj Entertainment",
-        "m3u8_url": "https://ml-pull-dvc-myco.io:2096/AAJ_ENTERTAINMENT/index.m3u8"
-      },
-      {
-        "url": "https://myco.io/videohome/682f1c9595dce935340d76d1",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-4jpg-1751381286619.webp&w=3840&q=30",
-        "name": "Aaj News",
-        "m3u8_url": "https://ml-pull-dvc-myco.io:2096/AAJ_NEWS/index.m3u8"
-      },
-      {
-        "url": "https://myco.io/videohome/6798e14cc13e0a3cd93d24f0",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250128%2Fmycolive-cgtnjpg-1738072396919.webp&w=3840&q=30",
-        "name": "CGTN Documentary",
-        "m3u8_url": "https://global.cgtn.cicc.media.caton.cloud/master/cgtn-documentary_myco.m3u8"
-      },
-      {
-        "url": "https://myco.io/videohome/67764e92c13e0a3cd924cf54",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-8jpg-1751381422278.webp&w=3840&q=30",
-        "name": "Mix Bel Araby",
-        "m3u8_url": "https://ml-pull-hwc.myco.io/MixBelAraby/hls/index.m3u8"
-      },
-      {
-        "url": "https://myco.io/videohome/67764d04d040a3a0e2597a40",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-10jpg-1751381447882.webp&w=3840&q=30",
-        "name": "Mix ONE",
-        "m3u8_url": "https://ml-pull-hwc.myco.io/MixONE/hls/index.m3u8"
-      },
-      {
-        "url": "https://myco.io/videohome/670533a7bf8a4684f0188155",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251105%2Fmycolive-mix_1jpg-1762353499626.webp&w=3840&q=30",
-        "name": "Mix TV - Hollywood",
-        "m3u8_url": "https://ml-pull-hwc.myco.io/MixTV/hls/index.m3u8"
-      },
-      {
-        "url": "https://myco.io/videohome/66ea67498dcc00534340d4a1",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20240920%2Fmycolive-thumb2jpg-1726843385402.webp&w=3840&q=30",
-        "name": "CGTN Arabic",
-        "m3u8_url": "https://global.cgtn.cicc.media.caton.cloud/master/cgtn-arabic.m3u8"
-      },
-      {
-        "url": "https://myco.io/videohome/66ea658e13a6f6fce0bab8b2",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20240920%2Fmycolive-thumb1jpg-1726843358649.webp&w=3840&q=30",
-        "name": "CGTN English",
-        "m3u8_url": "https://global.cgtn.cicc.media.caton.cloud/master/cgtn_myco.m3u8"
       }
     ]
   }
