@@ -1,4 +1,19 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251123%2Fmycolive-WhatsApp_Image_20251123_at_52013_PMjpeg-1763923561383.webp&w=3840&q=30" group-title="Live",Quater Finals | CAS Serena Hotels International Squash Championships 2025 | live on myco
+#EXTVLCOPT:http-referrer=https://myco.io/
+https://ml-pull-hwc.myco.io/GlassCourt1/hls/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251126%2Fmycolive-Challenger-Cup-Pakistan-LIVE-DAY-02--1764134658467.webp&w=3840&q=30" group-title="Live",Day 2 | ATP Challenger Cup  Pakistan 2025 | live on myco
+#EXTVLCOPT:http-referrer=https://myco.io/
+https://ml-pull-hwc.myco.io/Socca/hls/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251124%2Fmycolive-THUMBMATCH24LIVEjpg-1764013823525.webp&w=3840&q=30" group-title="Live",Australia vs USA | Stream 24 | IMC Over-40s T20 Cricket World Cup 2025 | live on myco
+#EXTVLCOPT:http-referrer=https://myco.io/
+https://ml-pull-hwc.myco.io/StreamPVCA6/hls/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251124%2Fmycolive-THUMBMATCH23LIVEjpg-1764013723495.webp&w=3840&q=30" group-title="Live",Sri Lanka vs Zimbabwe | Stream 23 | IMC Over-40s T20 Cricket World Cup 2025 | live on myco
+#EXTVLCOPT:http-referrer=https://myco.io/
+https://ml-pull-hwc.myco.io/StreamPVCA3/hls/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251124%2Fmycolive-THUMBMATCH21LIVEjpg-1764013357501.webp&w=3840&q=30" group-title="Live",Pakistan vs West Indies | Stream 21 | IMC Over-40s T20 Cricket World Cup 2025 | live on myco
+#EXTVLCOPT:http-referrer=https://myco.io/
+https://ml-pull-hwc.myco.io/StreamPVCA5/hls/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251030%2Fmycolive-Thumb_6jpg-1761822156288.webp&w=3840&q=30" group-title="Channels",Tidpix - Authentically African Movies
 https://api-ott.tidpix.com/loggingmediaurlpassthrough/a.m3u8?version=12\u0026id=10\u0026partner=general_test
 #EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251024%2Fmycolive-saudisunnahTHUMBjpg-1761304579979.webp&w=3840&q=30" group-title="Channels",Saudi Sunnah TV
@@ -29,11 +44,3 @@ https://ml-pull-dvc-myco.io:2096/8XM_MUSIC/index.m3u8
 https://ml-pull-dvc-myco.io:2096/ABBTAK_NEWS/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250625%2Fmycolive-CaptialTvjpg-1750838029644.webp&w=3840&q=30" group-title="Channels",Capital TV
 https://ml-pull-dvc-myco.io:2096/CAPITAL_NEWS/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251013%2Fmycolive-CHINACGTNTHUMBjpg-1760344429317.webp&w=3840&q=30" group-title="Channels",CGTN Discovering China
-https://ml-pull-hwc.myco.io/CGTN/hls/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-1jpg-1751381074821.webp&w=3840&q=30" group-title="Channels",Saudi Quran TV
-https://ml-pull-dvc-myco.io:2096/SAUDI_QURAN/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-14jpg-1751381099951.webp&w=3840&q=30" group-title="Channels",Madani Channel
-https://ml-pull-dvc-myco.io:2096/MADNI_CHANNEL/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-15jpg-1751381144523.webp&w=3840&q=30" group-title="Channels",Hyder TV
-https://ml-pull-hwc.myco.io/hydertvcanada/hls/index.m3u8

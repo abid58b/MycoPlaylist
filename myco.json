@@ -1,14 +1,45 @@
 {
   "Author": "Abid",
   "For Update": "DM me on Telegram @MAbidOfficial",
-  "last_update": "24-11-2025 : 19:33:22",
-  "total_links": 19,
+  "last_update": "26-11-2025 : 15:01:16",
+  "total_links": 20,
   "category_counts": {
-    "Live": 0,
-    "Channels": 19
+    "Live": 5,
+    "Channels": 15
   },
   "categories": {
-    "Live": [],
+    "Live": [
+      {
+        "url": "https://myco.io/videohome/69235669c4b1b41aa8d93e1b",
+        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251123%2Fmycolive-WhatsApp_Image_20251123_at_52013_PMjpeg-1763923561383.webp&w=3840&q=30",
+        "name": "Quater Finals | CAS Serena Hotels International Squash Championships 2025 | live on myco",
+        "m3u8_url": "https://ml-pull-hwc.myco.io/GlassCourt1/hls/index.m3u8"
+      },
+      {
+        "url": "https://myco.io/videohome/6921ee067f6dca04caafc922",
+        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251126%2Fmycolive-Challenger-Cup-Pakistan-LIVE-DAY-02--1764134658467.webp&w=3840&q=30",
+        "name": "Day 2 | ATP Challenger Cup  Pakistan 2025 | live on myco",
+        "m3u8_url": "https://ml-pull-hwc.myco.io/Socca/hls/index.m3u8"
+      },
+      {
+        "url": "https://myco.io/videohome/6920d0e5b7e2230c3aabba9c",
+        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251124%2Fmycolive-THUMBMATCH24LIVEjpg-1764013823525.webp&w=3840&q=30",
+        "name": "Australia vs USA | Stream 24 | IMC Over-40s T20 Cricket World Cup 2025 | live on myco",
+        "m3u8_url": "https://ml-pull-hwc.myco.io/StreamPVCA6/hls/index.m3u8"
+      },
+      {
+        "url": "https://myco.io/videohome/6920cfa47f6dca04caaddbff",
+        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251124%2Fmycolive-THUMBMATCH23LIVEjpg-1764013723495.webp&w=3840&q=30",
+        "name": "Sri Lanka vs Zimbabwe | Stream 23 | IMC Over-40s T20 Cricket World Cup 2025 | live on myco",
+        "m3u8_url": "https://ml-pull-hwc.myco.io/StreamPVCA3/hls/index.m3u8"
+      },
+      {
+        "url": "https://myco.io/videohome/6920cdb8b7e2230c3aabb9ba",
+        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251124%2Fmycolive-THUMBMATCH21LIVEjpg-1764013357501.webp&w=3840&q=30",
+        "name": "Pakistan vs West Indies | Stream 21 | IMC Over-40s T20 Cricket World Cup 2025 | live on myco",
+        "m3u8_url": "https://ml-pull-hwc.myco.io/StreamPVCA5/hls/index.m3u8"
+      }
+    ],
     "Channels": [
       {
         "url": "https://myco.io/videohome/690332529e8dc77edf198500",
@@ -99,30 +130,6 @@
         "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250625%2Fmycolive-CaptialTvjpg-1750838029644.webp&w=3840&q=30",
         "name": "Capital TV",
         "m3u8_url": "https://ml-pull-dvc-myco.io:2096/CAPITAL_NEWS/index.m3u8"
-      },
-      {
-        "url": "https://myco.io/videohome/6853df7f8593d91eb461aaff",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251013%2Fmycolive-CHINACGTNTHUMBjpg-1760344429317.webp&w=3840&q=30",
-        "name": "CGTN Discovering China",
-        "m3u8_url": "https://ml-pull-hwc.myco.io/CGTN/hls/index.m3u8"
-      },
-      {
-        "url": "https://myco.io/videohome/68402aeac265d95410f152d5",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-1jpg-1751381074821.webp&w=3840&q=30",
-        "name": "Saudi Quran TV",
-        "m3u8_url": "https://ml-pull-dvc-myco.io:2096/SAUDI_QURAN/index.m3u8"
-      },
-      {
-        "url": "https://myco.io/videohome/68402415d2d30d092c1cc5d4",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-14jpg-1751381099951.webp&w=3840&q=30",
-        "name": "Madani Channel",
-        "m3u8_url": "https://ml-pull-dvc-myco.io:2096/MADNI_CHANNEL/index.m3u8"
-      },
-      {
-        "url": "https://myco.io/videohome/6840238bc265d95410f14ea8",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-15jpg-1751381144523.webp&w=3840&q=30",
-        "name": "Hyder TV",
-        "m3u8_url": "https://ml-pull-hwc.myco.io/hydertvcanada/hls/index.m3u8"
       }
     ]
   }
