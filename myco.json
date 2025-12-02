@@ -1,14 +1,21 @@
 {
   "Author": "Abid",
   "For Update": "DM me on Telegram @MAbidOfficial",
-  "last_update": "28-11-2025 : 17:09:47",
+  "last_update": "02-12-2025 : 17:35:47",
   "total_links": 20,
   "category_counts": {
-    "Live": 0,
-    "Channels": 20
+    "Live": 1,
+    "Channels": 19
   },
   "categories": {
-    "Live": [],
+    "Live": [
+      {
+        "url": "https://myco.io/videohome/692c8a7ca295c4f935c86e8b",
+        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251130%2Fmycolive-Untitled-1-1764526718155.webp&w=3840&q=30",
+        "name": "Day 2 | Milwaukee Hong Kong Squash Open 2025 | live on myco",
+        "m3u8_url": "https://ml-pull-hwc.myco.io/PSA/hls/index.m3u8"
+      }
+    ],
     "Channels": [
       {
         "url": "https://myco.io/videohome/692867360f2fc080350cca15",
@@ -123,12 +130,6 @@
         "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250625%2Fmycolive-CaptialTvjpg-1750838029644.webp&w=3840&q=30",
         "name": "Capital TV",
         "m3u8_url": "https://ml-pull-dvc-myco.io:2096/CAPITAL_NEWS/index.m3u8"
-      },
-      {
-        "url": "https://myco.io/videohome/6853df7f8593d91eb461aaff",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251013%2Fmycolive-CHINACGTNTHUMBjpg-1760344429317.webp&w=3840&q=30",
-        "name": "CGTN Discovering China",
-        "m3u8_url": "https://ml-pull-hwc.myco.io/CGTN/hls/index.m3u8"
       }
     ]
   }
