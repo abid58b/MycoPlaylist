@@ -1,19 +1,19 @@
 {
   "Author": "Abid",
   "For Update": "DM me on Telegram @MAbidOfficial",
-  "last_update": "02-12-2025 : 17:35:47",
-  "total_links": 20,
+  "last_update": "05-12-2025 : 22:18:22",
+  "total_links": 19,
   "category_counts": {
     "Live": 1,
-    "Channels": 19
+    "Channels": 18
   },
   "categories": {
     "Live": [
       {
-        "url": "https://myco.io/videohome/692c8a7ca295c4f935c86e8b",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251130%2Fmycolive-Untitled-1-1764526718155.webp&w=3840&q=30",
-        "name": "Day 2 | Milwaukee Hong Kong Squash Open 2025 | live on myco",
-        "m3u8_url": "https://ml-pull-hwc.myco.io/PSA/hls/index.m3u8"
+        "url": "https://myco.io/videohome/693095fb19d6bcec9b107e4c",
+        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251205%2Fmycolive-Live_Thumb-1764936927910.webp&w=3840&q=30",
+        "name": "Desert Vipers vs Abu Dhabi Knight Riders | Match 4 | ILT20, 2025-26 | on myco",
+        "m3u8_url": "https://ml-pull-rtmp-pk1.myco.io/S4/hls/index.m3u8"
       }
     ],
     "Channels": [
@@ -124,12 +124,6 @@
         "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-7jpg-1751381543101.webp&w=3840&q=30",
         "name": "Abbtakk News",
         "m3u8_url": "https://ml-pull-dvc-myco.io:2096/ABBTAK_NEWS/index.m3u8"
-      },
-      {
-        "url": "https://myco.io/videohome/685bab0f8593d91eb46a15be",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250625%2Fmycolive-CaptialTvjpg-1750838029644.webp&w=3840&q=30",
-        "name": "Capital TV",
-        "m3u8_url": "https://ml-pull-dvc-myco.io:2096/CAPITAL_NEWS/index.m3u8"
       }
     ]
   }

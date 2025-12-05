@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251130%2Fmycolive-Untitled-1-1764526718155.webp&w=3840&q=30" group-title="Live",Day 2 | Milwaukee Hong Kong Squash Open 2025 | live on myco
+#EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251205%2Fmycolive-Live_Thumb-1764936927910.webp&w=3840&q=30" group-title="Live",Desert Vipers vs Abu Dhabi Knight Riders | Match 4 | ILT20, 2025-26 | on myco
 #EXTVLCOPT:http-referrer=https://myco.io/
-https://ml-pull-hwc.myco.io/PSA/hls/index.m3u8
+https://ml-pull-rtmp-pk1.myco.io/S4/hls/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251127%2Fmycolive-33_copy_19-1764255542436.webp&w=3840&q=30" group-title="Channels",HBO 3
 https://ml-pull-dvc-myco.io:2096/HBO_3/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251127%2Fmycolive-33_copy_18-1764255416246.webp&w=3840&q=30" group-title="Channels",HBO 2
@@ -38,5 +38,3 @@ https://us.ml-pull-dvc-myco.io:2096/AL_JAZEERA_ENG/index.m3u8
 https://ml-pull-dvc-myco.io:2096/8XM_MUSIC/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-7jpg-1751381543101.webp&w=3840&q=30" group-title="Channels",Abbtakk News
 https://ml-pull-dvc-myco.io:2096/ABBTAK_NEWS/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250625%2Fmycolive-CaptialTvjpg-1750838029644.webp&w=3840&q=30" group-title="Channels",Capital TV
-https://ml-pull-dvc-myco.io:2096/CAPITAL_NEWS/index.m3u8
