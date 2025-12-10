@@ -1,7 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251205%2Fmycolive-Live_Thumb-1764936927910.webp&w=3840&q=30" group-title="Live",Desert Vipers vs Abu Dhabi Knight Riders | Match 4 | ILT20, 2025-26 | on myco
-#EXTVLCOPT:http-referrer=https://myco.io
-https://ml-pull-rtmp-pk1.myco.io/S4/hls/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251127%2Fmycolive-33_copy_19-1764255542436.webp&w=3840&q=30" group-title="Channels",HBO 3
 https://ml-pull-dvc-myco.io:2096/HBO_3/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251127%2Fmycolive-33_copy_18-1764255416246.webp&w=3840&q=30" group-title="Channels",HBO 2
@@ -21,7 +18,7 @@ https://ml-pull-hwc.myco.io/CGTN5/hls/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251003%2Fmycolive-BabyTvjpg-1759513854973.webp&w=3840&q=30" group-title="Channels",Baby TV
 https://ml-pull-dvc-myco.io:2096/BABY_TV/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250830%2Fmycolive-mpng-1756564193323.webp&w=3840&q=30" group-title="Channels",Buypass TV
-https://ml-pull-dvc-myco.io:2096/BuyPass_TV/index.m3u8
+https://ml-pull-dvc-myco.io:2096/BuyPass_TV/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251023%2Fmycolive-Geo_Supre_png-1761237110499.webp&w=3840&q=30" group-title="Channels",Geo Super
 https://ml-pull-dvc-myco.io:2096/GEO_SUPER/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250814%2Fmycolive-4jpg-1755192345133.webp&w=3840&q=30" group-title="Channels",Discover Pakistan
@@ -38,3 +35,7 @@ https://us.ml-pull-dvc-myco.io:2096/AL_JAZEERA_ENG/index.m3u8
 https://ml-pull-dvc-myco.io:2096/8XM_MUSIC/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-7jpg-1751381543101.webp&w=3840&q=30" group-title="Channels",Abbtakk News
 https://ml-pull-dvc-myco.io:2096/ABBTAK_NEWS/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250625%2Fmycolive-CaptialTvjpg-1750838029644.webp&w=3840&q=30" group-title="Channels",Capital TV
+https://ml-pull-dvc-myco.io:2096/CAPITAL_NEWS/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251013%2Fmycolive-CHINACGTNTHUMBjpg-1760344429317.webp&w=3840&q=30" group-title="Channels",CGTN Discovering China
+https://ml-pull-hwc.myco.io/CGTN/hls/index.m3u8
