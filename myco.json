@@ -1,19 +1,19 @@
 {
   "Author": "Abid",
   "For Update": "DM me on Telegram @MAbidOfficial",
-  "last_update": "26-12-2025 : 15:26:40",
-  "total_links": 18,
+  "last_update": "31-12-2025 : 18:07:39",
+  "total_links": 25,
   "category_counts": {
     "Live": 1,
-    "Channels": 17
+    "Channels": 24
   },
   "categories": {
     "Live": [
       {
-        "url": "https://myco.io/videohome/694d879493a6059fbff34c1d",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251226%2Fmycolive-Live-Thumb-1766734512716.webp&w=3840&q=30",
-        "name": "Sylhet Titans vs Rajshahi Warriors | Match 1 | BPL 2025-26 | Live on myco",
-        "m3u8_url": "https://ml-pull-rtmp-pk1.myco.io/BPL1/hls/index.m3u8"
+        "url": "https://myco.io/videohome/69544b4293a6059fbffee8a8",
+        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251230%2Fmycolive-Live-Thumb-1767131980276.webp&w=3840&q=30",
+        "name": "Sunrisers Eastern Cape vs Paarl Royals | Match 7 |   SA20 - Season 4  | live on myco",
+        "m3u8_url": "https://ml-pull-rtmp-pk1.myco.io/SA20-1112025/hls/sa20/index.m3u8"
       }
     ],
     "Channels": [
@@ -118,6 +118,48 @@
         "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250804%2Fmycolive-5jpg-1754315196301.webp&w=3840&q=30",
         "name": "8XM HD",
         "m3u8_url": "https://ml-pull-dvc-myco.io:2096/8XM_MUSIC/index.m3u8"
+      },
+      {
+        "url": "https://myco.io/videohome/685babbf23efb8c4f551a9d9",
+        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-7jpg-1751381543101.webp&w=3840&q=30",
+        "name": "Abbtakk News",
+        "m3u8_url": "https://ml-pull-dvc-myco.io:2096/ABBTAK_NEWS/index.m3u8"
+      },
+      {
+        "url": "https://myco.io/videohome/685bab0f8593d91eb46a15be",
+        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250625%2Fmycolive-CaptialTvjpg-1750838029644.webp&w=3840&q=30",
+        "name": "Capital TV",
+        "m3u8_url": "https://ml-pull-dvc-myco.io:2096/CAPITAL_NEWS/index.m3u8"
+      },
+      {
+        "url": "https://myco.io/videohome/6853df7f8593d91eb461aaff",
+        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251013%2Fmycolive-CHINACGTNTHUMBjpg-1760344429317.webp&w=3840&q=30",
+        "name": "CGTN Discovering China",
+        "m3u8_url": "https://ml-pull-hwc.myco.io/CGTN/hls/index.m3u8"
+      },
+      {
+        "url": "https://myco.io/videohome/68402aeac265d95410f152d5",
+        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-1jpg-1751381074821.webp&w=3840&q=30",
+        "name": "Saudi Quran TV",
+        "m3u8_url": "https://ml-pull-dvc-myco.io:2096/SAUDI_QURAN/index.m3u8"
+      },
+      {
+        "url": "https://myco.io/videohome/68402415d2d30d092c1cc5d4",
+        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-14jpg-1751381099951.webp&w=3840&q=30",
+        "name": "Madani Channel",
+        "m3u8_url": "https://ml-pull-dvc-myco.io:2096/MADNI_CHANNEL/index.m3u8"
+      },
+      {
+        "url": "https://myco.io/videohome/6840238bc265d95410f14ea8",
+        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-15jpg-1751381144523.webp&w=3840&q=30",
+        "name": "Hyder TV",
+        "m3u8_url": "https://ml-pull-hwc.myco.io/hydertvcanada/hls/index.m3u8"
+      },
+      {
+        "url": "https://myco.io/videohome/683837d04af76c0b35ca39e9",
+        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250529%2Fmycolive-myco_Sports_247jpeg-1748514767310.webp&w=3840&q=30",
+        "name": "myco sports 24/7",
+        "m3u8_url": "https://ml-pull-hwc.myco.io/stream1/hls/stream1.m3u8"
       }
     ]
   }
