@@ -1,46 +1,15 @@
 {
   "Author": "Abid",
   "For Update": "DM me on Telegram @MAbidOfficial",
-  "last_update": "31-12-2025 : 18:07:39",
-  "total_links": 25,
+  "last_update": "05-01-2026 : 15:10:45",
+  "total_links": 19,
   "category_counts": {
-    "Live": 1,
-    "Channels": 24
+    "Live": 0,
+    "Channels": 19
   },
   "categories": {
-    "Live": [
-      {
-        "url": "https://myco.io/videohome/69544b4293a6059fbffee8a8",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251230%2Fmycolive-Live-Thumb-1767131980276.webp&w=3840&q=30",
-        "name": "Sunrisers Eastern Cape vs Paarl Royals | Match 7 |   SA20 - Season 4  | live on myco",
-        "m3u8_url": "https://ml-pull-rtmp-pk1.myco.io/SA20-1112025/hls/sa20/index.m3u8"
-      }
-    ],
+    "Live": [],
     "Channels": [
-      {
-        "url": "https://myco.io/videohome/692867360f2fc080350cca15",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251127%2Fmycolive-33_copy_19-1764255542436.webp&w=3840&q=30",
-        "name": "HBO 3",
-        "m3u8_url": "https://ml-pull-dvc-myco.io:2096/HBO_3/index.m3u8"
-      },
-      {
-        "url": "https://myco.io/videohome/692866b82c0dc0cecbd70e58",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251127%2Fmycolive-33_copy_18-1764255416246.webp&w=3840&q=30",
-        "name": "HBO 2",
-        "m3u8_url": "https://ml-pull-dvc-myco.io:2096/HBO_2/index.m3u8"
-      },
-      {
-        "url": "https://myco.io/videohome/692864242c0dc0cecbd70c00",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251127%2Fmycolive-33_copy_21-1764254756112.webp&w=3840&q=30",
-        "name": "Peace TV Urdu",
-        "m3u8_url": "https://ml-pull-dvc-myco.io:2096/PEACETV-URDU/index.m3u8"
-      },
-      {
-        "url": "https://myco.io/videohome/6928638bdedf2143f83c5574",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251127%2Fmycolive-33_copy_20-1764254602627.webp&w=3840&q=30",
-        "name": "Peace TV English",
-        "m3u8_url": "https://ml-pull-dvc-myco.io:2096/PEACETV-ENG/index.m3u8"
-      },
       {
         "url": "https://myco.io/videohome/690332529e8dc77edf198500",
         "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251030%2Fmycolive-Thumb_6jpg-1761822156288.webp&w=3840&q=30",
@@ -102,18 +71,6 @@
         "m3u8_url": "https://ml-pull-hwc.myco.io/PROMO/hls/index.m3u8"
       },
       {
-        "url": "https://myco.io/videohome/689c544c5135d41bf96497c3",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250813%2Fmycolive-9jpg-1755075660153.webp&w=3840&q=30",
-        "name": "PBS Kids",
-        "m3u8_url": "https://us.ml-pull-dvc-myco.io:2096/PBS_KIDS/index.m3u8"
-      },
-      {
-        "url": "https://myco.io/videohome/6890babe3f4c9b18f49426d0",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250804%2Fmycolive-3jpg-1754315453863.webp&w=3840&q=30",
-        "name": "Al Jazeera",
-        "m3u8_url": "https://us.ml-pull-dvc-myco.io:2096/AL_JAZEERA_ENG/index.m3u8"
-      },
-      {
         "url": "https://myco.io/videohome/6890b9bd64c8e4f0ca407ea2",
         "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250804%2Fmycolive-5jpg-1754315196301.webp&w=3840&q=30",
         "name": "8XM HD",
@@ -138,12 +95,6 @@
         "m3u8_url": "https://ml-pull-hwc.myco.io/CGTN/hls/index.m3u8"
       },
       {
-        "url": "https://myco.io/videohome/68402aeac265d95410f152d5",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-1jpg-1751381074821.webp&w=3840&q=30",
-        "name": "Saudi Quran TV",
-        "m3u8_url": "https://ml-pull-dvc-myco.io:2096/SAUDI_QURAN/index.m3u8"
-      },
-      {
         "url": "https://myco.io/videohome/68402415d2d30d092c1cc5d4",
         "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-14jpg-1751381099951.webp&w=3840&q=30",
         "name": "Madani Channel",
@@ -160,6 +111,18 @@
         "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250529%2Fmycolive-myco_Sports_247jpeg-1748514767310.webp&w=3840&q=30",
         "name": "myco sports 24/7",
         "m3u8_url": "https://ml-pull-hwc.myco.io/stream1/hls/stream1.m3u8"
+      },
+      {
+        "url": "https://myco.io/videohome/68382ec7a8a42ec476af2959",
+        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-6jpg-1751381173414.webp&w=3840&q=30",
+        "name": "Channel 5 News HD",
+        "m3u8_url": "https://ml-pull-dvc-myco.io:2096/CHANNEL_5_NEWS/index.m3u8"
+      },
+      {
+        "url": "https://myco.io/videohome/68309e5379580b256d1b1b82",
+        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-18jpg-1751381198697.webp&w=3840&q=30",
+        "name": "Time News HD",
+        "m3u8_url": "https://ml-pull-dvc-myco.io:2096/TIME_NEWS/index.m3u8"
       }
     ]
   }
