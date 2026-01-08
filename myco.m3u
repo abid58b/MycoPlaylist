@@ -1,8 +1,15 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20260107%2Fmycolive-WhatsApp_Image_2026-01-07_at_8.37.18_PM-1767800832661.webp&w=3840&q=30" group-title="Live",HBL PSL 11 Auction | Live on myco
+#EXTVLCOPT:http-referrer=https://myco.io
+https://ml-pull-rtmp-pk1.myco.io/PSL11/hls/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20260105%2Fmycolive-WhatsApp_Image_2026-01-05_at_7.32.12_PM-1767623547194.webp&w=3840&q=30" group-title="Live",Quater Finals | Rich Venus Open 2026 | live on myco
+#EXTVLCOPT:http-referrer=https://myco.io
+https://ml-pull-hwc.myco.io/PSAKHI/hls/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20260107%2Fmycolive-Live-Thumb-1767820746624.webp&w=3840&q=30" group-title="Live",Noakhali Express vs Rajshahi Warriors | Match 17 | BPL 2025-26 | Live on myco
+#EXTVLCOPT:http-referrer=https://myco.io
+https://ml-pull-rtmp-pk1.myco.io/BPL1/hls/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251030%2Fmycolive-Thumb_6jpg-1761822156288.webp&w=3840&q=30" group-title="Channels",Tidpix - Authentically African Movies
 https://api-ott.tidpix.com/loggingmediaurlpassthrough/a.m3u8?version=12\u0026id=10\u0026partner=general_test
-#EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251024%2Fmycolive-saudisunnahTHUMBjpg-1761304579979.webp&w=3840&q=30" group-title="Channels",Saudi Sunnah TV
-https://ml-pull-dvc-myco.io:2096/SAUDI_SUNNAH/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251013%2Fmycolive-CGTNGLOBALjpg-1760344040210.webp&w=3840&q=30" group-title="Channels",Global Biz - CGTN
 https://ml-pull-hwc.myco.io/CGTN6/hls/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251013%2Fmycolive-CHINATRAVELTHUMBjpg-1760343887620.webp&w=3840&q=30" group-title="Channels",China Travel - CGTN
@@ -15,8 +22,6 @@ https://ml-pull-dvc-myco.io:2096/BuyPass_TV/tracks-v1a1/mono.ts.m3u8
 https://ml-pull-dvc-myco.io:2096/GEO_SUPER/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250814%2Fmycolive-4jpg-1755192345133.webp&w=3840&q=30" group-title="Channels",Discover Pakistan
 https://ml-pull-dvc-myco.io:2096/DISCOVER_PAKISTAN/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250814%2Fmycolive-11jpg-1755175677114.webp&w=3840&q=30" group-title="Channels",BBC Lifestyle
-https://ml-pull-dvc-myco.io:2096/BBCLIFESTYLE-FHD/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250814%2Fmycolive-WhatsApp_Image_20250814_at_53344_PMjpeg-1755174841190.webp&w=3840&q=30" group-title="Channels",EPL - PROMO
 https://ml-pull-hwc.myco.io/PROMO/hls/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250804%2Fmycolive-5jpg-1754315196301.webp&w=3840&q=30" group-title="Channels",8XM HD
@@ -37,3 +42,19 @@ https://ml-pull-hwc.myco.io/stream1/hls/stream1.m3u8
 https://ml-pull-dvc-myco.io:2096/CHANNEL_5_NEWS/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-18jpg-1751381198697.webp&w=3840&q=30" group-title="Channels",Time News HD
 https://ml-pull-dvc-myco.io:2096/TIME_NEWS/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-13jpg-1751381222642.webp&w=3840&q=30" group-title="Channels",MUN TV
+https://ml-pull-dvc-myco.io:2096/MUN_TV/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-3jpg-1751381255548.webp&w=3840&q=30" group-title="Channels",Aaj Entertainment
+https://ml-pull-dvc-myco.io:2096/AAJ_ENTERTAINMENT/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-4jpg-1751381286619.webp&w=3840&q=30" group-title="Channels",Aaj News
+https://ml-pull-dvc-myco.io:2096/AAJ_NEWS/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250128%2Fmycolive-cgtnjpg-1738072396919.webp&w=3840&q=30" group-title="Channels",CGTN Documentary
+https://global.cgtn.cicc.media.caton.cloud/master/cgtn-documentary_myco.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-8jpg-1751381422278.webp&w=3840&q=30" group-title="Channels",Mix Bel Araby
+https://ml-pull-hwc.myco.io/MixBelAraby/hls/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-10jpg-1751381447882.webp&w=3840&q=30" group-title="Channels",Mix ONE
+https://ml-pull-hwc.myco.io/MixONE/hls/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251105%2Fmycolive-mix_1jpg-1762353499626.webp&w=3840&q=30" group-title="Channels",Mix TV - Hollywood
+https://ml-pull-hwc.myco.io/MixTV/hls/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20240920%2Fmycolive-thumb2jpg-1726843385402.webp&w=3840&q=30" group-title="Channels",CGTN Arabic
+https://global.cgtn.cicc.media.caton.cloud/master/cgtn-arabic.m3u8
