@@ -1,37 +1,43 @@
 {
   "Author": "Abid",
   "For Update": "DM me on Telegram @MAbidOfficial",
-  "last_update": "15-01-2026 : 07:52:16",
-  "total_links": 16,
+  "last_update": "16-01-2026 : 12:25:57",
+  "total_links": 17,
   "category_counts": {
-    "Live": 4,
+    "Live": 5,
     "Channels": 12
   },
   "categories": {
     "Live": [
       {
-        "url": "https://myco.io/videohome/6967cbf11e8c9a950b141552",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20260114%2Fmycolive-Live-Thumb-1768410097667.webp&w=3840&q=30",
-        "name": "Tanzania vs West Indies | Match 3 | ICC U19 World Cup 2026 | Live on myco",
-        "m3u8_url": "https://ml-pull-dvc-myco.io:2096/ICC_WC_U19/index.m3u8"
+        "url": "https://myco.io/videohome/696901f91e8c9a950b15a1f2",
+        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20260115%2Fmycolive-Live-Watch-Free-Thumb-1768489465455.webp&w=3840&q=30",
+        "name": "Afghanistan vs South Africa | Match 6 | ICC U19 Men's World Cup 2026 | Live on myco",
+        "m3u8_url": "https://ml-pull-rtmp-pk1.myco.io/ICC2/hls/index.m3u8"
       },
       {
-        "url": "https://myco.io/videohome/6967c0a61e8c9a950b13f611",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20260114%2Fmycolive-WhatsApp_Image_2026-01-14_at_10.05.22_PM-1768411067990.webp&w=3840&q=30",
-        "name": "Zimbabwe vs Scotland  | Match 2 | ICC U19 World Cup 2026 | Live on myco",
-        "m3u8_url": "https://ml-pull-dvc-myco.io:2096/ICC_WC_U19/index.m3u8"
+        "url": "https://myco.io/videohome/6968faa986ab0fdc08800fcb",
+        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20260115%2Fmycolive-Watch-Free-Thumb-1768487592736.webp&w=3840&q=30",
+        "name": "Australia vs Ireland | Match 5 | ICC U19 Men's World Cup 2026 | Live on myco",
+        "m3u8_url": "https://ml-pull-rtmp-pk1.myco.io/ICC1/hls/index.m3u8"
       },
       {
-        "url": "https://myco.io/videohome/6967be3186ab0fdc087e67c6",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20260114%2Fmycolive-Live-Thumb-1768406577831.webp&w=3840&q=30",
-        "name": "USA  vs India | Match 1 | ICC U19 World Cup 2026 | Live on myco",
-        "m3u8_url": "https://ml-pull-dvc-myco.io:2096/ICC_WC_U19/index.m3u8"
+        "url": "https://myco.io/videohome/6968f8b386ab0fdc08800cb8",
+        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20260115%2Fmycolive-Watch-Free-Thumb-1768487102126.webp&w=3840&q=30",
+        "name": "Pakistan vs England | Match 4 | ICC U19 Men's World Cup 2026 | Live on myco",
+        "m3u8_url": "https://ml-pull-rtmp-pk1.myco.io/ICC/hls/Index.m3u8"
       },
       {
-        "url": "https://myco.io/videohome/6957e07aed13d39c20adeca1",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20260114%2Fmycolive-jskhsh-1768413279038.webp&w=3840&q=30",
-        "name": "Quarter Finals | Kings World Cup Nations 2026 | Global Football | Live on myco",
-        "m3u8_url": "https://ml-pull-hwc.myco.io/KingCupSRT/hls/index.m3u8"
+        "url": "https://myco.io/videohome/6962a59ca894542bf6847740",
+        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20260115%2Fmycolive-Live-Thumb-1768490571972.webp&w=3840&q=30",
+        "name": "Dhaka Capitals vs Rangpur Riders | Match 27 | BPL 2025-26 | Live on myco",
+        "m3u8_url": "https://ml-pull-rtmp-pk1.myco.io/BPL1/hls/index.m3u8"
+      },
+      {
+        "url": "https://myco.io/videohome/6962a4e5a894542bf6847670",
+        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20260115%2Fmycolive-Live-Ad-Free-Thumb-1768490648547.webp&w=3840&q=30",
+        "name": "AD FREE | Dhaka Capitals vs Rangpur Riders | Match 27 | BPL 2025-26 | Live on myco",
+        "m3u8_url": "https://ml-pull-rtmp-pk1.myco.io/BPL/hls/index.m3u8"
       }
     ],
     "Channels": [
@@ -84,12 +90,6 @@
         "m3u8_url": "https://ml-pull-dvc-myco.io:2096/BuyPass_TV/tracks-v1a1/mono.ts.m3u8"
       },
       {
-        "url": "https://myco.io/videohome/68a0d66883214baa498339b5",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251023%2Fmycolive-Geo_Supre_png-1761237110499.webp&w=3840&q=30",
-        "name": "Geo Super",
-        "m3u8_url": "https://ml-pull-dvc-myco.io:2096/GEO_SUPER/index.m3u8"
-      },
-      {
         "url": "https://myco.io/videohome/689e1c195135d41bf965b7cb",
         "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250814%2Fmycolive-4jpg-1755192345133.webp&w=3840&q=30",
         "name": "Discover Pakistan",
@@ -102,10 +102,16 @@
         "m3u8_url": "https://ml-pull-hwc.myco.io/PROMO/hls/index.m3u8"
       },
       {
-        "url": "https://myco.io/videohome/6890b9bd64c8e4f0ca407ea2",
-        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250804%2Fmycolive-5jpg-1754315196301.webp&w=3840&q=30",
-        "name": "8XM HD",
-        "m3u8_url": "https://ml-pull-dvc-myco.io:2096/8XM_MUSIC/index.m3u8"
+        "url": "https://myco.io/videohome/685babbf23efb8c4f551a9d9",
+        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-7jpg-1751381543101.webp&w=3840&q=30",
+        "name": "Abbtakk News",
+        "m3u8_url": "https://ml-pull-dvc-myco.io:2096/ABBTAK_NEWS/index.m3u8"
+      },
+      {
+        "url": "https://myco.io/videohome/685bab0f8593d91eb46a15be",
+        "image_url": "https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250625%2Fmycolive-CaptialTvjpg-1750838029644.webp&w=3840&q=30",
+        "name": "Capital TV",
+        "m3u8_url": "https://ml-pull-dvc-myco.io:2096/CAPITAL_NEWS/index.m3u8"
       }
     ]
   }
