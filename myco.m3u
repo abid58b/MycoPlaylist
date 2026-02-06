@@ -1,34 +1,33 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20260129%2Fmycolive-WhatsApp_Image_2026-01-29_at_7.08.47_PM-1769696112015.webp&w=3840&q=30" group-title="Live",Semi-Final | 21st Karachi United School Championship | Live on myco
-#EXTVLCOPT:http-referrer=https://myco.io
-https://ml-pull-hwc.myco.io/KUSC/hls/Index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20260129%2Fmycolive-Thumb-Live-Watch-Free-1769688058648.webp&w=3840&q=30" group-title="Live",Pakistan vs Australia | 3rd Match | T20I Series 2026 | only on myco
+#EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20260206%2Fmycolive-sri-lanka-vs-ireland-6th-match-group-b-1770396110717.webp&w=3840&q=30" group-title="Live",Sri Lanka vs Ireland Live Streaming, 6th Match, Group B
 #EXTVLCOPT:http-referrer=https://myco.io
 https://ml-pull-dvc-myco.io:2096/ICC_T20WC/video.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20260129%2Fmycolive-Thumb-Live-Watch-Free-1769686263137.webp&w=3840&q=30" group-title="Live",Pakistan vs Australia | 2nd Match | T20I Series 2026 | only on myco
+#EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20260206%2Fmycolive-england-vs-nepal-5th-match-group-c-1770394249752.webp&w=3840&q=30" group-title="Live",England vs Nepal Live Streaming, 5th Match, Group C
 #EXTVLCOPT:http-referrer=https://myco.io
 https://ml-pull-dvc-myco.io:2096/ICC_T20WC/video.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20260129%2Fmycolive-Thumb-live-Watch-Free-1769677005704.webp&w=3840&q=30" group-title="Live",India vs Pakistan | Super Six | Match 38 | ICC U19 Men's World Cup 2026 | Live on myco
+#EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20260206%2Fmycolive-new-zealand-vs-afghanistan-4th-match-group-d-1770393224860.webp&w=3840&q=30" group-title="Live",New Zealand vs Afghanistan Live Streaming, 4th Match, Group D
 #EXTVLCOPT:http-referrer=https://myco.io
-https://ml-pull-dvc-myco.io:2096/ICC_WC_U19/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20260129%2Fmycolive-Thumb-live-Watch-Free_-1769676214731.webp&w=3840&q=30" group-title="Live",Bangladesh vs Zimbabwe | Super Six | Match 37 | ICC U19 Men's World Cup 2026 | Live on myco
+https://ml-pull-dvc-myco.io:2096/ICC_T20WC/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20260206%2Fmycolive-india-vs-united-states-of-america-3rd-match-group-a-1770391126268.webp&w=3840&q=30" group-title="Live",India vs USA Live Streaming, 3rd Match, Group A
 #EXTVLCOPT:http-referrer=https://myco.io
-https://ml-pull-dvc-myco.io:2096/ICC_WC_U19/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20260128%2Fmycolive-Thumb-Live-Watch-Free-1769617402400.webp&w=3840&q=30" group-title="Live",New Zealand vs England | Super Six | Match 36 | ICC U19 Men's World Cup 2026 | Live on myco
+https://ml-pull-dvc-myco.io:2096/ICC_T20WC/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20260206%2Fmycolive-west-indies-vs-scotland-2nd-match-group-c-1770391886457.webp&w=3840&q=30" group-title="Live",West Indies vs Scotland Live Streaming, 2nd Match, Group C
 #EXTVLCOPT:http-referrer=https://myco.io
-https://ml-pull-rtmp-pk1.myco.io/ICC1/hls/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20260128%2Fmycolive-Thumb-Live-Watch-Free-1769617100457.webp&w=3840&q=30" group-title="Live",Afghanistan vs Ireland | Super Six | Match 35  | ICC U19 Men's World Cup 2026 | Live on myco
+https://ml-pull-dvc-myco.io:2096/ICC_T20WC/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20260206%2Fmycolive-pakistan-vs-netherlands-1st-match-group-a-1770391559978.webp&w=3840&q=30" group-title="Live",Pakistan vs Netherlands Live Streaming, 1st Match, Group A
 #EXTVLCOPT:http-referrer=https://myco.io
+https://ml-pull-dvc-myco.io:2096/ICC_T20WC/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20260206%2Fmycolive-Thumb-Live-1770380454636.webp&w=3840&q=30" group-title="Live",Leeds United vs Nottm Forest | Matchweek - 25 of English Premier League 2025-26
+#EXTVLCOPT:http-referrer=https://myco.io
+https://ml-pull-hwc.myco.io/EPLBONGO1/hls/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20260206%2Fmycolive-DAY_2_live-1770372102738.webp&w=3840&q=30" group-title="Live",Day 2 | Squash | | Windy City Open 2026 | Live on myco
+#EXTVLCOPT:http-referrer=https://myco.io
+https://ml-pull-hwc.myco.io/PSA/hls/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20260204%2Fsamia_admin_account-VWH-GettyImages-2167236934-80e9388d0ca541f7a463c24268f439bc-1770204037548.webp&w=3840&q=30" group-title="Channels",oranges
 https://ml-pull-rtmp-pk1.myco.io/ICC/hls/Index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20260202%2Fmycolive-Screenshot_2026-02-01_231939-1770029516826.webp&w=3840&q=30" group-title="Channels",TEST FEED
+https://cdntest.myco.io/cloudflaretesting/hls/4c9ed184-39ce-44ca-a19c-3ebd56e39027/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20260124%2Fmycolive-Cartoonito-1769261123876.webp&w=3840&q=30" group-title="Channels",Cartoonito
 https://miles.maxott.fun:2096/CARTOONITOFHD/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20260117%2Fsamia_admin_account-American-Heritage-Girls-Trail-Life-USA-banner-1920x440-1768638433543.webp&w=3840&q=30" group-title="Channels",pink panther
-https://ml-pull-rtmp-pk1.myco.io/ICC/hls/v2/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251127%2Fmycolive-33_copy_21-1764254756112.webp&w=3840&q=30" group-title="Channels",Peace TV Urdu
 https://ml-pull-dvc-myco.io:2096/PEACETV-URDU/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251127%2Fmycolive-33_copy_20-1764254602627.webp&w=3840&q=30" group-title="Channels",Peace TV English
-https://ml-pull-dvc-myco.io:2096/PEACETV-ENG/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251030%2Fmycolive-Thumb_6jpg-1761822156288.webp&w=3840&q=30" group-title="Channels",Tidpix - Authentically African Movies
-https://api-ott.tidpix.com/loggingmediaurlpassthrough/a.m3u8?version=12\u0026id=10\u0026partner=general_test
-#EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251024%2Fmycolive-saudisunnahTHUMBjpg-1761304579979.webp&w=3840&q=30" group-title="Channels",Saudi Sunnah TV
-https://ml-pull-dvc-myco.io:2096/SAUDI_SUNNAH/index.m3u8
